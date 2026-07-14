@@ -37,5 +37,6 @@ direct_feeds: []
 max_items_por_query: 25
 horas_de_ventana: 30
 dias_de_memoria: 21
+dias_en_pagina: 5      # cuántos días de noticias se muestran en la página
 modelo: "claude-sonnet-5"
 max_tokens: 16000
