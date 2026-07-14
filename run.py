@@ -218,11 +218,13 @@ def agrupar(items, estado, cfg):
                    .replace("{titulares}", json.dumps(titulares, ensure_ascii=False))
 
     client = Anthropic()  # usa ANTHROPIC_API_KEY del entorno
-    resp = client.messages.create(
+    # streaming: obligatorio para respuestas largas (max_tokens alto)
+    with client.messages.stream(
         model=cfg.get("modelo", "claude-sonnet-5"),
         max_tokens=cfg.get("max_tokens", 8000),
         messages=[{"role": "user", "content": prompt}],
-    )
+    ) as stream:
+        resp = stream.get_final_message()
     texto = "".join(b.text for b in resp.content if getattr(b, "type", "") == "text")
     data = extraer_json(texto)
     return data.get("threads", [])
