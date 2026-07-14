@@ -1,0 +1,46 @@
+Hola. Soy un usuario NO técnico. Necesito que publiques por mí un proyecto que ya
+tengo descargado, haciéndolo vos casi todo. No asumas que sé usar la terminal ni
+git: hacé todo lo que puedas por tu cuenta, y cuando necesites algo que solo yo
+puedo hacer (iniciar sesión, pegar una clave, apretar un botón), dame instrucciones
+exactas paso a paso y esperá mi confirmación antes de seguir.
+
+El proyecto es un "radar de noticias" que descargué como news-radar.zip. Objetivo
+final: que quede publicado en GitHub Pages, corriendo solo UNA VEZ POR DÍA, con una
+URL que yo pueda abrir desde cualquier dispositivo.
+
+Hacé esto en orden, confirmando cada paso:
+
+1) Encontrá la carpeta del proyecto. Descomprimí news-radar.zip si hace falta
+   (mirá en mi carpeta de Descargas / Downloads). Si no la encontrás, preguntame
+   dónde la guardé. Adentro debe haber: run.py, config.yaml, requirements.txt,
+   README.md, una carpeta .github/workflows y una carpeta state.
+
+2) Verificá que estén instalados git, la CLI de GitHub (gh) y python3. Si falta
+   alguno, instalalo vos o decime exactamente cómo hacerlo en mi sistema operativo.
+
+3) Autenticación con GitHub: corré "gh auth login" y guiame en cada opción
+   (GitHub.com, HTTPS, autenticar por navegador). La sesión la inicio yo. Si todavía
+   no tengo cuenta de GitHub, avisame y esperá a que la cree.
+
+4) Creá un repositorio PÚBLICO llamado "news-radar" y subí todos los archivos.
+   Tiene que ser público porque GitHub Pages gratis solo funciona con repos públicos.
+   El repo no contiene ninguna clave, así que es seguro.
+
+5) Cargá mi clave de Anthropic como secreto del repo con
+   "gh secret set ANTHROPIC_API_KEY". Cuando lo corras, pausá y pedime que pegue la
+   clave (la saco de console.anthropic.com -> API Keys). La clave la ingreso yo; no
+   la muestres en pantalla ni la guardes en ningún archivo.
+
+6) Activá GitHub Pages sirviendo desde la rama "main", carpeta "/docs". Intentá
+   hacerlo por línea de comandos (gh api). Si no sale, decime los clics exactos en
+   Settings -> Pages.
+
+7) Ejecutá el workflow una vez para generar el sitio ya mismo (el workflow se llama
+   "Radar de noticias (diario)"; usá "gh workflow run" o la pestaña Actions ->
+   Run workflow). Esperá a que termine (1-2 minutos).
+
+8) Cuando termine, dame la URL final del sitio (algo como
+   https://MI-USUARIO.github.io/news-radar/), confirmame que ya corre solo todos los
+   días, y explicame en una línea cómo cambiar los temas (editar config.yaml).
+
+Si algo falla en cualquier paso, explicámelo en simple y proponé la solución.

@@ -1,0 +1,41 @@
+# ============================================================
+#  Radar de Noticias — configuración
+#  Editá este archivo para agregar/quitar temas y fuentes.
+#  No hace falta tocar el código.
+# ============================================================
+
+titulo_sitio: "Radar de Noticias — Daniel"
+
+# --- Búsquedas en Google News (la fuente principal) ---
+# Cada línea es una búsqueda. Trae notas de TODOS los medios que
+# publiquen sobre ese tema, ya filtrado a Paraguay y en español.
+google_news_queries:
+  # Inmobiliario / construcción
+  - "inmobiliario Paraguay"
+  - "mercado inmobiliario Asunción"
+  - "construcción Paraguay"
+  - "desarrollo inmobiliario Paraguay"
+  # Macroeconomía
+  - "economía Paraguay"
+  - "BCP tasa de interés"
+  - "inflación Paraguay"
+  - "DNIT Paraguay"
+  # Regulación / impuestos / normativa
+  - "impuestos Paraguay"
+  - "normativa Paraguay construcción"
+  - "reglamentación Paraguay"
+  # Política y coyuntura
+  - "gobierno Paraguay"
+  - "Paraguay noticias"
+
+# --- Feeds RSS directos (opcional) ---
+direct_feeds: []
+  # - nombre: "ABC Color"
+  #   url: "https://www.abc.com.py/rss.xml"
+
+# --- Parámetros ---
+max_items_por_query: 25
+horas_de_ventana: 30
+dias_de_memoria: 21
+modelo: "claude-sonnet-5"
+max_tokens: 8000
