@@ -196,6 +196,46 @@ Devolvé SOLO un JSON válido, sin texto adicional ni ```:
 """
 
 
+# Esquema de salida: la API garantiza que la respuesta cumpla esta estructura
+# (structured outputs), así el JSON siempre es válido por más larga que sea.
+ESQUEMA_SALIDA = {
+    "type": "object",
+    "properties": {
+        "threads": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "id": {"type": "string"},
+                    "titulo": {"type": "string"},
+                    "categoria": {"type": "string", "enum": ["Inmobiliario", "Economía", "Agro", "Regulación", "Política", "Deportes", "Otros"]},
+                    "estado": {"type": "string", "enum": ["nuevo", "en curso"]},
+                    "contexto": {"type": "string"},
+                    "hoy": {"type": "string"},
+                    "fuentes": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "titular": {"type": "string"},
+                                "medio": {"type": "string"},
+                                "url": {"type": "string"},
+                            },
+                            "required": ["titular", "medio", "url"],
+                            "additionalProperties": False,
+                        },
+                    },
+                },
+                "required": ["id", "titulo", "categoria", "estado", "contexto", "hoy", "fuentes"],
+                "additionalProperties": False,
+            },
+        },
+    },
+    "required": ["threads"],
+    "additionalProperties": False,
+}
+
+
 def extraer_json(texto):
     texto = texto.strip()
     texto = re.sub(r"^```(json)?", "", texto).strip()
@@ -219,12 +259,16 @@ def agrupar(items, estado, cfg):
 
     client = Anthropic()  # usa ANTHROPIC_API_KEY del entorno
     # streaming: obligatorio para respuestas largas (max_tokens alto)
+    # output_config.format: la API valida el JSON contra ESQUEMA_SALIDA
     with client.messages.stream(
         model=cfg.get("modelo", "claude-sonnet-5"),
         max_tokens=cfg.get("max_tokens", 8000),
+        output_config={"format": {"type": "json_schema", "schema": ESQUEMA_SALIDA}},
         messages=[{"role": "user", "content": prompt}],
     ) as stream:
         resp = stream.get_final_message()
+    if resp.stop_reason == "max_tokens":
+        raise RuntimeError("Respuesta cortada por max_tokens; subí max_tokens en config.yaml")
     texto = "".join(b.text for b in resp.content if getattr(b, "type", "") == "text")
     data = extraer_json(texto)
     return data.get("threads", [])
