@@ -57,12 +57,18 @@ def _norm(txt):
 
 
 def recolectar(cfg):
+    import socket
+    socket.setdefaulttimeout(20)  # que ningún sitio lento cuelgue la corrida
+
     ventana = timedelta(hours=cfg.get("horas_de_ventana", 30))
     ahora = datetime.now(timezone.utc)
     vistos = set()
     items = []
 
     feeds = [("gnews", gnews_url(q)) for q in cfg.get("google_news_queries", [])]
+    # medios seguidos: todo lo que publique ese dominio, vía Google News
+    for dom in cfg.get("medios_seguidos") or []:
+        feeds.append((dom, gnews_url(f"site:{dom}")))
     for d in cfg.get("direct_feeds") or []:
         feeds.append((d.get("nombre", "RSS"), d["url"]))
 
@@ -160,9 +166,10 @@ REGLAS:
 - Escribí un campo "hoy": qué novedad concreta hubo hoy. Con TUS PROPIAS PALABRAS; no copies los titulares textualmente.
 - Si un hilo continúa un tema que ya existe en la MEMORIA, reutilizá su mismo "id" y actualizá el contexto sumando lo nuevo.
 - Si es un tema nuevo, inventá un id corto en minúsculas con guiones (ej: "tasa-interes-bcp").
-- Asigná "categoria": una de [Inmobiliario, Economía, Regulación, Política, Otros].
+- Asigná "categoria": una de [Inmobiliario, Economía, Agro, Regulación, Política, Deportes, Otros].
 - "estado": "en curso" si continúa un hilo de la memoria, "nuevo" si no.
-- Priorizá lo relevante para inmobiliario, construcción, economía y regulación, pero incluí también noticias importantes del país.
+- Priorizá lo relevante para inmobiliario, construcción, economía, finanzas, agro y regulación, pero incluí también noticias importantes del país.
+- En Deportes incluí solo lo destacado (selección paraguaya, torneos importantes, hechos relevantes de los clubes grandes); no cada partido menor.
 - Ignorá titulares irrelevantes, duplicados o puro clickbait.
 - Cada hilo debe incluir sus "fuentes" (los titulares originales con medio y url).
 
@@ -255,18 +262,18 @@ DIAS_ES = ["lunes", "martes", "miércoles", "jueves", "viernes", "sábado", "dom
 MESES_ES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio",
             "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
 
-ORDEN_CAT = ["Inmobiliario", "Economía", "Regulación", "Política", "Otros"]
+ORDEN_CAT = ["Inmobiliario", "Economía", "Agro", "Regulación", "Política", "Deportes", "Otros"]
 
 CSS = """
 :root{--bg:#0d1017;--card:#161b26;--line:#252c3b;--tx:#e8ebf2;--mut:#98a2b5;
 --acc:#5ba3f5;--head1:#101624;--head2:#0d1017;
 --c-inmobiliario:#f2a541;--c-economia:#4ade80;--c-regulacion:#5ba3f5;
---c-politica:#f472b6;--c-otros:#9aa3b2}
+--c-politica:#f472b6;--c-agro:#a3e635;--c-deportes:#c084fc;--c-otros:#9aa3b2}
 @media (prefers-color-scheme: light){
 :root{--bg:#f4f5f8;--card:#ffffff;--line:#dfe3ea;--tx:#1c2230;--mut:#5c6575;
 --acc:#1d6fd6;--head1:#e9edf5;--head2:#f4f5f8;
 --c-inmobiliario:#b26a00;--c-economia:#0f8a3d;--c-regulacion:#1d6fd6;
---c-politica:#c02670;--c-otros:#5c6575}
+--c-politica:#c02670;--c-agro:#4d7c0f;--c-deportes:#7c3aed;--c-otros:#5c6575}
 }
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--tx);

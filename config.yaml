@@ -10,33 +10,83 @@ titulo_sitio: "Radar de Noticias — Daniel"
 # Cada línea es una búsqueda. Trae notas de TODOS los medios que
 # publiquen sobre ese tema, ya filtrado a Paraguay y en español.
 google_news_queries:
-  # Inmobiliario / construcción
+  # Inmobiliario / construcción / infraestructura
   - "inmobiliario Paraguay"
   - "mercado inmobiliario Asunción"
   - "construcción Paraguay"
   - "desarrollo inmobiliario Paraguay"
-  # Macroeconomía
+  - "obras públicas Paraguay"
+  - "infraestructura Paraguay"
+  - "viviendas Paraguay"
+  # Macroeconomía y finanzas
   - "economía Paraguay"
   - "BCP tasa de interés"
   - "inflación Paraguay"
-  - "DNIT Paraguay"
-  # Regulación / impuestos / normativa
+  - "cotización dólar Paraguay"
+  - "inversión extranjera Paraguay"
+  - "créditos bancos Paraguay"
+  - "riesgo país Paraguay grado de inversión"
+  # Impuestos / regulación / licitaciones
   - "impuestos Paraguay"
+  - "DNIT Paraguay"
   - "normativa Paraguay construcción"
   - "reglamentación Paraguay"
+  - "licitación Paraguay"
+  # Empresas / negocios
+  - "empresas Paraguay inversión"
+  - "maquila Paraguay"
+  - "zona franca Paraguay"
+  - "startups Paraguay emprendedores"
+  - "empleo salario Paraguay"
+  # Agro / energía / comercio exterior
+  - "exportaciones Paraguay"
+  - "soja Paraguay"
+  - "ganadería carne Paraguay"
+  - "agronegocios Paraguay"
+  - "Itaipú energía Paraguay"
+  - "Mercosur Paraguay"
   # Política y coyuntura
   - "gobierno Paraguay"
+  - "congreso Paraguay ley"
+  - "Santiago Peña"
   - "Paraguay noticias"
+  # Deportes (lo principal viene de los medios deportivos de abajo)
+  - "fútbol paraguayo"
 
-# --- Feeds RSS directos (opcional) ---
-direct_feeds: []
-  # - nombre: "ABC Color"
-  #   url: "https://www.abc.com.py/rss.xml"
+# --- Medios seguidos vía Google News ---
+# De estos sitios se trae TODO lo que publiquen (no solo lo que
+# coincida con las búsquedas de arriba). Solo poné el dominio.
+medios_seguidos:
+  - forbes.com.py           # Forbes Paraguay
+  - 5dias.com.py            # 5días
+  - infonegocios.com.py     # InfoNegocios Paraguay
+  - revistaplus.com.py      # Revista PLUS
+  - foco.lanacion.com.py    # Revista FOCO (Real Estate, La Nación)
+  - launion.com.py          # La Unión R800
+  - paraguay.com            # Paraguay.com
+  - ea.net.py               # E'a (periodismo de investigación)
+  - tigosports.com.py       # Tigo Sports
+  - d10.ultimahora.com      # D10 (deportes, Última Hora)
+
+# --- Feeds RSS directos (se leen tal cual del sitio) ---
+direct_feeds:
+  - nombre: "MarketData"
+    url: "https://marketdata.com.py/feed"
+  - nombre: "La Tribuna"
+    url: "https://www.latribuna.com.py/arc/outboundfeeds/rss/?outputType=xml"
+  - nombre: "El Inmobiliario"
+    url: "https://www.elinmobiliario.com.py/blog-feed.xml"
+  - nombre: "El Nacional"
+    url: "https://elnacional.com.py/feed/"
+  - nombre: "Vanguardia (CDE)"
+    url: "https://www.vanguardia.com.py/feed"
+  - nombre: "APF"
+    url: "https://www.apf.org.py/rss"
 
 # --- Parámetros ---
-max_items_por_query: 25
+max_items_por_query: 15
 horas_de_ventana: 30
 dias_de_memoria: 21
 dias_en_pagina: 5      # cuántos días de noticias se muestran en la página
 modelo: "claude-sonnet-5"
-max_tokens: 16000
+max_tokens: 32000
