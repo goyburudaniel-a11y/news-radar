@@ -171,7 +171,7 @@ REGLAS:
 - Priorizá lo relevante para inmobiliario, construcción, economía, finanzas, agro y regulación, pero incluí también noticias importantes del país.
 - En Deportes incluí solo lo destacado (selección paraguaya, torneos importantes, hechos relevantes de los clubes grandes); no cada partido menor.
 - Ignorá titulares irrelevantes, duplicados o puro clickbait.
-- Cada hilo debe incluir sus "fuentes" (los titulares originales con medio y url).
+- En "fuentes" poné SOLO los números (campo "n") de los titulares que forman el hilo, ej: [3, 17, 42]. NO copies los textos ni las urls.
 
 Devolvé SOLO un JSON válido, sin texto adicional ni ```:
 {
@@ -183,7 +183,7 @@ Devolvé SOLO un JSON válido, sin texto adicional ni ```:
       "estado": "nuevo|en curso",
       "contexto": "...",
       "hoy": "...",
-      "fuentes": [{"titular":"...","medio":"...","url":"..."}]
+      "fuentes": [3, 17, 42]
     }
   ]
 }
@@ -214,16 +214,7 @@ ESQUEMA_SALIDA = {
                     "hoy": {"type": "string"},
                     "fuentes": {
                         "type": "array",
-                        "items": {
-                            "type": "object",
-                            "properties": {
-                                "titular": {"type": "string"},
-                                "medio": {"type": "string"},
-                                "url": {"type": "string"},
-                            },
-                            "required": ["titular", "medio", "url"],
-                            "additionalProperties": False,
-                        },
+                        "items": {"type": "integer"},
                     },
                 },
                 "required": ["id", "titulo", "categoria", "estado", "contexto", "hoy", "fuentes"],
@@ -250,9 +241,11 @@ def agrupar(items, estado, cfg):
     from anthropic import Anthropic
 
     memo = memoria_reciente(estado, cfg.get("dias_de_memoria", 21))
+    # se numeran los titulares; el modelo referencia por número y acá
+    # reconstruimos titular/medio/url (respuestas mucho más cortas)
     titulares = [
-        {"titular": it["titular"], "medio": it["medio"], "url": it["url"], "resumen": it["resumen"]}
-        for it in items
+        {"n": i, "titular": it["titular"], "medio": it["medio"], "resumen": it["resumen"]}
+        for i, it in enumerate(items)
     ]
     prompt = PROMPT.replace("{memoria}", json.dumps(memo, ensure_ascii=False)) \
                    .replace("{titulares}", json.dumps(titulares, ensure_ascii=False))
@@ -271,7 +264,14 @@ def agrupar(items, estado, cfg):
         raise RuntimeError("Respuesta cortada por max_tokens; subí max_tokens en config.yaml")
     texto = "".join(b.text for b in resp.content if getattr(b, "type", "") == "text")
     data = extraer_json(texto)
-    return data.get("threads", [])
+    threads = data.get("threads", [])
+    for t in threads:
+        t["fuentes"] = [
+            {"titular": items[n]["titular"], "medio": items[n]["medio"], "url": items[n]["url"]}
+            for n in t.get("fuentes", [])
+            if isinstance(n, int) and 0 <= n < len(items)
+        ]
+    return threads
 
 
 def fusionar(estado, threads_hoy):
