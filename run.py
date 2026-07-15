@@ -110,12 +110,28 @@ def recolectar(cfg):
                 m = re.search(r" - ([^-]+)$", titulo)
                 medio = m.group(1).strip() if m else etiqueta
             resumen = re.sub(r"<[^>]+>", "", e.get("summary", ""))[:300]
+            # imagen del feed, si la trae (feeds directos suelen incluirla)
+            imagen = ""
+            if e.get("media_content"):
+                imagen = e["media_content"][0].get("url", "")
+            if not imagen and e.get("media_thumbnail"):
+                imagen = e["media_thumbnail"][0].get("url", "")
+            if not imagen:
+                for enc in e.get("enclosures", []):
+                    if "image" in (enc.get("type") or ""):
+                        imagen = enc.get("href", "")
+                        break
+            if not imagen:
+                m = re.search(r'<img[^>]+src=["\']([^"\']+)', e.get("summary", ""))
+                if m:
+                    imagen = m.group(1)
             items.append({
                 "titular": titulo,
                 "medio": medio,
                 "url": link,
                 "resumen": resumen,
                 "fecha": pub.isoformat() if pub else "",
+                "imagen": imagen,
             })
     print(f"  recolectadas {len(items)} notas únicas")
     return items
@@ -274,13 +290,61 @@ def agrupar(items, estado, cfg):
     return threads
 
 
+def imagen_de_articulo(url):
+    """Devuelve la imagen (og:image) del artículo. Descifra links de Google News."""
+    import requests
+    ua = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
+    try:
+        if "news.google.com" in url:
+            from googlenewsdecoder import gnewsdecoder
+            res = gnewsdecoder(url, interval=1)
+            if not res.get("status"):
+                return ""
+            url = res["decoded_url"]
+        r = requests.get(url, headers=ua, timeout=15)
+        m = re.search(r'(?:property|name)=["\'](?:og:image|twitter:image)["\'][^>]*content=["\']([^"\']+)', r.text) or \
+            re.search(r'content=["\']([^"\']+)["\'][^>]*(?:property|name)=["\'](?:og:image|twitter:image)["\']', r.text)
+        if m:
+            img = html.unescape(m.group(1)).strip()
+            if img.startswith("http"):
+                return img
+    except Exception as e:
+        print(f"    ! sin imagen para {url[:60]}: {type(e).__name__}")
+    return ""
+
+
+def elegir_imagenes(threads_hoy, items, max_busquedas=30):
+    """Asigna a cada hilo la imagen de una de sus fuentes.
+
+    Primero usa la imagen que ya vino en el feed; si ninguna fuente la
+    trae, visita el artículo (hasta `max_busquedas` visitas por corrida
+    para no alargar demasiado la ejecución)."""
+    por_url = {it["url"]: it.get("imagen", "") for it in items}
+    buscadas = 0
+    for t in threads_hoy:
+        fuentes = t.get("fuentes", [])
+        img = next((por_url.get(f["url"], "") for f in fuentes if por_url.get(f["url"])), "")
+        if not img:
+            for f in fuentes[:2]:
+                if buscadas >= max_busquedas:
+                    break
+                buscadas += 1
+                img = imagen_de_articulo(f["url"])
+                if img:
+                    break
+        t["imagen"] = img
+    print(f"  imágenes: {sum(1 for t in threads_hoy if t.get('imagen'))}/{len(threads_hoy)} hilos ({buscadas} visitas)")
+    return threads_hoy
+
+
 def fusionar(estado, threads_hoy):
     """Actualiza la memoria con los hilos de hoy."""
     hoy = datetime.now(TZ_PY).strftime("%Y-%m-%d")
     for t in threads_hoy:
         tid = t["id"]
         prev = estado["threads"].get(tid)
-        update = {"date": hoy, "hoy": t.get("hoy", ""), "fuentes": t.get("fuentes", [])}
+        update = {"date": hoy, "hoy": t.get("hoy", ""), "fuentes": t.get("fuentes", []),
+                  "imagen": t.get("imagen", "")}
         if prev:
             prev["titulo"] = t.get("titulo", prev["titulo"])
             prev["categoria"] = t.get("categoria", prev.get("categoria", ""))
@@ -342,8 +406,11 @@ background:transparent;color:var(--mut);cursor:pointer;font-family:inherit}
 .dayhead .rel{color:var(--acc)}
 .dayhead .n{color:var(--mut);font-size:12.5px;font-weight:400}
 .dayhead::after{content:"";flex:1;height:1px;background:var(--line);align-self:center}
+.grid{columns:2 300px;column-gap:12px}
 .card{background:var(--card);border:1px solid var(--line);border-radius:14px;
-padding:16px 18px;margin-bottom:12px}
+padding:16px 18px;margin-bottom:12px;break-inside:avoid}
+.thumb{width:calc(100% + 36px);margin:-16px -18px 12px;height:160px;object-fit:cover;
+border-radius:13px 13px 0 0;display:block;background:var(--line)}
 .meta{display:flex;gap:8px;align-items:center;margin-bottom:7px;flex-wrap:wrap}
 .chip{font-size:11px;font-weight:600;letter-spacing:.05em;text-transform:uppercase;
 padding:3px 9px;border-radius:20px;color:var(--catc,var(--mut));
@@ -433,8 +500,17 @@ def _card(tid, t, u, fecha_dia, es_hoy):
     else:
         detalle = f"<details><summary>Contexto</summary>{contexto}{evo}</details>"
 
+    # imagen: la de esta actualización, o la más reciente que tenga el hilo
+    img_url = u.get("imagen", "")
+    if not img_url:
+        con_img = [x for x in t.get("updates", []) if x.get("imagen")]
+        if con_img:
+            img_url = sorted(con_img, key=lambda x: x["date"], reverse=True)[0]["imagen"]
+    thumb = (f'<img class="thumb" src="{esc(img_url)}" alt="" loading="lazy" '
+             f'onerror="this.remove()">') if img_url else ""
+
     return f"""<article class="card" data-cat="{esc(cat)}" style="--catc:var({var_cat})">
-<div class="meta"><span class="chip">{esc(cat)}</span>{badge}</div>
+{thumb}<div class="meta"><span class="chip">{esc(cat)}</span>{badge}</div>
 <h3>{esc(t.get('titulo', ''))}</h3>
 <p class="hoy">{esc(u.get('hoy', ''))}</p>
 {detalle}
@@ -481,7 +557,7 @@ def generar_sitio(estado, cfg):
         cuerpo = "".join(_card(tid, t, u, d_str, i == 0) for tid, t, u in tarjetas)
         secciones.append(f"""<section class="day">
 <div class="dayhead"><h2>{etiqueta}</h2><span class="n">{n} tema{"s" if n != 1 else ""}</span></div>
-{cuerpo}
+<div class="grid">{cuerpo}</div>
 </section>""")
 
     cats_orden = [c for c in ORDEN_CAT if c in cats_presentes]
@@ -542,6 +618,9 @@ def main():
         print("2) agrupando con Claude...")
         threads_hoy = agrupar(items, estado, cfg)
         print(f"  {len(threads_hoy)} hilos")
+
+        print("2b) buscando imágenes...")
+        threads_hoy = elegir_imagenes(threads_hoy, items)
 
         print("3) actualizando memoria...")
         estado = fusionar(estado, threads_hoy)

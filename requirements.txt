@@ -4,3 +4,4 @@ anthropic>=0.116
 PyYAML>=6.0
 python-dotenv>=1.0
 python-dateutil>=2.8
+googlenewsdecoder>=0.1.7
