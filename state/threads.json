@@ -47,9 +47,9 @@
     "puente-bioceanica": {
       "titulo": "Puente de la Bioceánica: se prepara el cierre simbólico de la losa",
       "categoria": "Inmobiliario",
-      "contexto": "El Puente de la Bioceánica es una obra clave del Corredor Bioceánico que conecta Paraguay con Brasil y Chile, en construcción desde hace cuatro años y liderada por el MOPC, con impacto directo en el desarrollo del Chaco y el Alto Paraguay. Conecta Porto Murtinho (Brasil) con el lado paraguayo y tiene apertura prevista para 2027. Recientemente se unieron los dos extremos de la estructura.",
+      "contexto": "El Puente de la Bioceánica es una obra clave del Corredor Bioceánico que conecta Paraguay con Brasil y Chile, en construcción desde hace cuatro años y liderada por el MOPC, con impacto directo en el desarrollo del Chaco y el Alto Paraguay. Conecta Porto Murtinho (Brasil) con el lado paraguayo y tiene apertura prevista para 2027.",
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-07-25",
       "updates": [
         {
           "date": "2026-07-14",
@@ -166,6 +166,18 @@
             }
           ],
           "imagen": "https://www.lanacion.com.py/resizer/v2/CO4MF5AAJFDTPBQD5ZNS4GEGJA.jpg?auth=22216e8ee8d6f230391e52294046711dda4ae9fb87dd351a510a25d2b47f07a7&width=1024&height=512&smart=true"
+        },
+        {
+          "date": "2026-07-25",
+          "hoy": "Se destaca que el puente busca convertir a Paraguay en un nuevo eje logístico de Sudamérica.",
+          "fuentes": [
+            {
+              "titular": "Puente Bioceánico apunta convertir a Paraguay en nuevo eje de Sudamérica - latribuna.com.py",
+              "medio": "latribuna.com.py",
+              "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeWZ1Wk9GdmtXYVBRSXdNVGlEOUR5R0xHbEFzMlNKRzJHRmxFMk9LQ1dBUndUVDVFdVUwV3dManBUUjI3MDRZZlJrV3JRb3BZTGdkS2FMazhOaUljTUV6NDZBc3NGaVc1RDZLVmhaYk9tV2doT1FiaHF0STFtVFUwQ3lxYTFLd0lXZGpGNXFCSHlyU1FzVGM5X0l6WE9QNFhWTGphcWRhWlFkTjI0R3RDQ0lkeGRVdk5Ec0VrWl9WRXF1c29TNWViOUE2cw?oc=5"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/RTPHWZURKNC6LDNAY6AP5QBY44.JPG?smart=true&auth=77ad2a1090cebed62a3d89d8ac5bd1c6a04d01268f46b337f2591540c5884f4e&width=1200&height=630"
         }
       ]
     },
@@ -765,7 +777,7 @@
       "categoria": "Política",
       "contexto": "Paraguay reconoce diplomáticamente a Taiwán y no a China, lo que genera tensiones; el Gobierno denunció ciberataques contra sistemas estatales atribuidos a China, en medio de la expansión de la red 5G en el país.",
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-23",
+      "last_seen": "2026-07-25",
       "updates": [
         {
           "date": "2026-07-14",
@@ -914,6 +926,18 @@
             }
           ],
           "imagen": "https://statics.elnacional.com.py/2025/05/6822531f2d292.jpg"
+        },
+        {
+          "date": "2026-07-25",
+          "hoy": "Un especialista en ciberseguridad alertó sobre la grave vulnerabilidad cibernética del Estado paraguayo y reclamó medidas urgentes para resguardar la soberanía digital de instituciones, empresas y ciudadanos.",
+          "fuentes": [
+            {
+              "titular": "Experto alerta sobre grave inseguridad cibernética en Paraguay y reclama medidas urgentes",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/nacionales/experto-alerta-sobre-grave-inseguridad-cibernetica-paraguay-reclama-medidas-urgentes-n109464"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2024/12/ec34eb99ee325cc5e05d1a18185a26ca.jpg"
         }
       ]
     },
@@ -922,7 +946,7 @@
       "categoria": "Economía",
       "contexto": "El crecimiento económico e industrial de Paraguay ha incrementado la demanda energética, generando preocupación sobre la capacidad de generación y transmisión disponible, incluso con la exploración de nuevas fuentes como el gas.",
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-07-25",
       "updates": [
         {
           "date": "2026-07-14",
@@ -985,6 +1009,18 @@
             }
           ],
           "imagen": "https://statics.elnacional.com.py/2026/07/6a5f06a883444.png"
+        },
+        {
+          "date": "2026-07-25",
+          "hoy": "Expertos advirtieron que la energía 'infinita' que exportaba el país se agotará en unos tres años si no se abre el sector a nuevas inversiones.",
+          "fuentes": [
+            {
+              "titular": "Urge apertura del sector energético: advierten que la energía “infinita” se acaba en tres años - abc.com.py",
+              "medio": "abc.com.py",
+              "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeDdpQ2hsSEtpWTIwNk9LeFhuenBvb0hQSFVyZl9NWDhDdjA4bVJjYXNZVEFRVnJScHlqd1VSa1hkWlRPT3hiQXBkNktoNTlvTlViWkxDRHhhZGFUejJfNmZkZzhEdXJoYW5XanYxUENWQ0pMSEtPTG1PVHAyZ2dpMTlJdHc0QTQ4YTNSaEhXT01NY3NZeElwZW51ZFdMSXR2MVh6c3hESDZ0ZzZEY3gxajN3cmJ2WVhvemx2MS1XdkM1cW5FMjJDNjNfQU0zaWFq0gHkAUFVX3lxTE5PV3FqRmVJbW1NUGpLREROakVFT3cwQmJqOGU1aUxQTG84RjB6blBVV3JtbDhzcmFUTUNkTnRXTlkxb0J0aGlReXVQUWFVVEZ2S1JtVDVIWXJRTTN2cUp0cGlsMEx5R3JRemFWbmxNcXJVT240dVJGcEZGNDYwaGdSZFhHWnpZZGNIYnBTX1pQUnFEcUZBRnVQWVRKSlVISnlaWWxXdFBBTnJlenktTWJfWXpldE94UUlkZ1g2dFNJZDJTUTJyUnVzUl8td25HTTVZYnJta21JOU01RmFCV3c0dGdDdA?oc=5"
+            }
+          ],
+          "imagen": "https://www.abc.com.py/resizer/v2/65V7JFYJRVCXHDQLM2ATPLFCWQ.jpg?auth=075b810ed0da6e891364eb61406061b808b78361b5194ce10c04805af69ce27d&width=770&smart=true"
         }
       ]
     },
@@ -1759,7 +1795,7 @@
       "categoria": "Deportes",
       "contexto": "Tim Payne es un futbolista que se hizo viral en redes sociales durante el Mundial y despertó interés de clubes tras el torneo.",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-25",
       "updates": [
         {
           "date": "2026-07-15",
@@ -1794,6 +1830,18 @@
             }
           ],
           "imagen": "https://diario-app.tadevel-cdn.com/hostname/www.diarioregistrado.com/api/v1/image/article/6a5678c873b2e6c5544068a8/facebook?v=eb2533297645a44e1203d2ab1265ffc2&s=9a36bc3040017321dac98441dc17390e"
+        },
+        {
+          "date": "2026-07-25",
+          "hoy": "Trascendieron declaraciones sobre el estado físico actual de Tim Payne en Olimpia.",
+          "fuentes": [
+            {
+              "titular": "Lo que dijo 'Vitamina' sobre el estado de Tim Payne - VS Sports",
+              "medio": "VS Sports",
+              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUjQ4MUZlblJiU3l4QXZmS1k1TTNDcVRiWW9qdTlSM2ZOa2otSzAxUnpWanVzZjhFYVNDYk1teG9BMzBnbmdKdXFJUWxuc1dYQXZmOGh2STBSeEViSTJFUjUtTTNQVTJlUDhVWExTVmY3S3ZmRUxaOTdYOFN5QmFTa2gwSjhYRGR3VVdPNmVtMGFfaDlGSDQ2UW5ITQ?oc=5"
+            }
+          ],
+          "imagen": "https://versuspy2.fra1.cdn.digitaloceanspaces.com/versus/wp-content/uploads/2026/07/24132415/Captura-de-Pantalla-2026-07-24-a-las-13.24.02.png"
         }
       ]
     },
@@ -3016,7 +3064,7 @@
       "categoria": "Regulación",
       "contexto": "Varios países de la región vienen actualizando sus requisitos de documentación biométrica para el ingreso y salida de personas.",
       "first_seen": "2026-07-16",
-      "last_seen": "2026-07-23",
+      "last_seen": "2026-07-25",
       "updates": [
         {
           "date": "2026-07-16",
@@ -3077,6 +3125,18 @@
             }
           ],
           "imagen": "https://www.cronista.com/resizer/v2/MJTSATZB2JCLRCBEWVMTRRBULA.png?auth=83774a940902d237d78edf22edb6eec371362f35660e25c4b1166f892d9d9031&height=630&width=1200&quality=70&focal=843%2C365"
+        },
+        {
+          "date": "2026-07-25",
+          "hoy": "Se confirmó oficialmente que Estados Unidos, Paraguay y Colombia bloquean el ingreso y la salida del país a quienes demoraron la renovación de su pasaporte biométrico.",
+          "fuentes": [
+            {
+              "titular": "Oficial | Estados Unidos, Paraguay y Colombia prohíben el ingreso y la salida del país a quienes demoraron la renovación del pasaporte - El Cronista",
+              "medio": "El Cronista",
+              "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOeENBY3NSS3FLUzNTSy1wNEtKUU5wY2ZaVUlhbGRsQkR3cnFiN09hRG9ZOFFQYkdWLTlvQWpkQjhUcFFlc0tqU3lqTjc3bnpRQ25fdndGOVB2NEY3V1pEamxNX2t2UC1ab3hGMWY2Q2dnb0hDZ2RjazNVSFpxWWFuUnAwS2VtTmh5bHNIRlRGSFI0dTk2ZnN3Uzl5YU1jRDEzUG1ZYkdaSTMya0Fyd0pPc29Vclg4RUJQZVE2akR1U0lLTkFETk1SUm9FUEp2TVVwN2I5Tk5MR0hJcWgybDB5LTNuZUtNZ1Exa3dHNm5DZDhleGpoMndwZFJYNko1UHPSAZoCQVVfeXFMT3hHaExiNllLd1V2RzhLcUh2OTlsZHM0VkVhNk9lMUhBUkNDOVI5U2FtNDYzSGNFQWx3czRJdEtpRnR1Um1ITVpjNWppVllxUmdkUUhQOUZ2WWx1MzBRRXBhQWRIYWZtcVpFWUk4Y1poejdsX05rbXhwdFFtbldHVlVIRy1xbGw3WEllc2wwRXJPdXgwSzNOczJPb2ZjT1Yybm9ucUtzV2h6MTk2WHpSQldCeUFsRjRELVo1TG0wWF9ycVBXVl9MaUpiam8tMlJNbXFjZVA0UlVHeFQzN3hxU0w0M282dkpYeTIzX2paU1RSME9VU2QtQzhfM2J3OVhtcmZfNjNoS3RVa1UyRXk3dlEtTW9seGVmbVFn?oc=5"
+            }
+          ],
+          "imagen": "https://www.cronista.com/resizer/v2/CWBWMEVZQ5EHJMGRGHJQW6N7OM.png?auth=51a6f17d731382e5cfb81154ae6f0859a1e814747b27d2681bec960bd5187d84&height=630&width=1200&quality=70&smart=true"
         }
       ]
     },
@@ -3085,7 +3145,7 @@
       "categoria": "Deportes",
       "contexto": "Olimpia viene reforzando su plantel en el mercado de pases, buscando incorporar jugadores para la lateral izquierda.",
       "first_seen": "2026-07-16",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-25",
       "updates": [
         {
           "date": "2026-07-16",
@@ -3103,6 +3163,18 @@
             }
           ],
           "imagen": "https://statics.elnacional.com.py/2026/07/6a57c6ccb2031.jpg"
+        },
+        {
+          "date": "2026-07-25",
+          "hoy": "Tras descartarse el fichaje de Zúñiga, Olimpia apunta ahora a otro lateral chileno.",
+          "fuentes": [
+            {
+              "titular": "¡Lateral a la vista! Zúñiga no, pero sí apuntado otro chileno",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/deportes/2026/07/25/lateral-a-la-vista-zuniga-no-pero-si-apuntado-otro-chileno/"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/JCCHULLRTNFC5IC3DNI4B6AW2Y.jpg?auth=2165bc0104346d6d22472d5e40979ac0accf60ce0fb9146eb64318a77a577913&smart=true&width=4619&height=2598"
         }
       ]
     },
@@ -3231,7 +3303,7 @@
       "categoria": "Deportes",
       "contexto": "Paraguay es sede de una fecha del Campeonato Mundial de Rally (WRC), un evento deportivo internacional que además genera un fuerte impacto turístico y económico en el interior del país.",
       "first_seen": "2026-07-17",
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-07-25",
       "updates": [
         {
           "date": "2026-07-17",
@@ -3261,6 +3333,18 @@
             }
           ],
           "imagen": "https://www.lanacion.com.py/resizer/v2/OBFITL25HBH3HBRAPDKW73QF3A.jpg?auth=7d3b6f34ca09d54a647a45ca180a05473f9e217b672112d6d4f60d83b6365222&width=1024&height=512&smart=true"
+        },
+        {
+          "date": "2026-07-25",
+          "hoy": "Embajadores del Rally del Paraguay conocieron novedades de cara a la próxima edición del evento.",
+          "fuentes": [
+            {
+              "titular": "Embajadores del ueno Rally del Paraguay conocieron novedades",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/lifestyle/sociales/2026/07/25/embajadores-del-ueno-rally-del-paraguay-conocieron-novedades/"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/NFWGJEFXWRCUDGTCI62YYLT2RA.jpg?auth=68f0faf350b02368c7a9ea8b3423202d58118fed57583f1eb708a1c2cf377d65&smart=true&width=6000&height=4000"
         }
       ]
     },
@@ -3654,7 +3738,7 @@
       "categoria": "Regulación",
       "contexto": "El Ministerio de Industria y Comercio regula el contenido de biocombustibles en los combustibles fósiles vendidos en el país, buscando fomentar la industria nacional de biodiésel.",
       "first_seen": "2026-07-17",
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-07-25",
       "updates": [
         {
           "date": "2026-07-17",
@@ -3691,6 +3775,18 @@
             }
           ],
           "imagen": "https://statics.elnacional.com.py/2025/09/68d84fa27a4be.jpeg"
+        },
+        {
+          "date": "2026-07-25",
+          "hoy": "El MIC flexibilizó el esquema de aplicación del biodiésel pero mantuvo el objetivo de elevar la mezcla mínima obligatoria al 7% en el gasoil hasta fin de año.",
+          "fuentes": [
+            {
+              "titular": "MIC flexibiliza aplicación del biodiésel, pero mantiene el plan de incrementar la mezcla en el gasoil",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/economia/mic-flexibiliza-aplicacion-biodiesel-pero-mantiene-plan-incrementar-mezcla-gasoil-n109497"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2026/05/6a1707dd71fbd.jpg"
         }
       ]
     },
@@ -3741,7 +3837,7 @@
       "categoria": "Deportes",
       "contexto": "El mercado de pases del fútbol paraguayo está en pleno movimiento de cara al Torneo Clausura 2026, con clubes grandes definiendo refuerzos.",
       "first_seen": "2026-07-17",
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-07-25",
       "updates": [
         {
           "date": "2026-07-17",
@@ -3911,6 +4007,28 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/ANJP5F7PBBAZRBP632HQG2KFQ4.jpg?auth=4418f3fcdfa81fc1be0e27b2cdeb6ea4ab565a8e3d8fbc3a044f681308b8c009&smart=true&width=4619&height=2598"
+        },
+        {
+          "date": "2026-07-25",
+          "hoy": "Se conocieron nuevos movimientos del mercado de pases, incluyendo el caso de un jugador que se esperaba en Aldosivi pero terminó fichando por Guaraní, y un futbolista paraguayo que convirtió el primer gol de la fecha en el fútbol argentino.",
+          "fuentes": [
+            {
+              "titular": "¡Libertad hace oficial su cuarto fichaje! - VS Sports",
+              "medio": "VS Sports",
+              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUE1fZFV2eUE1eDhTZEFReXgxWGlvd2xTekJmT0tvWDNYSjZRc2pZb19PVXoyOXhfb1J4dndGRkFKM2FNcUtxQWNuVlJlY05iSng1RlRZMFhqNEFvbjlWTTNJR0p4UUNIYW44ZDN0ZmtxQ1Faa0w2cnZ5SmhxMEtsTFR2X2JtNTA4cUpqYkhR?oc=5"
+            },
+            {
+              "titular": "Primer gol en Argentina corre por cuenta de un paraguayo - VS Sports",
+              "medio": "VS Sports",
+              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQemJTUWFjbG05TDdXbGJ3UUpOWHFZMjVrNFlZQTRrRnFiRnktcW9jSmVZaHR3Yi1MbFRWWERWdTJZQ3NhUk5UdGt1TmJBelBMS1VZWUlUVjVmQzBrOUtYRlpndmF4N0FXbk9YRVVlcjJqdkt0WGpxelVzcFpmRUR3djJrUG1GNnhLU3ozeGRZVE9ub1c0X2dQMVlB?oc=5"
+            },
+            {
+              "titular": "“Me dijo que se iba a Aldosivi y apareció en Guaraní”",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/deportes/2026/07/25/me-dijo-que-se-iba-a-aldosivi-y-aparecio-en-guarani/"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/2OE6KQFQZFDW7LZE5EQ73XWNMQ.jpeg?auth=afbd13a97065280bc1b4c775fe4fbde31d663bb7c10f1ed4f9a7313dd7b01557&smart=true&width=567&height=370"
         }
       ]
     },
@@ -4644,7 +4762,7 @@
       "categoria": "Economía",
       "contexto": "El guaraní viene mostrando una fortaleza relativa frente al dólar en el mercado paraguayo, en un contexto de solidez macroeconómica y superávit comercial sostenido.",
       "first_seen": "2026-07-19",
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-07-25",
       "updates": [
         {
           "date": "2026-07-19",
@@ -4689,6 +4807,18 @@
             }
           ],
           "imagen": "https://www.clarin.com/img/2020/02/03/XTufI4c7_1256x620__1.jpg"
+        },
+        {
+          "date": "2026-07-25",
+          "hoy": "Se difundió la cotización del dólar en Paraguay correspondiente a este sábado 25 de julio.",
+          "fuentes": [
+            {
+              "titular": "Dólar hoy en Paraguay: precio y cotización de la divisa este sábado 25 de julio de 2026 - Clarin.com",
+              "medio": "Clarin.com",
+              "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRXpPYTdQOUdDaUpwVTRCLThINnhtSUhFYUd2R2dGR2JpYUhlTFJueXpFdzNHTmVQNU1fbGl6Sm12OWZ0ejFXaEVKSnF4WkFBOWN1aU12U0JncnVGRnFWejFnQTVCcHFxeVp5WHdsenNmdDhTQXN3SU53OE5QeHhBd0dCanhBcFNvdnU0UjVmci1kWUFISE1mdm1mYzFUZDBsZEczVmlqT2hJSHpkSTdSaXV4YUU0RzNJTDZnQnVIMzNJTUstZ1h0bGhJbVBCSEh2c2fSAdcBQVVfeXFMTV96VkFpUTN5amxoWVZmcFR5WGg2Q2dzemlZOXVBb0taT1JzRTF1N0dtUmdqU3dYd3oyNTlKQlJlNnJKVzM3VnNfOXh0bF9ZRHRJeXo4d2F5U3RRek5LLWZiQ1EyNHB0TTFOb2tFaVdOQ1ZFRXkycy1zdmxIUDdEclNnNUpJUFptc0tEN2k0MHVkVnB1blZ0OHZLWmh0dl9fbDE3NVB4ZW55NU9GbTBLYXcwbE5hRVhaaGJZSUY2Nll2dDVCQTFHdmt4MDZPX0oxNDExejV5bkE?oc=5"
+            }
+          ],
+          "imagen": "https://www.clarin.com/img/2020/03/04/XTskgx7L_1256x620__1.jpg"
         }
       ]
     },
@@ -4730,7 +4860,7 @@
       "categoria": "Agro",
       "contexto": "Paraguay es uno de los principales exportadores de carne bovina de la región, y viene gestionando la apertura de nuevos mercados mientras dentro del Mercosur crece la disputa por la distribución de cuotas de exportación hacia la Unión Europea.",
       "first_seen": "2026-07-20",
-      "last_seen": "2026-07-23",
+      "last_seen": "2026-07-25",
       "updates": [
         {
           "date": "2026-07-20",
@@ -4879,6 +5009,18 @@
             }
           ],
           "imagen": "https://cdn.rcc.com.py/2026/07/CARNE-VACUNA2.jpg"
+        },
+        {
+          "date": "2026-07-25",
+          "hoy": "El campo paraguayo reclamó un trato igualitario en el reparto de las cuotas de exportación de carne hacia la UE.",
+          "fuentes": [
+            {
+              "titular": "El campo paraguayo exige un trato igualitario en las cuotas con la UE - latribuna.com.py",
+              "medio": "latribuna.com.py",
+              "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYXRYUG81MEJzbm1iNlZMTC1TTVdUVW04WnZnNElyRXRkLTdPc2xIWTEwYnc3cjNFbUZKMGpUbHZsMVZ3eWg4Nm1wbFhZVDNMbzdZcG9BV3lhZktrUmI5Y3k5aUgwTC1ib3ZXcjJ5M3RadERWR3pTUWhpZ2I2MmZkWU02UFBQajZoWFcyU1NYazJLOWJPcmM2QXVxbHJNV2M1WDk5UHQzS3M5eWxoSlJOUks3anhfNFBUSVBmUTVqa3lmZFVTZTl3?oc=5"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/ELSWBKIGWVCOVMUH4MQET7PQ5Y.jpg?smart=true&auth=e451701832f7e81b116a23d696a75156d463edcc1aae83b7b9f310092d2f2f49&width=1200&height=630"
         }
       ]
     },
@@ -5008,9 +5150,9 @@
     "torneo-clausura-inicio": {
       "titulo": "Arrancó el Torneo Clausura 2026",
       "categoria": "Deportes",
-      "contexto": "El fútbol paraguayo se prepara para el arranque del Torneo Clausura 2026 tras el receso por el Mundial, con los clubes ajustando sus planteles.",
+      "contexto": "El fútbol paraguayo se preparaba para el arranque del Torneo Clausura 2026 tras el receso por el Mundial, con los clubes ajustando sus planteles.",
       "first_seen": "2026-07-20",
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-07-25",
       "updates": [
         {
           "date": "2026-07-20",
@@ -5149,6 +5291,103 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/CTS4QKCZIZBDXICIOGE6GZ6PWI.jpeg?auth=986948c67631ed155c119f8f02f64fe2eeaa32cda6ff36229e6cb7a882266699&smart=true&width=1280&height=854"
+        },
+        {
+          "date": "2026-07-25",
+          "hoy": "Se disputó la primera fecha del Clausura, con la sorpresa de Sportivo Trinidense venciendo a Cerro Porteño en Barrio Obrero (con gol de Iván Ramírez), lo que generó preocupación en el técnico Ariel Holan; además Libertad confirmó su cuarto refuerzo y Sportivo 2 de Mayo se impuso a Rubio Ñu en Pedro Juan Caballero, entre otros resultados de la jornada inaugural.",
+          "fuentes": [
+            {
+              "titular": "La rabia de Holan: \"Claramente dejamos escapar tres puntos\" - VS Sports",
+              "medio": "VS Sports",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOVQ4M2NtTlJFQlNfUTkwcHZRZS1XVmNyS3VKTzlDVVVrT29pcnBmdWJpdUdYNHhZczBlOUFPWVNqWGQtQkJYZlhaMGo4Q1pkSDNlcHZib0w4Vkt6cWsybFA0aFVSSk5DLWNmX09XcldQSmR6TmVzR1lNblAzVVQzZ0lhRnFtR0lNbkpleFBqMGlKRWxzNFhFOVVYeDJoR2ZuaEU0cQ?oc=5"
+            },
+            {
+              "titular": "Lo que más preocupa a Ariel Holan de este renovado Cerro Porteño - VS Sports",
+              "medio": "VS Sports",
+              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV0ViQm1UWWwyUXJwdjR0cFdaTDFPLUZmV3hYLW5iVzJJcS0zOFRzdGZTbHJCenFTWXl4R3hvV0hSY2RZWGxCUk8wb3lHUmU5cjhBUzFuN3pFLWtQRlRtR3hUUTd6SkV1ZDl3NFVINEpjUjAyTExLZ1VraG9kTTJybkd0b2VwdWVKVmRVWWdkSG0ySGVDNXA1RlNvZ1pYYmFJWUdTbF9nbkNXa1lHVnRv?oc=5"
+            },
+            {
+              "titular": "¡Duelo prometedor en el arranque! - VS Sports",
+              "medio": "VS Sports",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSGt4VmplUkdhUFV5SFduU0tZNEJQMThqanNQcHVyYmZwMTlIaHdwSVBfZEl3akZFWVdXZ2s3R3RDSndFUkFJLWF1YkktWkVTaHpIVGRwQ1podVg2UTRBajVCSUFTTW5FaGFJMTVBcDhCNEhkLXdrby1lSXphZi1MV3VCbw?oc=5"
+            },
+            {
+              "titular": "Trinidense da el golpe de entrada y amarga a Cerro en Barrio Obrero - VS Sports",
+              "medio": "VS Sports",
+              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX0p5TkxxTGRXYmt4VU8zdDA4T0U4WGFaUmFKVTEwZWhKU3JEa09haGdXTjU0NGhVWDlLeUp1OVFXV0tXVFhCeTZ3Q0pkVkwxVkZkSU9iWlVpaHg4OUs2TEp2ZkdvcUNFTUFGeGhqMnpFUXh6Vm81VWotUnNqRWlSeDRLN1dsa1hvVEh1SU91bDFBT2V6UllGTm94SF8tRW5tOTk1NXN0eWpXMjUyRmx0M19kcw?oc=5"
+            },
+            {
+              "titular": "¡Qué golazo! El estreno soñado de Iván Ramírez en Cerro Porteño - VS Sports",
+              "medio": "VS Sports",
+              "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZEVqZ3h2TkUtZFdYTlZEV0hEcVpGZTVlMzJWYjYyd2xfbzZpMjBSVTNXMk9RSUdNZzdHbHRIcFdrOHRINFZGSVoxci15ZEZvcVVOMGNpbmdMM1duU3VSRHpFbGV3b3hLNTB2UldIdFM0amw2WDZmaFF2U3RPNlpMRkhxR3dVd1JCNEhmNW1WSVVBLWRtb0VnV28tdFkzbWEtYTNDZnh2d3Vnbms?oc=5"
+            },
+            {
+              "titular": "Los refuerzos de mayor impacto para el torneo Clausura 2026 - VS Sports",
+              "medio": "VS Sports",
+              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNXlwVXZSWXB4aWRWbXZmT213YndVb0N6TFVPd1p2NDB2SEJWSWdwNXFkS0hEN2M1X3ppYV8wdEg3emJZTktNMndxd21XX1JjckpTM2NtcURSbkF5dm5IVUs0bzdyUndfbXdrRnJROTJxQm5hdkZJNGpVRkd1N2ZReXROUThaSF9jWm5wMVhfNzhvS1VUcVJZS2RJNXFKeF9uclJJU1M0YjQ?oc=5"
+            },
+            {
+              "titular": "El Gallo Norteño sonríe gracias a un picotazo - VS Sports",
+              "medio": "VS Sports",
+              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORUJsbElLTHZISGtoLXVNbU1NbFg3U1lidDh5MFV5QWtCLS12STRzWjcxSVFYZ3ZNY2RmMDJCWEh3ZmFmRHlRdXN2NGdra0RLYnBzX0p6WVNMNi0yUmFxSWZ6SklaN1JDSDVYV21HU05zcnRnX1drR2Z3aXhlNHA3aE84ZmMxZGhCZVlCRGNmbHA1alhOSmc?oc=5"
+            },
+            {
+              "titular": "Un golazo y mucha intensidad para abrir el Torneo Clausura",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/deportes/2026/07/25/un-golazo-y-mucha-intensidad-para-abrir-el-torneo-clausura/"
+            },
+            {
+              "titular": "En Villeta y Campo Grande seguirá rodando la pelota por el Clausura",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/deportes/2026/07/25/en-villeta-y-campo-grande-seguira-rodando-la-pelota-por-el-clausura/"
+            },
+            {
+              "titular": "Se miden en la Fortaleza del Pikysyry",
+              "medio": "APF",
+              "url": "https://www.apf.org.py/noticias/se-miden-en-la-fortaleza-del-pikysyry"
+            },
+            {
+              "titular": "Buena propuesta en el arranque",
+              "medio": "APF",
+              "url": "https://www.apf.org.py/noticias/buena-propuesta-en-el-arranque"
+            },
+            {
+              "titular": "Santaní se queda con la victoria",
+              "medio": "APF",
+              "url": "https://www.apf.org.py/noticias/santani-se-queda-con-la-victoria"
+            },
+            {
+              "titular": "Trinidense festeja en el estreno",
+              "medio": "APF",
+              "url": "https://www.apf.org.py/noticias/trinidense-festeja-en-el-estreno"
+            },
+            {
+              "titular": "Los primeros puntos del torneo son para el Gallo Norteño",
+              "medio": "APF",
+              "url": "https://www.apf.org.py/noticias/los-primeros-puntos-del-torneo-son-para-el-gallo-norteno"
+            },
+            {
+              "titular": "Sin ganador en el inicio de la fecha 17",
+              "medio": "APF",
+              "url": "https://www.apf.org.py/noticias/sin-ganadores-en-el-inicio-de-la-fecha-17"
+            },
+            {
+              "titular": "El balón vuelve a rodar en barrio Obrero",
+              "medio": "APF",
+              "url": "https://www.apf.org.py/noticias/el-balon-vuelve-a-rodar-en-barrio-obrero"
+            },
+            {
+              "titular": "El Clausura 2026 tiene su primer juego en el Río Parapití",
+              "medio": "APF",
+              "url": "https://www.apf.org.py/noticias/el-clausura-2026-tiene-su-primer-juego-en-el-rio-parapiti"
+            },
+            {
+              "titular": "La espera terminó, arranca el Clausura",
+              "medio": "APF",
+              "url": "https://www.apf.org.py/noticias/la-espera-termino-arranca-el-clausura"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/ZLN2GCUXGRA5DB42GYMZMCO6DI.jpg?auth=49b155398b210bd6b1cd6270594e2abb1a0f9ba2d75ca39ed33bae763b5e4c37&smart=true&width=1876&height=1197"
         }
       ]
     },
@@ -5746,7 +5985,7 @@
       "categoria": "Economía",
       "contexto": "La modernización de la DNIT y la formalización progresiva de la economía paraguaya vienen impulsando un crecimiento sostenido de la recaudación impositiva en las últimas décadas.",
       "first_seen": "2026-07-22",
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-07-25",
       "updates": [
         {
           "date": "2026-07-22",
@@ -5773,6 +6012,18 @@
               "titular": "Hay 1.315.787 contribuyentes y casi el 70% en Capital, Central y Alto Paraná - abc.com.py",
               "medio": "abc.com.py",
               "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN1BjaXVMeHJGeDZWaXhnVlBZZ0JsZTl6eWlqVXZOVmN6ME1fQVlIOXhDdS1uVWtOdEpFTFZHT010M2thMTlzZVBaMzRLaFBYZEVaam16ODdMQlBsQk1UQXd5OWpQdHRGaGg1WVI2b2VqZ3FaZGhTWEhLeWdRTDBINFpQdnVzZDdqeGhSSXEySS1vM0g1dUNhb3hjY240Tkktb0I4b2FuSFNrVnExTnQtRW42N09DMXc?oc=5"
+            }
+          ],
+          "imagen": "https://grupovierci.brightspotcdn.com/dims4/default/42532d7/2147483647/strip/true/crop/2540x1429+0+182/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff6%2Ffa%2Fef79a3014e1da6be890b0f359ea8%2Fedificio-de-la-dnit-66051808.jpg"
+        },
+        {
+          "date": "2026-07-25",
+          "hoy": "Se confirmó que la cantidad de contribuyentes registrados en la DNIT creció más de 80% en los últimos diez años.",
+          "fuentes": [
+            {
+              "titular": "Contribuyentes de la DNIT aumentaron más de 80% en 10 años - ultimahora.com",
+              "medio": "ultimahora.com",
+              "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb29nbUxjOU54TVlvUnRIckpSYWhJVTlxNzl4alQtUUpzWldqM3dVR3FSYVh0Zm1MNTNVZ3RfUWhUbk5vZThQSEhJX2FSNkhKZE92Qk1rbVhiWWNLMXpSMHNrM3I4Q2YzTVo3MjBnRkVaLVJ5SV94RW55UGpBSWoxQ0lFTm9fcW9xamZLM9IBmgFBVV95cUxPOXhCQVJ1MVlNa3FVSm1MWU9FY0E3NWNCSzJ6SzVfSnJoYzZZRlZVNUJLal9ZLWRQa2tBaUJQcUxUc2MyX0NLMTBfdndJVzlRa0NVRUFQb1A2aHlpeXpBSjNaUEdDYWtJbXhOTHdRSldWZjZDZGJkNnJmZDNCR3lfN0VybzlLc2N2Mm4za3FrckNPQTZmbzhMcF9n?oc=5"
             }
           ],
           "imagen": "https://grupovierci.brightspotcdn.com/dims4/default/42532d7/2147483647/strip/true/crop/2540x1429+0+182/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff6%2Ffa%2Fef79a3014e1da6be890b0f359ea8%2Fedificio-de-la-dnit-66051808.jpg"
@@ -5985,7 +6236,7 @@
       "categoria": "Regulación",
       "contexto": "El Banco Central del Paraguay regula periódicamente el tope de interés que pueden cobrar bancos y financieras para evitar el cobro de tasas usurarias.",
       "first_seen": "2026-07-22",
-      "last_seen": "2026-07-22",
+      "last_seen": "2026-07-25",
       "updates": [
         {
           "date": "2026-07-22",
@@ -5998,6 +6249,23 @@
             }
           ],
           "imagen": "https://www.abc.com.py/resizer/v2/3XQIS2GT7ND5TKLG5GQPEUCB3U.jpg?auth=ac3aeb1db0d31a3ff9e4dcb7968011a9489700167cf297b80769412984e1a80b&width=770&smart=true"
+        },
+        {
+          "date": "2026-07-25",
+          "hoy": "El BCP fijó en 19,81% la tasa máxima para tarjetas de crédito y estableció los nuevos límites de interés para préstamos correspondientes a agosto.",
+          "fuentes": [
+            {
+              "titular": "BCP fija en 19,81% la tasa máxima para tarjetas de crédito para el mes de agosto - marketdata.com.py",
+              "medio": "marketdata.com.py",
+              "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVHllM1h1VGozQ2psTnN3cEwxVnRtOVZDbm5kaFhiaHV6emdKQmFsSnZJUktyZzVuN08zQ2FPUlpVcFU2M1JJVFNIcjEtTmhXR2ctS1hhcm9KbEJUM2pweHppSlphOVJpelBhTjY3dXk2RlhyUG1Ga1FlNGx6VUV4QWtwUUVkeDhDbk1UODB1X01COVQ0dTgyZXhJZ3EycDNKNTNvTUd2SVVkOUp1RWdDN1NrWnJfOXZLWlZ2WFNrclk2Y1o2cjhnTnZzOVM?oc=5"
+            },
+            {
+              "titular": "BCP pone límite a intereses de préstamos en agosto - rdn.com.py",
+              "medio": "rdn.com.py",
+              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUGNGVzNYUkVoYXhuZHpWZ00zeExtaWtVeGdPTEU5X1dUcU5DYXE1NUJhUVVBN0lxcFpUZVVSMXJDLW41SnRHRzgySVZ0dWRlcHFaRkkwVHFxYlc4THhFb3kxbkwtMFlWcF92azZXU1ZBY3BnaV9scDdXR3lrb1FMQm9yelJ1M3Q1NTQxZVdB?oc=5"
+            }
+          ],
+          "imagen": "https://marketdata.com.py/wp-content/uploads/2022/09/Billetera-virtual-y-tarjetas-contactless-entre-los-pagos-electronicos-mas-usados-en-Paraguay1.jpg"
         }
       ]
     },
@@ -6109,9 +6377,9 @@
     "peña-abdo-reconciliacion": {
       "titulo": "La ANR muestra unidad interna de cara a las elecciones",
       "categoria": "Política",
-      "contexto": "Santiago Peña y Mario Abdo Benítez, ambos referentes del Partido Colorado, mantenían una relación distante desde hace años por diferencias dentro del oficialismo.",
+      "contexto": "Santiago Peña y Mario Abdo Benítez, ambos referentes del Partido Colorado, mantenían una relación distante desde hace años por diferencias dentro del oficialismo, en medio de la campaña por las elecciones municipales.",
       "first_seen": "2026-07-22",
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-07-25",
       "updates": [
         {
           "date": "2026-07-22",
@@ -6193,6 +6461,48 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/SEXFDDICQBGX5D2PFPA6F45IPU.jpg?auth=db3e82f6049294e06efcb83a0857b17a3c0b7c0b04d0f2eeee2dc6b2340ea575&smart=true&width=1272&height=848"
+        },
+        {
+          "date": "2026-07-25",
+          "hoy": "Peña calificó su reciente encuentro con Abdo como un gesto de respeto institucional y se prepara un acto con 4.000 dirigentes colorados para sellar la unidad de cara a las municipales, aunque Abdo y Wiens finalmente no asistieron a la convocatoria de Cartes, evidenciando que la reconciliación sigue siendo parcial.",
+          "fuentes": [
+            {
+              "titular": "Esto dice Santiago Peña sobre su encuentro con Mario Abdo Benítez - abc.com.py",
+              "medio": "abc.com.py",
+              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdDgzd0Z0djFZbmtZT3ZGTkxwWXNMcHNkYmE4eFJ0WGlCdkdOMlJCTlo3bEpKVGZvRlA1b1ZxalhlaWwxZGRkSkx2M1paZGo0TFVvT09ZRXJuTVg2RF9JSk80SURJeDhxQ19kcTlhRHFUU3JOdXpNamNMOXVNX1hhOU9SU09rYzdpWlVOdXVWdzZmZ1FjNDYxWm1KYzJfVjZIRkdTaVI4WGV3STRwSlHSAcIBQVVfeXFMTmdQTFZMaGlWeEt5eGY3SDhpNUpQQUxJdG9VbWk1am10WEtNWXF3WjhETVpGWGxwdmdyQUxPdHVRUVdRSGFGLVB4dXhJWEhNRWJrMWQzSGduQ0s1QXkxbXBrQVZQVm5jYjBPS0FXVFFJZ3FtNWdhQkZkQ005LVdpXzJoYWF1Sk1xUXNzcmtSZmZDLXdPZTM1OHRBNTNfNFdEZS1zcXR3VkpmVEN5ZEFvZlBMd3dvbXNJNXFIZ3dnN01pSkE?oc=5"
+            },
+            {
+              "titular": "Peña anuncia un acto histórico con 4.000 dirigentes para sellar la unidad colorada - La Nación",
+              "medio": "La Nación",
+              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWnV2a2Etb2w5amJTU2haY2owandBUEZ2TFFlWk1sOG1yMjlOZlRQV29ZS0JpblZDWWYwNy0tcUNlM0FPV2pPVVM1VDVNY3FUbE9UQWEyZy1UUXpZRDJ0WHZrbG5uR3BUZEVrdjRldkJCdU9UMlJaenZYNVMxSEpWT19aa0ZKakk3X3l5V2pVTmw0WEotMV96dlVzYy1LYzZRNGdBMXNSNXVzR3BiZFpWUmc2ZHZKRE5nS0FIcHkteVkyamlWZjFVbUln?oc=5"
+            },
+            {
+              "titular": "Peña llama a la ANR a dejar de lado las diferencias y reivindica su gestión en el Chaco - ultimahora.com",
+              "medio": "ultimahora.com",
+              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWC1xN1VrNV9PQmRLVTFRRko0QVp4VUx6MVRDX2l1enRlUTNBQXlwbi1Wd0dPQnN0MHRGRDlPRjl0ZXJSam1pd1VJWDM2RWp3U1h0ckpYandQOWVmM3dEbktFUGZWeGQ0OHJmYUVpcHhXdDVNbFNHZjZDcDJzM1RyZlpGbHpDZmoyQVB6Nm9jd1RiZ0p3Y1BTc0tVRUxLeUgxVlVab2Q1ZFJFaTE5SHdQOERIX0bSAcIBQVVfeXFMTjRwUXdQQTRqbzFGaDJzanNrQnB4emYtR19YdGVnUFo2eDZzRVdCcFktY0xLSS1LQWtSRFNjejNSV2E5WFBrX29pa2ZyV0cxTHhKU1JLdTBsVVF3d196ZnU4bjgwcWNEY2hqbUZQRmVsY2loaGFfTy1WdnVNWFdYS3RUeUotblFNQVVqdzR0cmlpU2VlcHczc0toMmNLNGlacExCd1FNSUxyVDRjRjdtLWNwRDZLTmdOWkNhc1kyMFNtTmc?oc=5"
+            },
+            {
+              "titular": "Peña, Cartes y Alliana ultiman el lanzamiento de la campaña colorada de este sábado - El Nacional - El diario de los lectores influyentes",
+              "medio": "El Nacional - El diario de los lectores influyentes",
+              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeElMbGNOWlRobldaM0dxeFdUeUN4MlYxS3otUDVrRTdVcm91SlFZS1czc2NkSzljQ0xhTUJ1QmVEQjh5TTBMbWNTWEl2cEpwM09sRUFFbDdXaUxXT1pINHBiSDgzdFIzMTdrR09zeGVaZnRMVUZIZ2dMSmx6RWltOXVpRTRXelRLOWljUmRKTkxBaWdLLXZfV3J1UUE4c2wxV2o5VkhPT3dGZ9IBrwFBVV95cUxQS09JcGNyT1JVd2ZxUHNTelF1X0Nabm9ydnc3aWN1N1VYMHpORjVqakpZSXJSc0EwbDlQUFgyT0gwUVhoV2ltU1RES1FKV2ttZ3Y3dkVNVjViaFc1UUItV1JReUFHLXUxbG4tUm1pczdkSHJwWnp1YUxORV9ILTA3SmhYQ2NMTlVmSHpOcG5zM2RpM2hvc3RTVldfbHYwS3hTVzNFRjdhS1BfRWR3UEJJ?oc=5"
+            },
+            {
+              "titular": "Presidente pide a sus correligionarios dejar las diferencias y fortalecer lista 1 - latribuna.com.py",
+              "medio": "latribuna.com.py",
+              "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa3JhZld4STd0aWJPdGdiQjVtZnphWWxmRjBxUzFmUE5CSl8xRVBPTjJwSVlSa19mSTByWHQxSnh6SDI5MTNvcWdyeFFKSWVxdFdublRsdWNIbGwxNWdpcS1EZWRkZllwMjZPUmVKWXRHQ1dhM3JRbTdKcm05ekpkZFBsaFhhZTJ0UXVOaE5Zb2NXa1VaOGhGUjlzRFI3RWJvbmF5NTZpVTlibjQyeWZhXy1zVzJPbm04bnJlRktvT2xITlRnVmdXb1VEOA?oc=5"
+            },
+            {
+              "titular": "Sin \"abrazo republicano\": Abdo y Wiens no asistirán a convocatoria de la ANR",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/politica/sin-abrazo-republicano-abdo-wiens-asistiran-convocatoria-anr-n109506"
+            },
+            {
+              "titular": "Peña reivindica el abrazo con Abdo: \"Fue una muestra de respeto\"",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/politica/pena-reivindica-abrazo-abdo-fue-una-muestra-respeto-n109505"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2026/07/6a647407bf9a7.jpg"
         }
       ]
     },
@@ -6239,7 +6549,7 @@
       "categoria": "Deportes",
       "contexto": "En otros países de la región se debate la llamada 'Ley Vinicius' contra el racismo en el fútbol, inspirada en episodios sufridos por el futbolista brasileño.",
       "first_seen": "2026-07-22",
-      "last_seen": "2026-07-22",
+      "last_seen": "2026-07-25",
       "updates": [
         {
           "date": "2026-07-22",
@@ -6252,6 +6562,18 @@
             }
           ],
           "imagen": "https://versuspy2.fra1.cdn.digitaloceanspaces.com/versus/wp-content/uploads/2026/07/21063714/HBCDFZWSXVDEREQPLO3L42BGFY-1024x682.jpg"
+        },
+        {
+          "date": "2026-07-25",
+          "hoy": "Se confirmó que la 'Ley Vinicius' no regirá en el fútbol paraguayo.",
+          "fuentes": [
+            {
+              "titular": "La “Ley Vinicius” no regirá en Paraguay",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/deportes/2026/07/25/la-ley-vinicius-no-regira-en-paraguay/"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/BVTP4TCCLJHLFDMDDUJENK2RWI.jpg?auth=68f3d451bff1dbdcce5483289769115f4a546f0a39d27425c1fe86c795da5b92&smart=true&width=5893&height=3929"
         }
       ]
     },
@@ -6336,7 +6658,7 @@
       "categoria": "Política",
       "contexto": "Canindeyú, zona fronteriza con Brasil, es un foco histórico de actividad de grupos armados como el EPP vinculados al crimen organizado, con ataques recurrentes a fuerzas de seguridad estatales; el reciente ataque a un puesto policial en Naranjito dejó tres muertos.",
       "first_seen": "2026-07-23",
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-07-25",
       "updates": [
         {
           "date": "2026-07-23",
@@ -6461,6 +6783,23 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/OLZ3WEUBKJC7ZDFIG2RJPFZD34.jpg?auth=0760eb352cc5336b400b5ff0670c8e49329121366df7cfa488dcade962a079be&smart=true&width=1024&height=683"
+        },
+        {
+          "date": "2026-07-25",
+          "hoy": "El presidente Peña informó sobre los operativos en curso tras el ataque a la comisaría de Naranjito, mientras la senadora Celeste Amarilla atribuyó el avance del EPP y el crimen organizado al abandono estatal del campo.",
+          "fuentes": [
+            {
+              "titular": "Presidente de Paraguay informa operativos tras ataque a comisaría de Naranjito - LaRepublica.co",
+              "medio": "LaRepublica.co",
+              "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd2dqbDZuTUtJdVlRdG9UblQ1MWV2TjExM3Y2WFlUR09DMkNOVXkzWlByVXFEU2VPMGk2MzVkbVJUM3RoMXdlMGsxQ001R19NZFZiZkItWHhwSlBPeVBVU0VndHJ6dWNRejcxeFFfYUtOTDVqaTR2blpaS0FjeG03Z1EtVi1waEdCMnk0YnMzS0RYeGtzV0k3RThmX3l3LVc0Z001ajFvQndPcWNFcnppeHZyMVhnSkRCYlgzNEVwWF9GNks1dlHSAcYBQVVfeXFMT05aTXlFLTl4bWliR2p4ZGJmMDduNDdsQUI2ZFVoaXQxNXFIUW9ydTRBcWtjQmI1MUxucHdFREJtUlhDem5Wd1pqNzByS2lCYXlTRVRLS2NULTA0NE1jTHJCR1R5aHdoQV9qOTk4cUdBR0V2Zm15MElxQm5LN18tS0V1WGRYamVwZjFHSE80QU82bHpONGxlOTExZkVPYzVLY3N4cFByVm03aV8wNDJHckF1SWZQTk4tNG1lSVdiU2l6TkhrY2tB?oc=5"
+            },
+            {
+              "titular": "Celeste Amarilla responsabiliza al abandono estatal por el avance del EPP y el crimen organizado",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/politica/celeste-amarilla-responsabiliza-abandono-estatal-avance-epp-crimen-organizado-n109491"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2025/11/6914a09cbb223.jpg"
         }
       ]
     },
@@ -6660,7 +6999,7 @@
       "categoria": "Economía",
       "contexto": "Paraguay y Brasil vienen buscando profundizar su cooperación productiva e industrial en el marco de la integración regional.",
       "first_seen": "2026-07-23",
-      "last_seen": "2026-07-23",
+      "last_seen": "2026-07-25",
       "updates": [
         {
           "date": "2026-07-23",
@@ -6673,6 +7012,18 @@
             }
           ],
           "imagen": "https://statics.elnacional.com.py/2026/07/6a5fac9f0dce4.jfif"
+        },
+        {
+          "date": "2026-07-25",
+          "hoy": "Se planteó que la relación comercial bilateral con Brasil evoluciona hacia un esquema de negocios multilaterales.",
+          "fuentes": [
+            {
+              "titular": "Paraguay y Brasil, de un comercio bilateral a un negocio multilateral - latribuna.com.py",
+              "medio": "latribuna.com.py",
+              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTnhqVmZTN0pNSGlMWGRFZHFfT2pLM21HSlZqdW5qWUFSbmNEY0plUTdoWWp0YWtwYzFuYWRnRnQ4UDNkeEx6ODFzWDkxVWtqT291bDBtR1ZMbXM2MFZtYTFNT25xTnF5cnhxb04ybU1tN29JYndOa3lBT2tHczJUMlIyX204aW5pMm5hNkRTeG5iT2tNbzN3UG1SejAwLU1fdU1XMldWTk00cnl3WVBaclR1ZWNCLXUxQnhz?oc=5"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/2GSWDFY3PZFWXIVJWZHFJEY56A.png?smart=true&auth=c4bb4fe45d48d0065adeb6a29e5078d610e1a8a5e035e5f78196a1611a23230e&width=1200&height=630"
         }
       ]
     },
@@ -6723,7 +7074,7 @@
       "categoria": "Inmobiliario",
       "contexto": "El sector inmobiliario paraguayo atraviesa un boom sostenido por el crecimiento económico del país, con nuevas centralidades urbanas surgiendo fuera de Asunción y una oferta creciente de proyectos residenciales y comerciales.",
       "first_seen": "2026-07-24",
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-07-25",
       "updates": [
         {
           "date": "2026-07-24",
@@ -6741,6 +7092,23 @@
             }
           ],
           "imagen": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/IMG_7123_20260723_190928.JPG"
+        },
+        {
+          "date": "2026-07-25",
+          "hoy": "Se proyecta que el mercado inmobiliario movilizará unos USD 3.000 millones en 2026, y se presentó la Expo & Foro Che Róga Porã 3.0, que pondrá foco en financiamiento, desarrollo urbano y acceso a la vivienda.",
+          "fuentes": [
+            {
+              "titular": "Mercado inmobiliario movilizará unos USD 3.000 millones en 2026 - La Nación",
+              "medio": "La Nación",
+              "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUkk2cjhhOGlMbVV3SFdYMEJ4RlNzdFlHRmxReWNCNlZ5TWlaQ1Q4cWx2a3MzRWctM2s0ZEQ2ajVjTlRCY2x0UFVJN1IyeFVKNG1SQTM2Sk03VW9fVGtBYkNycllSN3FoZ214dUZqQUUxbTB0ZzI5NUVBS0UzbkNiYkpkS0lSZUF3YzFmTFVTU2J5SDREcmlaNW1tMGdHOHVRbzRwc3hETEcxQkctakU1VHNSUTdoQldJZHRldDdqSGh3WGlqNEE?oc=5"
+            },
+            {
+              "titular": "Expo & Foro Che Róga Porã 3.0 pondrá énfasis en financiamiento, desarrollo urbano y acceso a la vivienda - La Nación",
+              "medio": "La Nación",
+              "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQklSdFVtUWcybFdtNG5JRWRDVFpubGNlaXpzR05UbWFLSzVIOE52MndlMmgzZjhKcGJ5b1M2NEhZUm55S0czY0xLeEV1bVZrZHN0dmZULWwyWDRuWW01bnllcEVOVllNOXVIRjByZHVoNUlxTlR5OWxvWHlweWF2OHZhNTFidk1NaWdmUW5TMlh4MTZ5aDlYY1R5a3ZJaEtTUHFkWnVNaTBLb0lmcU94bFQtLUItLUpKYVdoOHB2aFc5MEIxWW1WenMteTRxYUNqSmhsY2VLOThLNlMyZ25oN19Xaw?oc=5"
+            }
+          ],
+          "imagen": "https://www.lanacion.com.py/resizer/v2/NIAW26GJTVEC7DX6LOQI6VWEJQ.jpg?auth=4397a688aaa0822a68f31ef4d578a8968b1ecd760e8140e56e4ad5192df6b931&width=1024&height=512&smart=true"
         }
       ]
     },
@@ -6977,6 +7345,223 @@
             }
           ],
           "imagen": "https://masencarnacion.s3.us-west-2.amazonaws.com/uploads/public/6a6/261/dd7/6a6261dd77117588117721.jpg"
+        }
+      ]
+    },
+    "chaco-desarrollo-infraestructura": {
+      "titulo": "Gobierno intensifica su agenda de obras y desarrollo en el Chaco",
+      "categoria": "Inmobiliario",
+      "contexto": "El Chaco paraguayo es foco de una fuerte agenda gubernamental de infraestructura vinculada al Corredor Bioceánico, con obras de vivienda, salud y conectividad, como parte de la estrategia de integración regional impulsada por el Gobierno de Peña.",
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "updates": [
+        {
+          "date": "2026-07-25",
+          "hoy": "Avanzan la conversión y obras de acceso en Carmelo Peralta, se entregaron 252 viviendas a comunidades indígenas de Boquerón, se destacó el impacto del futuro Gran Hospital del Chaco y el Corredor Bioceánico se perfila como nuevo atractivo turístico con Bolivia, en medio de reclamos de conectividad en la región.",
+          "fuentes": [
+            {
+              "titular": "Sigue conversión de Carmelo Peralta y las obras de acceso - La Nación",
+              "medio": "La Nación",
+              "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUndjczF3WFJFMHZjR29CZGZCa1o3N2pUSE9yYVVYeEJaMTc3OGdPUHR3NEMzQ0J2U1ktemVyc1c3SG1vSjBtXzUyZE5OY2ItNExtQUdFd1Z5RFA2WF9fbEhUQW5ZdXBfUDlKLTY4Ml9IbmRsOGl1Q2EwZllvUHFrZEF4UVJWYzM5NlFnTzAyWHB1UVlxQ1JyLVZKZlh4NEd5YkFUTlpsX1BBQkJ4TjF6a3o5MlJZaXp4OFJsNE41RQ?oc=5"
+            },
+            {
+              "titular": "El Gobierno afianza su agenda en el Chaco entre avances de infraestructura y reclamos de conectividad - Red Chaqueña de Comunicaciones",
+              "medio": "Red Chaqueña de Comunicaciones",
+              "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOUI5Zzd3WWdTMzFMdUI0V01vTFJNck1VUE1EdWdxbnBEWTlvZE5YREV0Tm9jeEUzY20ydmFMR1MtVmxiN3QxWWtkcVdJQVdFNG5WVUE1emU4X0ZpVnpTRm92amRrTEZUX0NTdGJkY3JKSmhSSVlQQWkwbmtGcEo5bE9td0FqTmZfYWNPejJYaHdXNzBGaFNBUURzNlVEcFFtcm1aY2h2QXcwVUxQbmpBRUNSOC11R1FDYktiLUhaZVNlYi14TnfSAcsBQVVfeXFMTjRRRVZkalk2TDVpaVZ2RElNUUdRaHo2MlJTZHpJcTVLbmxrTmpWQVVRb3pHTHpYRUlGUGh3YVVsQ1JVWUQ5b3MyR3E2U0ZMSHZWblNRcTlxWW95R2pMRTRKQXRZdUdTZS05Z3pRdHVacDJXMDJLOXFVUExzaEpGLUR1dDZBSnpsUzJpZFlzR1JQZ2wwSVNMd0doR3NZYjNTWklhTC1DOEw3TldDNnYwbHNpYjBWLWxRNkc0cHBlUFQ4aWYwMGRnUU1yVE0?oc=5"
+            },
+            {
+              "titular": "Gobierno entrega 252 viviendas a comunidades indígenas de Boquerón - La Nación",
+              "medio": "La Nación",
+              "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYlpaNXIzQ2l3MC1NVnBUWlVvTWE5M1BZcjg1elVmWUdkNEg0cVBienZYVUlBUUVVTE1QTnRaQ3FrZWlxblluU01BZFc3X2JkbDBTR1VOWEF4THM1UGdCZVQzLVZUMlRFVV9mSlNNdkxEUzhrMTlaVU5YSmhiakFsQ3BHeTFybnZOV0hlN1FPc2xhXzB5a1FTbXNRTVlwYXYyZ0xxSnlBMHFOemQzRmJZM0xCYVNBVWN6VF9XNlduOG5pVEp0YlZ5UmRzTQ?oc=5"
+            },
+            {
+              "titular": "Gobierno entrega 252 viviendas sociales en Boquerón y reafirma compromiso con los pueblos indígenas - Red Chaqueña de Comunicaciones",
+              "medio": "Red Chaqueña de Comunicaciones",
+              "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRDEzQzhkSExJcGRsdUh1ZHJvZ0NsOWJsNGFRQ1J4MDNnaVp3S295b2RiV2FoNnNSNEpRQ3VzMkg2bld6alM1M21tNHc1UzVJNVlHUmlpRjdtbnJsdTJhRVBVaU5sUTlZclNMSnV3a2Jubm5MbFdnZ3BQNENZLU1JYnU5TERDTEZiN01YR3NINEJJTmhyem1WbVZjTzRTWUF2c2RRa1BRN0RTbEJ5ZU00T05QaHc1UUNZanJKem9rS2paX0nSAcgBQVVfeXFMTnRISHhvaHl3X0p6VTA3OVk2dnBLSmtVU0tVMDl5WnBxMHhKQnB6dTJyRHBiZW5kUTJYeE1IQXgyRVU3ZDlzbnFRSFhVZWppMTZkVHBzXzNsdXMxWS16bTFTWWRsSXBxLUJoOXFmaHM3X0R5al9XLTZyUjFoejh3ZjRkMC1kSEl1bi1IWWxvX2x6X0ZmcmxraDVRMS0zbWZKaFZVSG9DcldjTDQtbjRmeWt4N19SN2cwX0ZWSEdyQTlrMnZVa25GcVo?oc=5"
+            },
+            {
+              "titular": "Gran Hospital del Chaco impulsará el desarrollo sanitario y económico de la región - La Nación",
+              "medio": "La Nación",
+              "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObnk3NXVsX3VVaFNBTmZMZGlPWVpEVGlIbUNXQ2t5dVhrN3ltZmNtSGp5UURqM1lYbmZSUWV4VzlBQkxzOGhBQ1ZIaVBkam9QTHlUSjRWTG53X1ZONi1LLWZ3aFJHZkZjWnF2YktFTW5YdWtMcGVGRWFQazJuaTM5VDVCN1NVb3VmNWdMZFF5TG8tY0lLWkdOVWJFanMzMVZ4SXl3S2NhUnJ3aExvTk1mQUVYdnFPLWUxY3AtSkhHQnE0b2VObEEtUUxTRQ?oc=5"
+            },
+            {
+              "titular": "El Corredor Bioceánico, nuevo puente turístico entre Paraguay y Bolivia - Expreso - Diario de viajes y turismo",
+              "medio": "Expreso - Diario de viajes y turismo",
+              "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQU5uMTM0RUkzcmVMR2xzZHJLLUU3UWV1a2tRa20zODBBazVzSU41NDlTUDIxZDQ3RkoxNDdwT1ZuQ1hCbEVybWRiUldYd1Fsalk3R1RHRGlhT2pPVlNlZlRuQk5JcnJ2QkdiNnkxTExvcjNrMnZJQ0VLY2EwOVZEMGpjSzA3TmtuU01uMEFHSS1YeEthMTJlS2NiS1JOZ0hvWHFYdzkweTdaalhDSzNEQ1RqYWotNERmS244UWsyYw?oc=5"
+            }
+          ],
+          "imagen": "https://www.lanacion.com.py/resizer/v2/ZYTMY4RTERDZ5N4F4CWG32SQRU.jpg?auth=fa45adcef97b2f3ae32ea77655cac0ab63a959e6cceafff6637450704584df73&width=1024&height=512&smart=true"
+        }
+      ]
+    },
+    "semana-sostenibilidad-py": {
+      "titulo": "Paraguay celebrará su primera Semana de la Sostenibilidad",
+      "categoria": "Economía",
+      "contexto": "Paraguay viene impulsando su imagen internacional en materia de sostenibilidad e inversión responsable, en línea con la agenda ESG que atrae a inversores globales, mientras el sector industrial destaca la producción sostenible como diferencial competitivo.",
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "updates": [
+        {
+          "date": "2026-07-25",
+          "hoy": "Se anunció que el país celebrará por primera vez la Semana de la Sostenibilidad, con foco en inversiones e innovación, en momentos en que la UIP resalta la producción sostenible como sello distintivo de la economía paraguaya.",
+          "fuentes": [
+            {
+              "titular": "Paraguay celebrará por primera vez la Semana de la Sostenibilidad con foco en inversiones e innovación - La Nación",
+              "medio": "La Nación",
+              "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPV3l4aTJlVmY3c1h6Vm81NC11VVRJSFluTTM5dzYybjUxUWVLbElRbGJYdERIUG9ZVW9KNDFKVV96bkdMckpJcnVOclNTVEZfdFJvQ3BHSldWU1NlSmR0SmwzUHdoSkZEaThQNkNhdTRuYVZQMWNYM18ycHN1TmU4ZnVGWFRPUS12a1FoNUdYS2dfR21Lek5vSUgzeDJPbTNneHBjMmNUQXd3bDRaR0M2OHEyaWxOSE1KbUt2UTZLeEhmTlJ0TUlXeFlhMGFhaFZCVnEweEE1NmNKM3U4aUJOQ2NJOG0ydw?oc=5"
+            },
+            {
+              "titular": "Producción sostenible será un elemento diferencial de la economía paraguaya, destaca UIP - La Nación",
+              "medio": "La Nación",
+              "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcE5FTjNJcW40WGI2SVF6SGhOYzA0a01xOGowY0JCU0xBM3IySFlaMmF0RkdGT2tmZmRiMUUya1JlY194RUFuejIyODFtVG5IZldaM1J3cm5nQXFiYmx3M2Y1YkIxUDR4VkVVQUQyN2NiaFMwYUxEU29tS21ScHBEMk1xa0dxRHllY3pzSVFzdjBZVkYwNjkzZ1JhSXRPZTRBRWdKQzY5SDlrMGI3TVlaWmZNT2x1Vnl0cEwtd0dRRzk1MmsyWnhmZ3phV2JMZGVsOFE?oc=5"
+            }
+          ],
+          "imagen": "https://www.lanacion.com.py/resizer/v2/XWPLLUCNKVFNTNLTBMRI2LTPMY.jpg?auth=1865318a834c0c6fbba3e2bcaa6eef1bf779ce2137468c5800633d3fe4aac7f1&width=1024&height=512&smart=true"
+        }
+      ]
+    },
+    "dnit-modernizacion-fiscal": {
+      "titulo": "DNIT profundiza su modernización tributaria y fiscal",
+      "categoria": "Regulación",
+      "contexto": "La DNIT viene modernizando sus sistemas de fiscalización y ampliando la base de contribuyentes mediante la facturación electrónica (SIFEN), en un proceso de digitalización tributaria que también busca mejorar el intercambio de información con el Ministerio de Economía y Finanzas (MEF).",
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "updates": [
+        {
+          "date": "2026-07-25",
+          "hoy": "El MEF y la DNIT avanzan en un acuerdo para fortalecer el intercambio de información estratégica, mientras un informe del BID confirmó que la facturación electrónica elevó el cumplimiento fiscal, con casi 6.000 nuevos emisores electrónicos sumados en menos de dos meses.",
+          "fuentes": [
+            {
+              "titular": "MEF y DNIT avanzan en acuerdo para fortalecer el intercambio de información estratégica - La Nación",
+              "medio": "La Nación",
+              "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUU0xS1FqMUdGQzB1Q3hvelVQN2pXajFjQVEwbTJWalVnTDNza2tSa0FLcFRoTDBmMEYyZUZ0YnNYZ2oxLURBbVNQTTNpRGxuR3VQOWJUZExNRVktVGJGbnNjZlVvTVRWUjBkbjhFSF91ZzZNNHlCMXNmdUtqQ2xvWnJpWkRNekU3V2Z2SHVDYTYzMmV4cHNxQmR3M0NWMUc0MjEyTktTdV9qbERDelU0QUpRLWM3OEY3ZldmS3NNeWxyRkY5MGJabzdPN2p2cXFfZ1E?oc=5"
+            },
+            {
+              "titular": "MEF y DNIT preparan acuerdo para fortalecer intercambio de información estatal - adndigital.com.py",
+              "medio": "adndigital.com.py",
+              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRzd0QkMzdUg0dXJid003Vl9NU2d2Wk84LVV6SEdpa0RMOEg0QXhlbXZ1S0ItNTAyTUFZUFYwTFNIQ05iZ2NWU2JSYlphSW4wTkdya202S1kzUGVXYkFPMVhGdmJzbklhNnVVLVVXN2ZhR0ZRcnRJNUJzVmdFUFo5Z2Vyck1leVdGaUtHQ2gwT3JVXzNac0l3UGozZWJpVGF5U0pwZDcyT2RkT0dzVUE?oc=5"
+            },
+            {
+              "titular": "BID confirma que la facturación electrónica elevó el cumplimiento fiscal en Paraguay - El Nacional - El diario de los lectores influyentes",
+              "medio": "El Nacional - El diario de los lectores influyentes",
+              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeDlIQXRncV9zNG9JalJiLVNCMjJVMlRQMlkyemJfSEE4Q1ozaDBudlZTaWlQNjFwak9WQnpQQTExSVl3em9kNENhX05JWDZfSE4xOVlMRWJsc0M5UllJUkpxUEdXa1R0VEh5ZnA4Rk9XNG1GYlJlZzlfQ09jTzcwUWgyVEhUaHNTQ2k3a185NUdwX05BX3JuUjF6OVdsT1R1T2VxT3hYNzQwak41Y1RZOGhTUXfSAboBQVVfeXFMTXU3MXJ5Z0RxTW9GalRzb3A2SWphTC00WjlNb0JhSTJVQ1RIdW81UjEtR0Y5eDJiRzl2VTdnelBCeU1pN0t5NFZxWWp0ZEZKUWUtMW1FZkRKSzFqdUpNcXNQTHFTUzNrVHdKWkZEWHdGdFNCUml5RTc5MGh5NVp3S1c3eURNaDVzWl93ZTZES2lkdmZad0ItWkxMZmtYOFpZYzZHWTY3NEFQcl9QVkdIZ3lKVm1yUkktekZR?oc=5"
+            },
+            {
+              "titular": "BID confirma que la facturación electrónica elevó el cumplimiento fiscal en Paraguay",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/economia/bid-confirma-facturacion-electronica-elevo-cumplimiento-fiscal-paraguay-n109480"
+            },
+            {
+              "titular": "6.000 emisores electrónicos más en menos de dos meses - ultimahora.com",
+              "medio": "ultimahora.com",
+              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRTdTWjREQjJKdkxPcDNxckpPSVQtWmRPOFhzMHVXZ0ZfREpHSnF1SHFrTnIzYzRMZzR5OG0zM3lZalduS04wRFl1NTZiNENXX0xyOHpBb1AzemJ3QXFzOUV6cHRwbUNqbzJkdFdSWUFGWnZXeEUtXy10djVPWE1rYUtvRFRkVk3SAZQBQVVfeXFMT1BqN3QtbjhjY1Qyb3RMX3hGMFpSVU5Ic081bnVqVDZPSGlEX25JWXhFYW52cHQtdHh5alhISklMaFg3eHpvNzFYbDNycXJxc3R1T0dqZkNSOTVuejI3N2NmcGJZQVpMbVh3bW1uaDlmZzJ2cHZlNVNmMGlfMXN0SDIwY1hxLUlWWUJuTU5xNUxxMFl3YQ?oc=5"
+            },
+            {
+              "titular": "DNIT incorporó a 5.961 emisores electrónicos en menos de dos meses - ultimahora.com",
+              "medio": "ultimahora.com",
+              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUFpUR1cyY2ktaldoTkphMWlDRWQ1R3pMMjFVcV9JUEJHOXFfUFc2ZWZoZXhxSlU3ZmktNENzV1BEWHViaXN0WTdWRHpXY1M5MnhlUFFpUTZqVFdjTExTUWxLX2lOVFNrbnQtbllEWHlUd3d2SUxBSGVCTzRRNG1ZV3FuanR3Sk9rbHRUYVgyVWFfQTZzTjJnZtIBpgFBVV95cUxNaDd6WmE2X2pmaWtrWkJ4S3A3bjdQeDlNSDFCOGhwcHBaVjFEVHhtZ29KODZlWVFpVnpTMWJ3bnh4NWpSZW9fdGhNNUlVZzB1YkxFTlRMN0otaUVBZ1hGZHJHQmUyZFhWZlc2YktFQWZlbFcwUmx1UDgxU2hLdXd1M01TY1F5LUtuQzZnSkRXTm5FZHhoNkFlTzRSSUdNaUdYel9lQ19n?oc=5"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2022/12/47996c7cb42654c2e610741b35712603.jpg"
+        }
+      ]
+    },
+    "gobierno-descentralizacion-social": {
+      "titulo": "Gobierno impulsa jornadas de acercamiento social y descentralización",
+      "categoria": "Política",
+      "contexto": "El Gobierno de Peña viene promoviendo programas de acercamiento estatal a comunidades del interior, como parte de su discurso de descentralización y ejecución de obras fuera de Asunción.",
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "updates": [
+        {
+          "date": "2026-07-25",
+          "hoy": "La jornada 'Gobierno al Barrio' superó las 1.200 atenciones, se inauguró un sexto Centro de Atención a la Primera Infancia en Mariscal Estigarribia, y el presidente Peña defendió su política de descentralización afirmando que se 'pasó del papel a las obras'.",
+          "fuentes": [
+            {
+              "titular": "En El Paraguay, jornada de Gobierno al Barrio superó las 1.200 atenciones - Caracol Radio",
+              "medio": "Caracol Radio",
+              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaDgzV2cyVk9hNGxMbGdwTVY5b0ZWMG1CeHhUTlZVcW94UXBqWWc4N0licG92WGVGcEs3cV9PVzZNWW9uejZVWEc3NjE3X2kwZGVmMUpfWHRIaUtVd0tBLVp3Zzg2R0lkbGw4aXpTV1daVVQ2OGVmaUNxRURSTlRQWGRZNDNWQkQxRjBsc19NTUNhbG9rdEVaN2I2aDlUWlF4MmpOQVh2cGFyZ9IBvgFBVV95cUxNYWlRZF9sS2NmdHBNczJ5Y3I4RHloSjk1NjRzZ3NXSUUxdHR2eFRTSFNyTmZPeVdTVU5FWC1UUVRJdmVjTl94WWFCSmdrRjdGVDA0LWpubjRwbWw3Vml5RXVwSkt1VWtWSEd2Ums2Z294WWROTjdTSUNzLU9WdnI2QlNtQ3EzOVR3Nm9UdlVDM2dKc3RfZWVoWGwyc3czQjFidnhCQjRfcExaVE1Ra2xOdGhpTnlIYXVFdDUtSEdB?oc=5"
+            },
+            {
+              "titular": "Gobierno inaugura sexto Centro de Atención a la Primera Infancia en Mariscal Estigarribia - Más Encarnación",
+              "medio": "Más Encarnación",
+              "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcThiTjZnNS1yYnJ6Mm1MVnU1MEtGN1ZxbEFHZjQ2RGNvLTVUT2w2aTVQS0pQUFdsQ3FQX3FqZTlsV042NmhpbjFMUExud0F4QUdiaHE1UExRbnJ1UUJ3SW1VTjJQTUR6RUl3QUNYcmtpamtwQ2Jyd3lFM3hKQ2tvNFBFUXBzVlVmcHdhTGE0YlhOOFlmaEtRVFRNQnBqUjZKWnBXOG1qVF9iOXRTTElwYVBIWTBQLW8xVmJGLVRybmNiaU91V1E?oc=5"
+            },
+            {
+              "titular": "Presidente defiende descentralización: “Pasamos del papel a las obras” - latribuna.com.py",
+              "medio": "latribuna.com.py",
+              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQS1xN19hcHVvcDgtTEVDYVh3YUpuUXdLUlNNWnFERll4dFNvSUhZZWRzLWczUkZnLVFzVko0R1lmQlB3a21vYjlHaklFMUg3UmV5ZkFtOFREVlV0TW56ZllFLTBHUGt3OERkZFd1V0Y1VFBGdGdpOU1lNjNtQUV1RXFfTUlrQ0RhY2dSX1NleUFkRUdfcWVRTGNKSGdHR2ZzaHpESTNUQXBrRFNmTWQxa1NTR0tJM0Mw?oc=5"
+            }
+          ],
+          "imagen": "https://caracol.com.co/resizer/v2/HBHPHUCTSRCXLJE527H3L6BGAE.jpeg?auth=8623f94fa0f590600f18c771fd87d37c28af0d6e944f79c218f98e915ef9817e&quality=70&width=1200&height=675&smart=true"
+        }
+      ]
+    },
+    "medanos-chaco-exploracion": {
+      "titulo": "Polémica por la exploración de recursos en los Médanos del Chaco",
+      "categoria": "Regulación",
+      "contexto": "El Parque Nacional Médanos del Chaco es un área protegida donde el Gobierno evalúa habilitar la exploración de recursos del subsuelo, lo que generó rechazo de sectores ambientalistas y actualmente se discute en audiencias públicas en Diputados.",
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "updates": [
+        {
+          "date": "2026-07-25",
+          "hoy": "El presidente Peña defendió la exploración de los recursos naturales del subsuelo pese a la polémica ambiental generada por el proyecto.",
+          "fuentes": [
+            {
+              "titular": "Peña defiende explorar los recursos del subsuelo en medio de polémica por los Médanos del Chaco - ultimahora.com",
+              "medio": "ultimahora.com",
+              "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY1lmMjVuSXlnZ1lYdEZJMkVpYmxUUW9naUhkbDV5QS02OFNOM0lGak1uVl9najdDellrdHdidWdlcmlGUk1NMEJKYlUxS0dXOUhFUkx3ajI5cXptMDBXT1FFSm1Dc2dWcWtpWEJtTGFEc2RPTGhfMWJ2MTdjSkdQVk16NnFyX0ZDdXlNRlFickpxT3lkeEY1TXhGTWVVbktjaWNUYUl5eXhlbW5saEdmOWhDNkVhWm9ydXJBZ1NFNNIBzAFBVV95cUxQbHRxYV90RGxTNVFibm1IS0xxRUZTTE54cHpyNkdZdzlCZEd2ZndsbDZqampFckVLaVQtX252T2dKak1lcFNtYi05TnY5Nno4X2lUM05XVThQNGZFZEhJYWc0TzdpOG5sd1E3ZW40VnY2YWQ1MWVJS3ZQdy12ckQtMndJMm1qZXVhdGdob0hCS0lSTk5LZXJ4Zk1RM1FwZExmOWZsdDJrT0E3TGFUVFA0RjRVbzFKbzVyNEY5QjlxOFRBMDllckdVMUF4R1g?oc=5"
+            },
+            {
+              "titular": "Médanos: Peña, a favor de explotar patrimonios naturales del país",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/politica/medanos-pena-favor-explotar-patrimonios-naturales-pais-n109504"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2023/03/0e8ad558fc126d75345c6ae476b8b959.jpg"
+        }
+      ]
+    },
+    "genetica-porcina-brasil": {
+      "titulo": "Genética porcina brasileña gana terreno en Paraguay",
+      "categoria": "Agro",
+      "contexto": "El sector porcino paraguayo busca elevar su competitividad y aprovechar la apertura de nuevos mercados de exportación de carne, de forma similar a lo ocurrido con la genética bovina.",
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "updates": [
+        {
+          "date": "2026-07-25",
+          "hoy": "Productores paraguayos muestran creciente interés en la genética porcina brasileña para mejorar la productividad de sus planteles.",
+          "fuentes": [
+            {
+              "titular": "Nueva genética brasileña despierta interés y apunta a elevar la productividad del sector porcino paraguayo",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/economia/nueva-genetica-brasilena-despierta-interes-apunta-elevar-productividad-sector-porcino-paraguayo-n109458"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2020/09/06b70f471808cc256eba1a1c5dad26e0.jpg"
+        }
+      ]
+    },
+    "inseguridad-alimentaria-py": {
+      "titulo": "Uno de cada cuatro paraguayos enfrentó inseguridad alimentaria",
+      "categoria": "Otros",
+      "contexto": "A pesar del crecimiento económico sostenido de Paraguay, persisten brechas sociales que afectan el acceso a alimentos de una parte importante de la población.",
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "updates": [
+        {
+          "date": "2026-07-25",
+          "hoy": "Un informe reveló que uno de cada cuatro paraguayos enfrentó inseguridad alimentaria entre 2023 y 2025.",
+          "fuentes": [
+            {
+              "titular": "Uno de cada cuatro paraguayos enfrentó inseguridad alimentaria entre 2023 y 2025 - abc.com.py",
+              "medio": "abc.com.py",
+              "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS0JmT0VqaFFXZFpHSFFTTGduVFN1YUZ1R1daMWJQTW5tVExEelBjaEtoMHRfWjl3QjVWZ2pJTTdHakhDTVFjNWh4dUJWREozUVcwVGI2ZXpJXzN6UnRCWEVXMHZKZUI5TWoxVTlGM2lHa0N2NGNTRmMzdzZBaUJjZGJmS094cnlYUUozR2xTZERYdXdKTVJKVElMQWFPRGFfRk02elBOdlp6T19hb3RlMHNHUHRpTGY0TXZQZ1pvbjRCZ9IB1gFBVV95cUxNem9rRnpDR2FSM2x3czFkVWl4aWY5X3dOZzdoLUxKWHpQSzdjTUNoVWdPQ3RBamVlbk03N0JFN0RlZl85b0ZaTV9CbThDN3VYMks3SjdlS0FXZDljM3pvZXFaRk1VLWw5R05nOGY5M05XQjZ0U1huc0ZIbkx5NVd6emVwUUI4WVpUSldoa0NhSk5TMkpyN2hoQ1pQYjloWTBqM2hlSTJRTUU3UkJlM3lVejhra0pyTC1mLVRhbTBEUTU0ZmtFN196UXotMjg4OENYYVFaNVpB?oc=5"
+            }
+          ],
+          "imagen": "https://www.abc.com.py/resizer/v2/4GCVO4NDEFCUXGMKOSRM3AXUMY.jpg?auth=c22081d2145add394e061c3b611ed137508fa31362bf0e1b44976c325b06ba5b&width=770&smart=true"
         }
       ]
     }
