@@ -1025,11 +1025,11 @@
       ]
     },
     "espectro-5g-py": {
-      "titulo": "Tigo y Personal ganan la segunda licitación 5G",
+      "titulo": "Se confirma a Tigo y Personal en la segunda licitación 5G",
       "categoria": "Regulación",
       "contexto": "Conatel viene regulando el despliegue de infraestructura 5G en el país, exigiendo a las operadoras cronogramas de instalación y preparando licitaciones de espectro.",
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-23",
+      "last_seen": "2026-07-26",
       "updates": [
         {
           "date": "2026-07-14",
@@ -1080,6 +1080,18 @@
             }
           ],
           "imagen": "https://mobiletime.la/wp-content/uploads/2026/01/pilot-infra4RDZ.jpg"
+        },
+        {
+          "date": "2026-07-26",
+          "hoy": "Se reconfirmó formalmente que Conatel seleccionó a Tigo y Personal en la segunda licitación de espectro 5G de Paraguay.",
+          "fuentes": [
+            {
+              "titular": "Escucha DPL News Weekly - Conatel selecciona a Tigo y Personal para licitación 5G de Paraguay - DPL News",
+              "medio": "DPL News",
+              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVU9rSkVjeXl6NjA4bmNKTXhIUjJPTkhWM08wMUh1Yzc4UEZtSWtzbVBNVmZsckZvZFVJTEVCX3lMemZMeTZZU0ZfRExyd0xtRmkxUUxHamJlTmVCNGpWTFZfMnBVZlAxaWZOTlI1Z01BcnFVMXp2Vm9OVFhZcFo1REpTSEdTenVIVkJyYkxJT2lRaEd3anBTR3A2ZHlRRGFoeE1Kb2dseGhSd1REUlRFRGVn?oc=5"
+            }
+          ],
+          "imagen": "https://dplnews.com/wp-content/uploads/2021/06/dplnews-weekly-jb260621.jpg"
         }
       ]
     },
@@ -1558,11 +1570,11 @@
       ]
     },
     "sector-ganadero-py": {
-      "titulo": "Carne cara y auge de la genética Senepol",
+      "titulo": "El modelo ganadero paraguayo se apoya en reglas claras y baja presión fiscal",
       "categoria": "Agro",
       "contexto": "La ganadería es uno de los pilares del agro paraguayo, con el país posicionado como un exportador relevante de carne bovina, aunque enfrenta tensiones entre la reducción del hato y los objetivos de expansión productiva.",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-26",
       "updates": [
         {
           "date": "2026-07-15",
@@ -1643,6 +1655,18 @@
             }
           ],
           "imagen": "https://marketdata.com.py/wp-content/uploads/2026/07/shutterstock_2581164311.jpg"
+        },
+        {
+          "date": "2026-07-26",
+          "hoy": "Un análisis destacó que el modelo ganadero paraguayo se sostiene en reglas claras y una baja presión fiscal como ventajas competitivas frente a otros países de la región.",
+          "fuentes": [
+            {
+              "titular": "El modelo ganadero paraguayo: reglas claras y baja presión fiscal - 5Días Paraguay",
+              "medio": "5Días Paraguay",
+              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeTJGTk9xWHp6MEs5UUlSN2JRNzNMTzAxMmk2VThDME1hZGdEQnh1Ny1qeW16RWxHR0VNUGg5Q0s2N29WQUQya3M4N1ZSbWZZalBoRzdSOF9xMk9hb1JFX3lEcWYxWWVhSWc0TUhvTUJNMHBfc0ZXSThMUlpsX1pBQUtUVm5JUGRpbFNlRUdZQk54YmVyNWIw?oc=5"
+            }
+          ],
+          "imagen": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/VVFLDKR7FZAQLFCLPWFJSUZQYA_20260725_114914.png"
         }
       ]
     },
@@ -2325,11 +2349,11 @@
       ]
     },
     "maquila-records-py": {
-      "titulo": "Exportaciones bajo el régimen de maquila alcanzan récord histórico",
+      "titulo": "Maquiladoras cierran el semestre con superávit comercial",
       "categoria": "Economía",
-      "contexto": "El régimen de maquila permite a empresas instaladas en Paraguay exportar con beneficios fiscales, y viene creciendo sostenidamente como generador de empleo y divisas, atrayendo también a inversores regionales como la industria láctea brasileña.",
+      "contexto": "El régimen de maquila permite a empresas instaladas en Paraguay exportar con beneficios fiscales, y viene creciendo sostenidamente como generador de empleo y divisas.",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-26",
       "updates": [
         {
           "date": "2026-07-15",
@@ -2404,6 +2428,23 @@
             }
           ],
           "imagen": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/images_1_20260715_174411.jpg"
+        },
+        {
+          "date": "2026-07-26",
+          "hoy": "Las empresas maquiladoras cerraron el primer semestre con superávit comercial, con Brasil como principal comprador (62% del total exportado), seguido de Argentina (15%), Países Bajos (9%) y Estados Unidos (4%).",
+          "fuentes": [
+            {
+              "titular": "Las empresas maquiladoras cierran primer semestre con superávit comercial - El Nacional - El diario de los lectores influyentes",
+              "medio": "El Nacional - El diario de los lectores influyentes",
+              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWnNPMzFHbkxIalBGNmFXb0h4RmMxQVl3dHNvQldxeWo1RlpJOU1SUjdpenl3SkF3NmNoZ3dPakpWRE1nLWhxZExyc1R2TmpDUzVLSkEwMDJqMjRaWXdfQzR6TEJzVG9lZ0V5M1VrWU5KYm1xN0d3NVQtN1pOdmk0Rk1DRTYxTUJBNXg2TmF5MGc5VzY4Uzg4ZWthWU9aVTNTT1hqWm52NUJRRnFqTDhRV0930gG3AUFVX3lxTFBjYUtscl81LWIyU2NVUlZGeEY0MDJmNi1Mdk5UV2JoYmd2LURkWnZ2ci1hcFZZN0lIX3BEMldaSVRTaVotMG1STzFoVW5mNWpMcmtsUWxlb1UyLUZ0Tl81dXFENVpUTENlajE1aEc1ZUZqUjZhNk95U1ZWWTBtQ1plUEtmejhBQmpBUUQxMnVSQi1ndnJ3TlNKZHBBMHdQZ2s2a2hkY2hxNVNoZDhrSFRTXzBhOW9idw?oc=5"
+            },
+            {
+              "titular": "Las empresas maquiladoras cierran primer semestre con superávit comercial",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/economia/las-empresas-maquiladoras-cierran-primer-semestre-superavit-comercial-n109519"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2025/02/efa0cddcf31386ada56b2911d2770b4a.jpg"
         }
       ]
     },
@@ -2796,11 +2837,11 @@
       ]
     },
     "alerta-nino-emergencias": {
-      "titulo": "Persisten el frío y el riesgo de inundaciones por la tormenta de Santa Rosa",
+      "titulo": "Gobierno y Municipalidad coordinan ante la llegada de El Niño",
       "categoria": "Otros",
       "contexto": "El fenómeno climático de 'El Niño' suele traer lluvias intensas y crecidas de ríos en Paraguay, con riesgo de inundaciones en zonas bajas.",
       "first_seen": "2026-07-16",
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-07-26",
       "updates": [
         {
           "date": "2026-07-16",
@@ -2930,6 +2971,18 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/N7GX77R2CJDFVDTCCDME6OZPSM.png?auth=0aef3d90c1e028166bd61845a249774e0e026005835ca3b666f31c44601d5b94&smart=true&width=443&height=497"
+        },
+        {
+          "date": "2026-07-26",
+          "hoy": "El Gobierno Central y la Municipalidad de Asunción reafirmaron la coordinación permanente ante la llegada del fenómeno El Niño.",
+          "fuentes": [
+            {
+              "titular": "Coordinación permanente existe entre el Gobierno Central y la Municipalidad de Asunción ante la llegada del fenómeno El Niño - Municipalidad de Asunción",
+              "medio": "Municipalidad de Asunción",
+              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWnFDWUtSZFdoaUQwSWdxNVRxZnU1Q1RRMU1zTU5FS0xFNVFQRGxYQnlOZDJNQVNPZVpoOS1EV2FTYlB0Ql8yMm1VMTdBbGwzd2dYalVhc0ljbnk3b0ZOaEhuRkY0dVowNlB2UVgzUHh6RlVMUkVLaVl3ckY2d2VyWU9GY2ZIMkUxb2N5cWV3bDdaNmRWc1ZtMFREOA?oc=5"
+            }
+          ],
+          "imagen": "https://www.asuncion.gov.py/wp-content/uploads/2026/07/6h21m45s283.jpe"
         }
       ]
     },
@@ -3013,11 +3066,11 @@
       ]
     },
     "vallejo-tenis-bastad": {
-      "titulo": "Vallejo hace historia para Paraguay en el tenis",
+      "titulo": "Catalina Delmás suma un título internacional para el tenis paraguayo",
       "categoria": "Deportes",
-      "contexto": "El tenis paraguayo viene ganando visibilidad internacional a través de jóvenes jugadores que compiten en circuitos ATP.",
+      "contexto": "El tenis paraguayo viene ganando visibilidad internacional a través de jóvenes jugadores que compiten en circuitos internacionales.",
       "first_seen": "2026-07-16",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-26",
       "updates": [
         {
           "date": "2026-07-16",
@@ -3035,6 +3088,18 @@
             }
           ],
           "imagen": ""
+        },
+        {
+          "date": "2026-07-26",
+          "hoy": "La tenista Catalina Delmás Schaerer ganó su primer título J100 en Colombia, sumando otro logro para el tenis nacional.",
+          "fuentes": [
+            {
+              "titular": "Catalina Delmás Schaerer gana su primer título J100 en Colombia",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/deportes/2026/07/26/catalina-delmas-schaerer-gana-su-primer-titulo-j100-en-colombia/"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/NFVNY3RXZBBWTKECUD6RBFHL3E.jpeg?auth=b7bc68cb64567e182441e3e341e5c17159c596da6e3322e7c2af0405f10f6e36&smart=true&width=3120&height=2499"
         }
       ]
     },
@@ -3060,11 +3125,11 @@
       ]
     },
     "pasaporte-biometrico-bloqueo": {
-      "titulo": "Se confirma el bloqueo por pasaporte biométrico vencido",
+      "titulo": "EE.UU., Paraguay y Colombia bloquean a quienes demoraron el pasaporte biométrico",
       "categoria": "Regulación",
       "contexto": "Varios países de la región vienen actualizando sus requisitos de documentación biométrica para el ingreso y salida de personas.",
       "first_seen": "2026-07-16",
-      "last_seen": "2026-07-25",
+      "last_seen": "2026-07-26",
       "updates": [
         {
           "date": "2026-07-16",
@@ -3129,6 +3194,18 @@
         {
           "date": "2026-07-25",
           "hoy": "Se confirmó oficialmente que Estados Unidos, Paraguay y Colombia bloquean el ingreso y la salida del país a quienes demoraron la renovación de su pasaporte biométrico.",
+          "fuentes": [
+            {
+              "titular": "Oficial | Estados Unidos, Paraguay y Colombia prohíben el ingreso y la salida del país a quienes demoraron la renovación del pasaporte - El Cronista",
+              "medio": "El Cronista",
+              "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOeENBY3NSS3FLUzNTSy1wNEtKUU5wY2ZaVUlhbGRsQkR3cnFiN09hRG9ZOFFQYkdWLTlvQWpkQjhUcFFlc0tqU3lqTjc3bnpRQ25fdndGOVB2NEY3V1pEamxNX2t2UC1ab3hGMWY2Q2dnb0hDZ2RjazNVSFpxWWFuUnAwS2VtTmh5bHNIRlRGSFI0dTk2ZnN3Uzl5YU1jRDEzUG1ZYkdaSTMya0Fyd0pPc29Vclg4RUJQZVE2akR1U0lLTkFETk1SUm9FUEp2TVVwN2I5Tk5MR0hJcWgybDB5LTNuZUtNZ1Exa3dHNm5DZDhleGpoMndwZFJYNko1UHPSAZoCQVVfeXFMT3hHaExiNllLd1V2RzhLcUh2OTlsZHM0VkVhNk9lMUhBUkNDOVI5U2FtNDYzSGNFQWx3czRJdEtpRnR1Um1ITVpjNWppVllxUmdkUUhQOUZ2WWx1MzBRRXBhQWRIYWZtcVpFWUk4Y1poejdsX05rbXhwdFFtbldHVlVIRy1xbGw3WEllc2wwRXJPdXgwSzNOczJPb2ZjT1Yybm9ucUtzV2h6MTk2WHpSQldCeUFsRjRELVo1TG0wWF9ycVBXVl9MaUpiam8tMlJNbXFjZVA0UlVHeFQzN3hxU0w0M282dkpYeTIzX2paU1RSME9VU2QtQzhfM2J3OVhtcmZfNjNoS3RVa1UyRXk3dlEtTW9seGVmbVFn?oc=5"
+            }
+          ],
+          "imagen": "https://www.cronista.com/resizer/v2/CWBWMEVZQ5EHJMGRGHJQW6N7OM.png?auth=51a6f17d731382e5cfb81154ae6f0859a1e814747b27d2681bec960bd5187d84&height=630&width=1200&quality=70&smart=true"
+        },
+        {
+          "date": "2026-07-26",
+          "hoy": "Se oficializó que Estados Unidos, Paraguay y Colombia prohíben el ingreso y salida del país a quienes demoraron la renovación de su pasaporte biométrico.",
           "fuentes": [
             {
               "titular": "Oficial | Estados Unidos, Paraguay y Colombia prohíben el ingreso y la salida del país a quienes demoraron la renovación del pasaporte - El Cronista",
@@ -3221,11 +3298,11 @@
       ]
     },
     "campana-electoral-municipal": {
-      "titulo": "Arranca oficialmente la campaña para las elecciones municipales",
+      "titulo": "Peña se pone \"al servicio\" de la ANR y llama a \"coloradizar\" el país",
       "categoria": "Política",
-      "contexto": "Paraguay se prepara para elecciones municipales el 4 de octubre, con un calendario electoral fijado por el TSJE.",
+      "contexto": "Paraguay se prepara para elecciones municipales el 4 de octubre, con un calendario electoral fijado por el TSJE y el Partido Colorado buscando mostrar unidad interna pese a tensiones con sectores disidentes.",
       "first_seen": "2026-07-16",
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-07-26",
       "updates": [
         {
           "date": "2026-07-16",
@@ -3274,6 +3351,63 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/U6JPIINKTVHDHOFOTFVVI6POEE.jpg?auth=c7edb420d3c4f5c91156ca1ba7fcadb5c69c25c0ccc084525c8ae38ba7817cf6&smart=true&width=6000&height=4000"
+        },
+        {
+          "date": "2026-07-26",
+          "hoy": "En una cumbre partidaria en Luque junto a Cartes, Peña se declaró \"al servicio del Partido Colorado\" para asegurar el triunfo en todos los municipios y afirmó abiertamente que buscan \"coloradizar\" el país, generando críticas por presunto desprecio al pluralismo, mientras Cartes remarcó que \"la salud del Paraguay depende de la salud del partido\" y se exhiben grietas con la disidencia interna.",
+          "fuentes": [
+            {
+              "titular": "Santiago Peña: \"Yo les digo fuerte y claro, sí queremos coloradizar el Paraguay\" - extra.com.py",
+              "medio": "extra.com.py",
+              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObFRLWlhEaVR4QmxHM2JmX1FOSnhnY04tRHRqVGtUempKRlBkS2VDVU41a01iYlRodWFSbDZqYi1UZ3BuaWw5a3BYWHdPOGdBZmFUQXF0NTRGVURxRE1kb2RBNHMxYm8tZUZyaXk1b3F5YWRSdENlaHpmWm5vOGZxd3I0QnR2QXFNTk9JM0xCTndQc1NhcDliRHgzUnVHRzk2NWlRa0tSQ0lqWmRCSnVIcUFB0gG_AUFVX3lxTFBaMmFzR1Atc1V5OW9fSHBnbHd4S1ZHOERNWUlPVFVXdnRwTDJyWDkweTFoRHRvRE4xQ3lMU005UzdITWp6Z2ctS29kTXlFN2toZ1laVEU5RzA4Sl92Z1NRalZOVzFTQXJjNjdHY3pEM0pEOUc5YVJ2MjBRS1VBblhaZTY4a2xJeERUNTk0LTVTWG0yVUtjWTNvcU93Zkpic0llMWllVktfQmxOQm5vTW9HUmdZSUtuSnpydkhyREtr?oc=5"
+            },
+            {
+              "titular": "Peña califica como hecho político trascendental la presentación de candidatos de la lista 1 - La Nación",
+              "medio": "La Nación",
+              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOS0yUk1iX0E5b0dTaTh4SkRaTXFIWlRwUk15SFVhS3ZRV0IybEVuMlV0SHpRVDRERjNFSHEwaHlJZ0JSRmM0dTBOLW13eFVwaElwVzI1dU1fdWFVQUFWMHk5cWZBUnA5dndIa0hqTHc3bGJQVWNoZms2WG9fTnV2R3oyVTlINVJOcmhKWndGSzNFbnByMDVGcEp3UFExYy14Y0ZwN2dkN2tpRGZtMGRWR1EzTmxaeUFwd1RKSFdCMC1VcTdrTVpKUm9kVlcyemdGZGNHSVBhVQ?oc=5"
+            },
+            {
+              "titular": "Santiago Peña consolida la unidad del Partido Colorado rumbo a las municipales - NewsDigitales",
+              "medio": "NewsDigitales",
+              "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX3pFbW5hOXhzandBYndlZTFhZk1YV1VRX3pfckNVNDdRX3BETEM3VmdrbzRDUjdMR2VxbVZjVV9Qckp3Q0pIV1NtZTRMa3dPUjVNeE4wVHFaUGtDZVBnSkwtbFlFbVN4SE4yYkZLZm0yTDV3RENVRTZFd2ZHbFFXTHVuUE5NZmE1dTBDTTQzU1FmWGQzYU1xQUlwbFZxSk5YenY1TTROSDhxSXZKdzJVdFpOV2RvWTZqcjRtYlhR?oc=5"
+            },
+            {
+              "titular": "Cartes y Peña apelan a la unidad, pero la disidencia exhibe grietas - ultimahora.com",
+              "medio": "ultimahora.com",
+              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdXdyMDNtSHZmODVrLU90cnA4NDZYOTlxcGE1aEpvYmdtYW9rVVhxaXJINVRieHphZEd1LWk2TkRzRnNiSV9tdkp4N3VhZDNkdUwta0NjdDd2aGlJVG5TNGh6UVdWSTJIc1FJd0dueGQxMkQ2ek1jMVpjSkhOOUdjVmpvUUNXcWdVeTdHeXlKaEJMemZLZDI4UNIBpgFBVV95cUxQQVVpX09zV3ByS2lfbG1ic1E0czFRd2NYdEk2cHpuWDJ6bDhoWE9oTEdNYy1GWFFRajRSMDR6ZEY2ZmxjZ3RJd1RZaVJUTnN1ZHdjWFgwUzFBNlpPdF9uYS0tQkNnTkJsZTNlMVJiV3Y5MEVNZ2xvOTJTYUhyc3ZQZFZBdGxfUXg1QldjYU0xTlJobnU3NklGN3VkSXpKSlhoWTdkYkpn?oc=5"
+            },
+            {
+              "titular": "Cartes y su mensaje a la dirigencia de la ANR: \"La salud del Paraguay depende de la salud del partido\" - El Nacional - El diario de los lectores influyentes",
+              "medio": "El Nacional - El diario de los lectores influyentes",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWk1QTEVuWUdMd0V5X3M0ckxxenFHSjZIQWlxdDAwT01nUjdsbmpzUG9hYk5kRDRVNzY4MnJEajBlR1VUY19FWU9UbmpQb19wcnFxcjBRb0NSUHJhdFN0dkl5XzBJZ2N1Mm9oWnVCdzV4SFNpYmwtYlNwUkwxWGUyZ3lOMkxGRy1MT05IelhGRU15UDIyOTcwMml6eXR4aXNEUzBCZjNzbE91ZGxMNVRVTmVmMlVwd9IBuwFBVV95cUxQVzJfZDlyLU5YWVBYUkJRUHRzZFI4VTNDYkVUTWt6LWp3WGttZFctWlp0S0VSYkN1VnBjc29vbHJsVWdzT1A5aThxaDZJci1ZYm1sYzhsZ3ZJWDlibmdpNzRIQWU3V3VUSVFUWGU2cFgwaWNIdXg2WHBSbVhDMFlfaEN1em9yUzN4Q2lpUktRZk1aMF9xSldBTlFTbjF3UG9GcWcydUdxMzRYRWpBMUhxRlhYOWpEcml6dm5n?oc=5"
+            },
+            {
+              "titular": "Sin Abdo y Velázquez, Cartes llamó a \"coloradizar\" el país en la cumbre de la ANR en Luque - La Política Online",
+              "medio": "La Política Online",
+              "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZVNUdXJualpLNkM3cDhMOGpBTEhURG9xZHlQSVZCcko5VkI4RjZXOTdERzRfc0pUM2xCV2tiVUw2N0F5TTN6amlUeUtldENOcWt0LVFhOEpFb0R4RTNGVVJ4aG1nRjloTFhHRDk0dVhUUFVxajBQTTNyWDhWU0FUNUlfMFNXZDFSVjk5VzRvU01vWWQ5QklicW1GTmpxbnZuVmdMX09EWDFLMmcxMVViMjZKNVY5SW5FRlQyTkFBU2VDZHU1VGhYSVpQM3I?oc=5"
+            },
+            {
+              "titular": "Peña: “Que la concordia no sea una simple frase” - Más Encarnación",
+              "medio": "Más Encarnación",
+              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSm5wRnlzSnFvejlreHE3dEcySVRXRmdBbHJzRVNxaHIxQ0x4Y0hQR2VhRnQyT1FoVUZ0aldwYlhUdEVpamd5YkNhb1NJbGJlc2o5QjZHYzhreFQzNkw1N29NM0NfSmJNRDc3UDAyNDNZWDdfSEJ3U1IxTm9jUl9EV005ODhZZUsyYzZwX1V3?oc=5"
+            },
+            {
+              "titular": "Peña habla de democracia, desprecia el pluralismo y se cuadra ante Cartes para “coloradizar el país” - abc.com.py",
+              "medio": "abc.com.py",
+              "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNb0N2U2JsN25LUTRlTFdZWTJWZ1JQeU5yQ0F4NFZPUEpISTBwXzVDbm40TnNlMGIwYXFVeE1KNFNKMkNCSHJaVl9EajU1dlFHeTVJcy12SDYxdl83OTg2UzhlZ2FCSjhyOEh6N3QwNWJkMk1PRjZLMmwtZDRmMlZfQ09CTW9sWGdLa20waUZmdlBoUWFaR1hiY1JZS2NFRWVsXzNwUENHbzdrZXJXVlZaSFF6MWk3dFZBa0tCQVRqM1B3NW9WbmR5REt2enNYbUMta2hxRTNDSlHSAewBQVVfeXFMT0NNT0dsTWJrLVBkNWxZcERBeWpMTEZxMHdKRXJsQ0d4NWV1SzNZd191V085ckVXZ0R2a3FtTkhSM0JVc1JHMzlzVzNTM0NjdG5oakozUzJaU1lDeWFVZGZ4aldLMXQxdmd1QnhRWXlUS09SU25DMWMxU0pwaDZsak1mZ0tsd1VZUm04aVp4RWR2MDk0cGNibV9fOFJjb0R0aXgzWlhWdXU5Rm0ta1B6VjNFWURka3ozQTFZaGdaanA4djZVTGFFcGlpZk9XLS02TjdtNkw2ZF9VMzV5SmkySVotUUpQSHVzcTRSVTI?oc=5"
+            },
+            {
+              "titular": "“Me pongo al servicio del Partido Colorado” para ganar las municipales, afirmó Peña - La Nación",
+              "medio": "La Nación",
+              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLTFHanRfalc3XzBzbHhvS2JrZ3p5bzhZcUlNaVRYLUpZX29JNkdsQVNNYjk4MlBFWVVvb3pJZkRnTHZVY2VORWpvQ1pEMldOM2htZ1dJX0JqS1hwZ19oOXItc0RZaW4xTndZSkNvWklRMXBmZ3RMclV2Vl9vcFV4R1pPU1hRd2VDNVZDMUZFck1JR3R6TC0wRlp3YlJiWko1TzQ3OXk2dkZBeWNXTDFXRlMyUG8wRWVwVmdkOXUyUEMyZWZWQnlqTQ?oc=5"
+            },
+            {
+              "titular": "Peña entra en campaña municipal para “asegurar” el triunfo de la ANR en todos los municipios de Paraguay - ultimahora.com",
+              "medio": "ultimahora.com",
+              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLTdBM0E0ZUlFN19Hd2dLd0VhcDZzc3lkcENqc1lJejhhOG9xRUZ0SGpid29nUVo0RVRjdjVsTEVzX0RRcE1pejRTY0JDdXJOR1VUYlhqVjl4a1hsLXltSXZhTzY2WUtsaEJ3QllrRTdzWEk1a1lfZGVXd0g4NFRtd3hoNEI4dkJTb0NRV2otOVRtYXp1SmFld21qbi1qQmN6dWsybHhCX29kTnJhdUZXamFIdGFielhT0gHGAUFVX3lxTE9qVmhXNnFEbGhlWGdxWjdvUGdRWjl0eU9lMXl3ZnBWSlVqck9GeFhubEY5dzJGaVlFa1dyMnBuUVBYMVZBbDAxUmR1cnFsbTVBN1V2WmhBaWZkOE56dEtpUjJTbFdBZU0wNUpJVF9YaWJaTGp2a2NPcVNvaDdoWTlLV2xQYm9YT0ZCUEpKRTV6YVlnYVJTV1NWVklQRF9BSVIyYlVCbkF2VG5EdTBkdEFtM3VUQnFFeWdjaXZTZ0lXaWcxYm8yUQ?oc=5"
+            }
+          ],
+          "imagen": "https://grupovierci.brightspotcdn.com/dims4/default/4717f78/2147483647/strip/true/crop/3307x1860+0+54/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcf%2F7e%2F9e475d3a43e2a33538952e67fb09%2Fconvencion-de-colorados-21-68765008.jpg"
         }
       ]
     },
@@ -3833,11 +3967,11 @@
       ]
     },
     "mercado-fichajes-liga-py": {
-      "titulo": "Sigue el movimiento de fichajes en la liga paraguaya",
+      "titulo": "Olimpia avanza en la negociación por el chileno Esteban Matus",
       "categoria": "Deportes",
       "contexto": "El mercado de pases del fútbol paraguayo está en pleno movimiento de cara al Torneo Clausura 2026, con clubes grandes definiendo refuerzos.",
       "first_seen": "2026-07-17",
-      "last_seen": "2026-07-25",
+      "last_seen": "2026-07-26",
       "updates": [
         {
           "date": "2026-07-17",
@@ -4029,6 +4163,18 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/2OE6KQFQZFDW7LZE5EQ73XWNMQ.jpeg?auth=afbd13a97065280bc1b4c775fe4fbde31d663bb7c10f1ed4f9a7313dd7b01557&smart=true&width=567&height=370"
+        },
+        {
+          "date": "2026-07-26",
+          "hoy": "Olimpia negocia la llegada del chileno Esteban Matus, quien competirá el puesto con Alan Rodríguez.",
+          "fuentes": [
+            {
+              "titular": "Olimpia: los detalles de la negociación por Esteban Matus",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/deportes/olimpia-detalles-negociacion-esteban-matus-n109565"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2026/07/6a6575b5771ac.png"
         }
       ]
     },
@@ -4424,11 +4570,11 @@
       ]
     },
     "decretos-electrointensivos-energia": {
-      "titulo": "Peña descarta nuevos decretos sobre industrias convergentes",
+      "titulo": "Debate sobre el rol de la minería de Bitcoin en el costo eléctrico",
       "categoria": "Regulación",
       "contexto": "El Gobierno paraguayo había generado polémica con decretos que otorgaban condiciones especiales a industrias 'electrointensivas' (de alto consumo energético, como la minería de criptomonedas), en medio del debate por la disponibilidad eléctrica del país.",
       "first_seen": "2026-07-18",
-      "last_seen": "2026-07-18",
+      "last_seen": "2026-07-26",
       "updates": [
         {
           "date": "2026-07-18",
@@ -4441,6 +4587,18 @@
             }
           ],
           "imagen": ""
+        },
+        {
+          "date": "2026-07-26",
+          "hoy": "Una columna de opinión sostuvo que la minería de Bitcoin y otras industrias electrointensivas contribuyen a bajar el costo de la electricidad para los hogares paraguayos, reavivando el debate sobre el uso de la energía excedente.",
+          "fuentes": [
+            {
+              "titular": "Bitcoin hace que la cuenta de luz de nuestras casas baje",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/opinion/2026/07/26/bitcoin-hace-que-la-cuenta-de-luz-de-nuestras-casas-baje/"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/JXANXP7PERAZFLXYOZNTE3DKMU.jpg?auth=8c01b47ec18fd74387ad193bcc5522fd5fa85cd75aa8736a7ca7724efa422efc&smart=true&width=2048&height=1536"
         }
       ]
     },
@@ -4758,11 +4916,11 @@
       ]
     },
     "fortaleza-guarani-dolar": {
-      "titulo": "El mercado cambiario sigue de cerca la evolución del dólar",
+      "titulo": "El guaraní se fortalece frente al dólar y reabre el debate cambiario",
       "categoria": "Economía",
-      "contexto": "El guaraní viene mostrando una fortaleza relativa frente al dólar en el mercado paraguayo, en un contexto de solidez macroeconómica y superávit comercial sostenido.",
+      "contexto": "El guaraní viene mostrando una fortaleza relativa frente al dólar en el mercado paraguayo, en un contexto de solidez macroeconómica y superávit comercial sostenido, lo que beneficia a importadores y deudores en dólares pero preocupa a exportadores por la pérdida de competitividad.",
       "first_seen": "2026-07-19",
-      "last_seen": "2026-07-25",
+      "last_seen": "2026-07-26",
       "updates": [
         {
           "date": "2026-07-19",
@@ -4819,6 +4977,38 @@
             }
           ],
           "imagen": "https://www.clarin.com/img/2020/03/04/XTskgx7L_1256x620__1.jpg"
+        },
+        {
+          "date": "2026-07-26",
+          "hoy": "Se informó que el guaraní acumula una apreciación de 8,13% frente al dólar en 2026 y de casi 20% interanual, reabriendo el debate sobre el impacto en la competitividad del agro exportador, en paralelo a las cotizaciones diarias de dólar y euro.",
+          "fuentes": [
+            {
+              "titular": "Euro hoy en Paraguay: precio y cotización de la divisa este domingo 26 de julio de 2026 - Clarin.com",
+              "medio": "Clarin.com",
+              "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRlhLM25WM19IdkdKMGFTRDJZNlhJdk1ZNl94Skh4U3pmTFM0NzMtSWxLOHBHazVRSzhmYmtWTEtldWJiRlAyOEFWZkFSUjBZeG1rd3N3eEx3RHdaSU0xbExEaWpVaDJwckFsMkRwb2xVM29CNDNGdnRKRE84cHcwVjlpbzlpZHRMa2lrQ29nVDFsQ0hoTTZwREJ3Y0Y5QkpZamZ5N2xQa3lLN2pCQ0FwSkZyLTRuR3JseWZzR3NwV2dSWXZVVm9fVWdlZVIyeXVTdEHSAdcBQVVfeXFMT1JBTUNJNDl2emJDMWRwWFZqT0lZWUYycmJJX180UFVhM2hmNUFrYkpmOU1kU1kwTVVzaUozV19COFc5VFA5bmlQaUVCeDRBejV0aHV5UWZlaVZzdFItMEMtaFI4NDNpZGgyRHAxRlVFV0lkSU1VeFVRXzNWQm53b2VnQS14UFVrcDJwUmNCMEJaTDljd2pGdnB3dzhyRFVRVFdLNVpJVUdiYmhrVlIxNHlDckVndWtmN3c4bnRIX1JBSzRtYnF3M2QwNDkzTmhBUVJ0bW5jRUk?oc=5"
+            },
+            {
+              "titular": "Dólar hoy en Paraguay: precio y cotización de la divisa este domingo 26 de julio de 2026 - Clarin.com",
+              "medio": "Clarin.com",
+              "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSGstOTdNZGJoTHlaMmJzYWFXSXFFUmNBNEhHcmtvVW1fdXJzeVAtOFNuRFFUcllMcHNJa1E4NmxPWHg4V0IyUDBpMVdQeTJwdUhwMkVrU3dMVnc3SThkQVFWd3JZbnRVOWJvNm9oSXcyN25tVDNEZHd2NEJJc09sY0pMTlBxaDBjU3duOGF0ODNxNVEzM3lrWDFnTEZKQllnQm9NWWcxRWotWkZhSUJQWURPSWNreUdfV0FHSUtjQVFKdXZWVUdHMGRJcGg5YS1jVW5J0gHYAUFVX3lxTE90TnR4VmtYcjVfM2ctQ0RHV0RGcVhCU29ZRlFWY3gwRFJuanF1ZXZzQzFaU1B5T0lqUktTOWQ3NGNrZWZCNU1QSTNad1pMTXpRemRXWnh0d3lXUy1CTWJILWxueVRtUnowS3J0aTl5MzZwbVZCaUtCcVN5RnRZWFBvejkydm9XN0dpV2dadGt6clQ3a2pNOUhQamFVbWtzUUVQT2pkWXpWQXVHY2N5UWdaXzBMZ2Fqd2NYYWxnRFhUZkNNenZoUTMxbW10Rk95NXU4ODlXUlBYVQ?oc=5"
+            },
+            {
+              "titular": "Dólar hoy en Paraguay: precio y cotización de la divisa este sábado 25 de julio de 2026 - Clarin.com",
+              "medio": "Clarin.com",
+              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNX3pWQWlRM3lqbGhZVmZwVHlYaDZDZ3N6aVk5dUFvS1pPUnNFMXU3R21SZ2pTd1h3ejI1OUpCUmU2ckpXMzdWc185eHRsX1lEdEl5ejh3YXlTdFF6TkstZmJDUTI0cHRNMU5va0VpV05DVkVFeTJzLXN2bEhQN0RyU2c1SklQWm1zS0Q3aTQwdWRWcHVuVnQ4dktaaHR2X19sMTc1UHhlbnk1T0ZtMEthdzBsTmFFWFpoYllJRjY2WXZ0NUJBMUd2a3gwNk9fSjE0MTF6NXluQdIB1wFBVV95cUxNX3pWQWlRM3lqbGhZVmZwVHlYaDZDZ3N6aVk5dUFvS1pPUnNFMXU3R21SZ2pTd1h3ejI1OUpCUmU2ckpXMzdWc185eHRsX1lEdEl5ejh3YXlTdFF6TkstZmJDUTI0cHRNMU5va0VpV05DVkVFeTJzLXN2bEhQN0RyU2c1SklQWm1zS0Q3aTQwdWRWcHVuVnQ4dktaaHR2X19sMTc1UHhlbnk1T0ZtMEthdzBsTmFFWFpoYllJRjY2WXZ0NUJBMUd2a3gwNk9fSjE0MTF6NXluQQ?oc=5"
+            },
+            {
+              "titular": "El guaraní se fortalece 8,13% en 2026 y el dólar cae a niveles que reabren debate sobre la competitividad",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/economia/el-guarani-fortalece-813-2026-dolar-cae-niveles-reabren-debate-sobre-competitividad-n109526"
+            },
+            {
+              "titular": "El dólar y la competitividad del agro paraguayo: una mirada más allá de la coyuntura - El Trueno",
+              "medio": "El Trueno",
+              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUUpndmotcTFHam95V1B2XzNSSzVVN3MtalVTZGk2ZU5nZDBqb2tWVmFTelFTNnBObjNIdW5SWTBBb1phbWp3d1pVSm91OFM3WkdKdXZERnRYVUN3THJMTHdlRVlRa0tmdlJ3QU1tTTNWMTZ5TnhZVVFKcUlabjQ0Z2RPQWdkV01hT2J0bHlLbjhFZEhuZGlodU9aOUtzNlVOelEzZVRJLTdhbklwWGxjTUVtalNLc1NnMDZz?oc=5"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2025/07/6887fd562cd29.jpg"
         }
       ]
     },
@@ -4856,11 +5046,11 @@
       ]
     },
     "carne-exportacion-nuevos-mercados": {
-      "titulo": "Paraguay insiste en cuota del 25% de carne hacia la UE",
+      "titulo": "Sector rural analiza el acuerdo Mercosur-UE y sus desafíos sanitarios",
       "categoria": "Agro",
       "contexto": "Paraguay es uno de los principales exportadores de carne bovina de la región, y viene gestionando la apertura de nuevos mercados mientras dentro del Mercosur crece la disputa por la distribución de cuotas de exportación hacia la Unión Europea.",
       "first_seen": "2026-07-20",
-      "last_seen": "2026-07-25",
+      "last_seen": "2026-07-26",
       "updates": [
         {
           "date": "2026-07-20",
@@ -5021,6 +5211,18 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/ELSWBKIGWVCOVMUH4MQET7PQ5Y.jpg?smart=true&auth=e451701832f7e81b116a23d696a75156d463edcc1aae83b7b9f310092d2f2f49&width=1200&height=630"
+        },
+        {
+          "date": "2026-07-26",
+          "hoy": "Asociaciones rurales evaluaron el acuerdo Mercosur-UE y los desafíos sanitarios que implica para sostener y ampliar las exportaciones de carne paraguaya.",
+          "fuentes": [
+            {
+              "titular": "Asociaciones rurales evalúan acuerdo Mercosur-UE y los desafíos sanitarios - latribuna.com.py",
+              "medio": "latribuna.com.py",
+              "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRU9qRm8zbEl2bm1TbVpxaVlJWlk2aEJKZnJBbGs5MGVUVjNydFE2cjltaGNTTVE3aDVTUE91T1ZhQldxeUdYMmRPRXRaWTJ5RWZXZnp2TmlnT1dhWXZxOHloaVRjdmkwa2ZfMUlWOEwzQVpvZW55WnZqOGUwR0cwWlcwMldjaVl1WE1rS1JINV92bk5KTGNLSDRHN3kxZFJDOTczSnR5R2dOSDRnaWNTUm9rcnhVZ3lta3JqcTN4SnpEMkVUQ25DeEJkYUd3dw?oc=5"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/MGI6S6P2UBBJXPF5QGYI6LUPQ4.jpg?smart=true&auth=86e5888f7651726a350328ceb560d1a4de102b5b7820ab24b0877c89ec9beb05&width=1200&height=630"
         }
       ]
     },
@@ -5425,11 +5627,11 @@
       ]
     },
     "leite-embajador-senado": {
-      "titulo": "Leite vuelve al Senado y desafía a Peña con recorte de gasto",
+      "titulo": "Leite vuelve al Senado con duros cuestionamientos a Peña",
       "categoria": "Política",
       "contexto": "El senador colorado Gustavo Leite se había alejado temporalmente de su banca para asumir como embajador de Paraguay en Estados Unidos.",
       "first_seen": "2026-07-20",
-      "last_seen": "2026-07-23",
+      "last_seen": "2026-07-26",
       "updates": [
         {
           "date": "2026-07-20",
@@ -5481,6 +5683,18 @@
             }
           ],
           "imagen": "https://grupovierci.brightspotcdn.com/dims4/default/05aad91/2147483647/strip/true/crop/853x480+0+278/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdf%2F0a%2F8ea90b064cb3816dd59c49501d6f%2Fsanti-y-mangui.jpg"
+        },
+        {
+          "date": "2026-07-26",
+          "hoy": "Leite retomó su banca en el Senado con ataques directos a Peña y propuso un recorte del gasto público de US$400 millones.",
+          "fuentes": [
+            {
+              "titular": "Leite vuelve al Senado con ataques a Peña y sugiere recorte de US$ 400 millones - Política - abc.com.py",
+              "medio": "abc.com.py",
+              "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZjk3NU85eDFXbGtHUjhFT1Z5cU5fYzNkeTY2VmFXX0s4U1J5bXV2WGFfb21NVEN0UDFxQW5aS3dhNk9JU241NDZEeFgwVEpsdWtWY2labS1VZHBSNE9HbVhNck5VX2hqMENtRW9jcmJrc05PczNlaXlsVHRwelp6OG1hOGoycThNaG55NGhJeW1CZXIyZVVHaGtLaDEySGhjSmlqaHd0cHBUZ3JUVWtsYlBRM3doMUc1dWdWTk53OA?oc=5"
+            }
+          ],
+          "imagen": "https://www.abc.com.py/resizer/v2/E7FES4QV6NCZZHAVY43OR5MOR4.png?auth=653f2a29de9d216baa2602ec9c601f6f69abc86cf71505f01b07494fa5819f1e&width=770&smart=true"
         }
       ]
     },
@@ -5527,11 +5741,11 @@
       ]
     },
     "honor-colorado-dupla-2028": {
-      "titulo": "Alliana elogia a Baruja como posible compañero de fórmula",
+      "titulo": "Crece la disputa interna por la dupla presidencial de Honor Colorado",
       "categoria": "Política",
       "contexto": "Dentro del Partido Colorado, el movimiento Honor Colorado viene definiendo su estrategia y posibles candidaturas de cara a las elecciones generales de 2028.",
       "first_seen": "2026-07-20",
-      "last_seen": "2026-07-22",
+      "last_seen": "2026-07-26",
       "updates": [
         {
           "date": "2026-07-20",
@@ -5553,6 +5767,18 @@
               "titular": "Alliana llena de elogios a Baruja, su posible \"vice\"",
               "medio": "El Nacional",
               "url": "https://elnacional.com.py/politica/alliana-llena-elogios-baruja-su-posible-vice-n109345"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2026/04/69e8da50c8640.jpg"
+        },
+        {
+          "date": "2026-07-26",
+          "hoy": "Un analista político advirtió sobre un \"exceso de confianza\" en instalar tan pronto el debate sobre la dupla presidencial de Alliana, señalando que la disputa interna en Honor Colorado incluye a Juan Carlos Baruja, César Sosa y Raúl Latorre.",
+          "fuentes": [
+            {
+              "titular": "Analista político ve un \"exceso de confianza\" en el debate sobre la dupla presidencial de Alliana antes de las municipales",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/politica/analista-politico-ve-exceso-confianza-debate-sobre-dupla-presidencial-alliana-antes-municipales-n109534"
             }
           ],
           "imagen": "https://statics.elnacional.com.py/2026/04/69e8da50c8640.jpg"
@@ -6121,11 +6347,11 @@
       ]
     },
     "exportacion-soja-record": {
-      "titulo": "La soja impulsa un semestre récord para el agro paraguayo",
+      "titulo": "El USDA mantiene un escenario favorable para la soja",
       "categoria": "Agro",
       "contexto": "La soja es el principal cultivo de exportación de Paraguay, con estrecha interacción con Argentina en materia de procesamiento y molienda regional.",
       "first_seen": "2026-07-22",
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-07-26",
       "updates": [
         {
           "date": "2026-07-22",
@@ -6207,6 +6433,18 @@
             }
           ],
           "imagen": "https://argenports.com/wp-content/uploads/sites/143/2026/07/soja-puerto-10.jpg"
+        },
+        {
+          "date": "2026-07-26",
+          "hoy": "El USDA ajustó su proyección de granos y mantuvo un escenario favorable para la soja, respaldando las perspectivas del sector tras el semestre récord del agro paraguayo.",
+          "fuentes": [
+            {
+              "titular": "USDA ajusta su proyección de granos y mantiene un escenario favorable para la soja - El Nacional - El diario de los lectores influyentes",
+              "medio": "El Nacional - El diario de los lectores influyentes",
+              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ3ZXYnh4Vk5MVVFmMXdkUnREMWlOS1ZRNHdZYlp5RzhYaHg3Qk1WMDBtQmk0dE1QcGNXOUp5bHIzQ0tNZHh0QUIxNXdiOGZ0aEVtQ3pEamw0RGxLemoxQXlLYm5ZZzBfaHZJQ2l1SWV0ZDJYSUdIZFc0V2RXNkJLcnhEMHpCUTdhN0R2WmxWSl9CTVdpRWxMeW0yVHlDWkxwYlpXWTFjakFPMkFKekHSAbMBQVVfeXFMTVhwOHktMzNZeUI4QVpWWGNzbUVhZFYzeVFPTm82SGdWSG56cVRXZ1VrajlVb09VMlF0VUwtVnJWV3NuM1BDd2szTDIxa1hXUmNxRGhKMEZadzBBMjhmYjg3b3poWmVObGNhQ3JnT3J0a0hjUlhIdldaWExRRTh4RmljbmhvQ2Qtd0ZzbDlXUTI3OUZUc1dUcGxvclU1a2hCMzR2cFVrZ25nNWhESUUwV3dXOFU?oc=5"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2024/09/59a9ca29e90711869970a7159f20ed0d.jpg"
         }
       ]
     },
@@ -6654,11 +6892,11 @@
       ]
     },
     "ataque-epp-canindeyu": {
-      "titulo": "El ataque en Canindeyú profundiza el debate sobre seguridad interna",
+      "titulo": "El ataque en Naranjito expone una posible \"gobernanza criminal\" en Canindeyú",
       "categoria": "Política",
-      "contexto": "Canindeyú, zona fronteriza con Brasil, es un foco histórico de actividad de grupos armados como el EPP vinculados al crimen organizado, con ataques recurrentes a fuerzas de seguridad estatales; el reciente ataque a un puesto policial en Naranjito dejó tres muertos.",
+      "contexto": "Canindeyú, zona fronteriza con Brasil, es un foco histórico de actividad de grupos armados vinculados al crimen organizado, con ataques recurrentes a fuerzas de seguridad; el reciente atentado a un puesto policial en Naranjito dejó tres muertos.",
       "first_seen": "2026-07-23",
-      "last_seen": "2026-07-25",
+      "last_seen": "2026-07-26",
       "updates": [
         {
           "date": "2026-07-23",
@@ -6800,6 +7038,33 @@
             }
           ],
           "imagen": "https://statics.elnacional.com.py/2025/11/6914a09cbb223.jpg"
+        },
+        {
+          "date": "2026-07-26",
+          "hoy": "Un especialista en seguridad advirtió que el ataque refleja una \"gobernanza criminal\" en la zona y cuestionó la atribución oficial al EPP, mientras se difundieron imágenes de drones de grupos armados entrenando con fusiles en una estancia de Yasy Cañy, y un exdiputado sugirió que el atentado fue una represalia narco por un faltante de 50 kilos de cocaína retenidos por policías.",
+          "fuentes": [
+            {
+              "titular": "Tras el ataque en Canindeyú, Juan Martens advierte sobre una \"gobernanza criminal\"",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/politica/tras-ataque-canindeyu-juan-martens-advierte-sobre-una-gobernanza-criminal-n109538"
+            },
+            {
+              "titular": "Canindeyú: Captan a presuntos grupos armados entrenando con fusiles en Yasy Cañy",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/politica/canindeyu-captan-presuntos-grupos-armados-entrenando-fusiles-yasy-cany-n109559"
+            },
+            {
+              "titular": "Exdiputado sostiene que ataque en Naranjito habría sido una represalia por un faltante de 50 kilos de cocaína",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/politica/exdiputado-sostiene-ataque-naranjito-habria-sido-una-represalia-faltante-50-kilos-cocaina-n109558"
+            },
+            {
+              "titular": "Naranjito : el crimen organizado disputa territorio al estado paraguayo",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/editorial/naranjito-crimen-organizado-disputa-territorio-estado-paraguayo-n109561"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2026/07/6a609bd422fe3.jpg"
         }
       ]
     },
@@ -7113,11 +7378,11 @@
       ]
     },
     "tasa-interes-bcp": {
-      "titulo": "BCP mantiene la tasa de interés de referencia en 5,5%",
+      "titulo": "Sostener la tasa de referencia le costó al BCP US$81 millones",
       "categoria": "Economía",
       "contexto": "El Banco Central del Paraguay define periódicamente su tasa de política monetaria para equilibrar el control de la inflación con el estímulo al crédito.",
       "first_seen": "2026-07-24",
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-07-26",
       "updates": [
         {
           "date": "2026-07-24",
@@ -7130,15 +7395,27 @@
             }
           ],
           "imagen": "https://s.tradingview.com/static/images/illustrations/news-story.jpg"
+        },
+        {
+          "date": "2026-07-26",
+          "hoy": "Se conoció que mantener la política monetaria vigente le costó al BCP unos US$81 millones en operaciones de regulación del mercado durante el primer semestre.",
+          "fuentes": [
+            {
+              "titular": "Mantener la política monetaria le costó al BCP US$ 81 millones - abc.com.py",
+              "medio": "abc.com.py",
+              "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbElLOGUwMWJsbXJBY1BWd3JNQ3lpSzV3dUllM0NxMVY1T1B5Mlc2cDNrSTJ0QnNzTHN1MGNTNk5SbkJrOUdRM0xncHh5b2h2T2toQkl0RGlGQjdiNDlTYkVabjB3QVFqemF3LXlJbWFNNk5CczdiZXFmbGpIM2p4QWRqcklYeUdfQTVlWW5SOWt0ZGh0VllNOVRuN09QbEQ1a0N1UHhHTFdBbjFCV1VKaDBvcFJnaE1rckpQYkNyN0FrSERRSGxHZjhwZGtNbVd2amtqT1lfQVpMMTAzZURpUkUwZ9IB4wFBVV95cUxQbElLOGUwMWJsbXJBY1BWd3JNQ3lpSzV3dUllM0NxMVY1T1B5Mlc2cDNrSTJ0QnNzTHN1MGNTNk5SbkJrOUdRM0xncHh5b2h2T2toQkl0RGlGQjdiNDlTYkVabjB3QVFqemF3LXlJbWFNNk5CczdiZXFmbGpIM2p4QWRqcklYeUdfQTVlWW5SOWt0ZGh0VllNOVRuN09QbEQ1a0N1UHhHTFdBbjFCV1VKaDBvcFJnaE1rckpQYkNyN0FrSERRSGxHZjhwZGtNbVd2amtqT1lfQVpMMTAzZURpUkUwZw?oc=5"
+            }
+          ],
+          "imagen": "https://www.abc.com.py/resizer/v2/OKVXN5XMCJEZXCJWNTEYQESWHE.jpg?auth=9a464ea873592521afc0690b01f3b4b822f2ed33a77cba602cc301503ccd3b9b&width=770&smart=true"
         }
       ]
     },
     "credito-bancario-py": {
-      "titulo": "El crédito bancario crece, pero también la mora de los hogares",
+      "titulo": "Sube la morosidad de los hogares en el crédito de consumo",
       "categoria": "Economía",
       "contexto": "El sistema bancario paraguayo viene expandiendo su cartera de créditos en un contexto de crecimiento económico, aunque también se monitorea el nivel de endeudamiento de las familias.",
       "first_seen": "2026-07-24",
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-07-26",
       "updates": [
         {
           "date": "2026-07-24",
@@ -7156,6 +7433,18 @@
             }
           ],
           "imagen": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/bancos_20251114_160805.jpg"
+        },
+        {
+          "date": "2026-07-26",
+          "hoy": "Un informe reveló que la morosidad en el segmento de consumo subió 0,40 puntos porcentuales interanual, una de las alzas más aceleradas del mercado crediticio, presionando el bolsillo de los paraguayos.",
+          "fuentes": [
+            {
+              "titular": "Consumo a crédito aprieta el bolsillo de los paraguayos",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/economia/consumo-credito-aprieta-bolsillo-paraguayos-n109525"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2024/07/7f30c4184f2d744f259c146a29b2f6f4.jpg"
         }
       ]
     },
@@ -7562,6 +7851,162 @@
             }
           ],
           "imagen": "https://www.abc.com.py/resizer/v2/4GCVO4NDEFCUXGMKOSRM3AXUMY.jpg?auth=c22081d2145add394e061c3b611ed137508fa31362bf0e1b44976c325b06ba5b&width=770&smart=true"
+        }
+      ]
+    },
+    "inflacion-precios-canasta": {
+      "titulo": "La inflación baja, pero no se siente en los hogares",
+      "categoria": "Economía",
+      "contexto": "Paraguay viene registrando una desaceleración de la inflación según los indicadores oficiales del Banco Central, en un contexto de estabilidad macroeconómica, aunque persiste la brecha entre las cifras agregadas y la percepción de los consumidores sobre el costo de vida.",
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "updates": [
+        {
+          "date": "2026-07-26",
+          "hoy": "El BCP confirmó una baja del Índice de Precios al Productor (IPP) en el primer semestre, mientras se debate por qué esa desaceleración inflacionaria no se traduce en alivio perceptible para las familias, en medio de un análisis sobre la evolución de precios de la canasta básica.",
+          "fuentes": [
+            {
+              "titular": "El Banco Central confirma baja del IPP en el primer semestre - latribuna.com.py",
+              "medio": "latribuna.com.py",
+              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ291UjBLUmcyTlpfbk9Jekl2RGpORW5QaUdCcnFwMTd2THpGQ0pjUGtzcmpYS1RNdlFDQkNTUEc5b0tqSjI0ZXpDbGNXNjVoM1NEcmdfU2xvb0h1bW51dXRlNk9hWmlwaUZXTzN5Z3ZxdzlZWGROUWJkOVd3eklWd0xZQVctcV9oQWJFWFNMNzZzT0VnTF9iX05tU2s5bnk1ZnlPN1lMWDVJckJDaUdRSjFUZmFhUkdjdzhB?oc=5"
+            },
+            {
+              "titular": "¿Qué ha venido pasando con los precios de productos de la canasta? - abc.com.py",
+              "medio": "abc.com.py",
+              "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc3N2WXYtY3JFYmk0dE0ybkpYM1N6NVJQT3gxNm8xSUxmMmkwSHB0RVFGUEQwZ0VyR1BvTEZld3ZNa000Um13bmZLUmdLZjFLOFBQZ0Q3eF81dFFUWWJhVnVCZjJQSzJwVlE3VDhTOVF0TWR0ZDI4RXBaR3ZjYmFQdzQza2RCSXpMZTBnbFRCT09Zdkw3a1dXbjZJOXhYOTdmUjU5WTk3U1E5cnR2WHdLYU51WTZZTFlyVGN2MFY1SWhNUjhhcDdSLWdMUEp3ZWttTHVv0gHnAUFVX3lxTFBKLXZRR0lBVEt3OWphVk8yVklKbDZJaDNOYzhKOU5YQTRFZVdIblZ0TXhTVlNYbGU5aElYdy1XNUQtVUVBcTlCZHp1MFBpQVlkNkgzb1E2VkpuTWZaNmdsY0dIbWl3eFFvLWRhUnU1MUpvUjVSUkJYUlk4WU5GdFQ0QzNpaDZCQnVwVElzSXkyaHZpYUxSaFVqWFFuYjR0MGk0X3lrbF9DbWpUbG8zRjQzMkx4dlgzd0lpcDg1ekFoRTgwazF6M2dhel96X1I2eFRkX21SS01BREg2eWtmWjNoQV9fVTExVQ?oc=5"
+            },
+            {
+              "titular": "¿Por qué la inflación baja y aún no se siente en los hogares? - latribuna.com.py",
+              "medio": "latribuna.com.py",
+              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM3FwNEJGdDhfRktvaHRfTzg3M05NR2dENzU3el8tX0FKM3V4dU11aWF5TnJyWGdOSUZ6TjI2RU5rZVVnQm1vWjdjX1JORTJtME5GUWRDTnJITUVlS091Y3JhalpwSUJrQ0l1MDJPTDBEWXZ0WTVhZnVPdFlkN3lpRFE2dHpLWk9vc19JTGppNm5BQmlUeGI0aDZmU0FmbWxiSS0xcEc2TXpoZDAyellQWEtpaFlvVDg1ZXc?oc=5"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/XFMV6P3MHVC25EQIYVNUS42IN4.jpg?smart=true&auth=bf7ad0e78815e5319e81a1b9a5f030e0e6a024e3bf84f4088290174d4ba0e529&width=1200&height=630"
+        }
+      ]
+    },
+    "che-roga-pora-vivienda": {
+      "titulo": "Che Róga Porã avanza y el Gobierno busca más fondos de Taiwán",
+      "categoria": "Inmobiliario",
+      "contexto": "Che Róga Porã es el principal programa de vivienda social del Gobierno de Peña, que combina financiamiento estatal y participación privada para ampliar el acceso a la casa propia en Paraguay.",
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "updates": [
+        {
+          "date": "2026-07-26",
+          "hoy": "Familias y empresas se reunieron en la Expo Che Róga Porã 3.0, Peña destacó los avances y la proyección a largo plazo del programa, y el Ejecutivo negocia con Taiwán fondos adicionales para viviendas ante la alta demanda.",
+          "fuentes": [
+            {
+              "titular": "El sueño de la casa propia reúne a familias y empresas en la Expo Che Róga Porã 3.0 - adndigital.com.py",
+              "medio": "adndigital.com.py",
+              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN2dWcW40UGdMUVJjR0xVUm55WXFrZEE1dW1zT1YweGY2cVdSYjdsZm1aeDRMMU1xdUhIWGpMWEN1VzZNSWZCWG5tbjh2ekdhZDdUV0ZJalhYR2l1MFQ5MHMzNEhmdEF5ajAyUENmeXpSbFk3MFY3YlFFQVpZWWFBZU4zRjVrMm9Qbi0yR2p5emxUZ0g4UjdmUFhvN2Jsa3VkT2hnWHBrdVdvNEF5UkFReUNfN2k?oc=5"
+            },
+            {
+              "titular": "Peña resalta avances de Che Róga Porã y destaca la proyección a largo plazo del programa - Agencia IP",
+              "medio": "Agencia IP",
+              "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeGtDZEh0SmprWEJnekMxWDZuU3lKYmpUYmJzY1AxblhuN0RMRGc2YklzOG0ySWxvOG1Da3JZYUc4QTRyRjAwaXdNZmZBNXJxai1YUzFlbkszNnVQWVQ1OUFpVTVOdTNrazFaUkMwaUZvendWS3MwdUIzY1FTUjdGN3gwSTJxTjladFpZTllpaTdpT2dJUnJWWlpfNGptLWxmZ0g5TFhFU0c4QlU1Q1RIRVFTd2MtYVhSZFZ2djlQWS1QVUk?oc=5"
+            },
+            {
+              "titular": "Ante alta demanda, Ejecutivo negocia con Taiwán más fondos para viviendas - latribuna.com.py",
+              "medio": "latribuna.com.py",
+              "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaEJ5ZlgwcTFGWEh2TEEtRDRQdE1ucmctd1hUSDB1YzVOeTM1Y1R0Sll0NWhRTm5LdzV4U0tyR3JjNnpLdXZ5OW1zSDlZWTROR1FLc0s0T2RaMVlMTEFnSVBfaVpaSmFVNGk2YTdkdmtDdi14TUpwTDJEd0R4Q2dtMmpRMEcxN0F0VHBxM1I5QnJTeG1uLUZ1WGJZNDJqR0pvcE4tYVNqb0t6VXBWaWZjaklUYWxYN2RMaElsRk5rOA?oc=5"
+            }
+          ],
+          "imagen": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/07/whatsapp-image-2026-07-26-at-084258.jpeg"
+        }
+      ]
+    },
+    "energia-potencial-regional": {
+      "titulo": "Paraguay tendría una \"ventaja brutal\" en el mercado eléctrico regional",
+      "categoria": "Economía",
+      "contexto": "Paraguay cuenta con una matriz energética limpia y superavitaria gracias a Itaipú y Yacyretá, lo que abre oportunidades de posicionamiento en el mercado eléctrico regional en un contexto de creciente demanda energética.",
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "updates": [
+        {
+          "date": "2026-07-26",
+          "hoy": "En un encuentro internacional Paraguay expuso su potencial energético, y se señaló que el país tendría una \"ventaja brutal\" en el mercado eléctrico regional, en medio de un análisis sobre el abastecimiento energético local.",
+          "fuentes": [
+            {
+              "titular": "Paraguay expuso su potencial energético en encuentro internacional - La Nación",
+              "medio": "La Nación",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObmxBSk5BR1VrdmtuSFVBeUlPbUhLaFR6Qy1XTXgyNzY0RUVjVlFwd2xhRkFCMGVkMWpfVFVGRzc5WjFVd2hfalVpSHA4M25DUEplQ1F1dGY4TnB6T0xYa0hLcUh5Ml9hYnU0Rkd4eHpHaFM5dl8yOHJVTml1bFhJMDdSdU9pa2JrcFJXN2F0SmFjQkVTY2VsNUM0SVRiOW0tSERoX0FYYWZaeVNuNU5QTXhiZk1VZw?oc=5"
+            },
+            {
+              "titular": "Paraguay tendría “ventaja brutal” en el mercado eléctrico regional - ultimahora.com",
+              "medio": "ultimahora.com",
+              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdG1wYWlhOGdENG1nQWN4a0pHakpBVTdhTXVkenY4S0JJU3NnR2VHaXJWTmxtRFQ1dFAyX0hydFpxaWx2Q0ZtSFM0cl9qb1I4eHRkcjRvV19ZU2FoWEdHV3VyMG1jcnhqd0ZUMGlmTnkxOFNjamszOVk1bmVUVkFuakdkNXEzY3k1MExYZWJoM0dYVkR4WEHSAaMBQVVfeXFMTVZTQmxnbnZseUZJeW11NnFyNFBRNlpURU5DNFRvLUtLYmU5TUNNRm11ams2UDh1NXNnRWxoZ25Iay1pbFR5RVpDNXZtZjRPS2ExU3hGTlZPODBWZHZuWlZwMmxfdEo1X0k2T0VwT2JKM2lJcTBOa1pWQVgyQ3p6UlJYQ0MwWTlCc1JGMGpDeTBvMGJmQk1VVHVoVGhnOXg3aloyTQ?oc=5"
+            },
+            {
+              "titular": "Abastecimiento energético local. Elementariedades. Siglos XXI y SGTS - ultimahora.com",
+              "medio": "ultimahora.com",
+              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeFhmUUZUUTBiRlV5cnBjYnd0SDRDUHZhQ3ZRRzM4VUJTTlBBbmJNUDhLZWRXYWdOanpVTUdjdEVyT0NfYUZ6MnUwT0ZSRkk5TVpzZk1yeGc3UnNJcVpHdjgwVC1TcndDcGJ3dFZjYVI5TFNjSTZOZ0ttR2ZBQU9UbDJTeEYxQ19CdXpnOURXcUFjX3dKVXVSOdIBpgFBVV95cUxNc0ZDUnBoVXZWa3ZzaDd6WEttSFJLWEF6VjY1ZVFiUVlYYUxueHBweDRlb0o5VWZLbjBQdmZlT1JjY25LaElWME5STUljQ3BZWWx3bFBqZ3ZSdjdabzdJMGtHSjluSnVSOFRIeUJxZmhQWlVWVEh2NG1STzhkS0Nra0RyV3hmazZnWTVPclFZZHJ0aFYybnFvdDR1a1hXU3RWSllZUDhn?oc=5"
+            }
+          ],
+          "imagen": "https://www.lanacion.com.py/resizer/v2/E2H3JBWVSNBYJIHH7QUZC5NN7Y.jpg?auth=e40b02a522a0ffd7a07614412591313e393ccf3aa8486bf451074296d2079f62&width=1024&height=512&smart=true"
+        }
+      ]
+    },
+    "agro-cooperacion-india": {
+      "titulo": "Paraguay e India consolidan acuerdo de cooperación agropecuaria",
+      "categoria": "Agro",
+      "contexto": "Paraguay viene diversificando sus alianzas agroexportadoras y de cooperación técnica con distintos países fuera de la región tradicional.",
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "updates": [
+        {
+          "date": "2026-07-26",
+          "hoy": "Paraguay e India consolidaron un acuerdo de cooperación agropecuaria.",
+          "fuentes": [
+            {
+              "titular": "El Paraguay y la India consolidan un acuerdo de cooperación agropecuaria - latribuna.com.py",
+              "medio": "latribuna.com.py",
+              "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT0x0YkEzR2tiWDFkYjd5UmZCOERYNnVoUlJNUlB1ODRkSnZ5TkFqSkdMcHRiYjFyUEFIM0JBM2QwOWdRTTA2M0pHbUk0NnlHUWZ1QjRlSjRleFBJd19Tb1RuLWFqTlp1bkUwWjJYbldVNDBMSDJWYUVaUmRCUzhYa2dwYW1PajJwYVFuaDR2TnA5clpVZ3BOWGVLM3VXc2F2cEx5eno5bFZha25YSkRSOFRQN214RWkwOVdBOThHSF9POUE4Z2U3RU1zbw?oc=5"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/XCV7BKM7TREELBZXPVYZQM2F5U.jpg?smart=true&auth=2a6e49d450469e0d92361db98e6a2e7c420af2006319efe7b2940e639839d914&width=1200&height=630"
+        }
+      ]
+    },
+    "caf-financiamiento-privado": {
+      "titulo": "CAF expandirá su brazo de financiamiento privado en Paraguay",
+      "categoria": "Economía",
+      "contexto": "La CAF (Banco de Desarrollo de América Latina) viene ampliando su presencia en Paraguay como fuente de financiamiento para el sector privado y para dinamizar el crédito y los emprendimientos locales.",
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "updates": [
+        {
+          "date": "2026-07-26",
+          "hoy": "CAF anunció que expandirá en Paraguay su brazo de financiamiento privado.",
+          "fuentes": [
+            {
+              "titular": "CAF expandirá en Paraguay su brazo de financiamiento privado - abc.com.py",
+              "medio": "abc.com.py",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdGxiZURDMlY4bk1fTXpjNC1lREdfb3ROUkVoc1lmei10am1GTDY1R0l0NkhhalZveWQyYllTYWJCY2dJRXc4RlZJRkd6RXkwLUx6TXBUejczbURHZGthLVhnX0VCQXRjTkV5NFgtakhzbGdzbjJUeUw3NGJLOXIwQlpqYm1sbVBGRmhTVXV2YmRTdXNTT2NfWlJkcUlIaEE1WXRBd1BGVdIBuwFBVV95cUxNelRuYWRxNnZrNzZZN3pzUkNLY0FxZFBQTnlrU1lJbjlVc2IyM21fTFZqbGVyakp4S3k3T1Y2UDlpSE9Nd2k3b1EtdkhHMUV1Vm5aZDFqYWcwSHZOODAwMjRpZmtRUGVZbmt0bkxlbEo1NEdnVVRJSm5KTXBpcEtuVC1fRDczbllFMExuYjhicmZwaVJ3VXNyOWxDLVpVTXYyY2dnTE15bmRsSnptMFdfSWdnb012ZWVJQmdz?oc=5"
+            }
+          ],
+          "imagen": "https://www.abc.com.py/resizer/v2/OYX2XEAXTRGLNAAGUD54TIUSSY.jpg?auth=8b6d2a4181d8fd84dcb44e807dd436796d1e8ad1de61046b39b482d714dd4f6d&width=770&smart=true"
+        }
+      ]
+    },
+    "alerta-desaparecidos-meta": {
+      "titulo": "Paraguay y Meta lanzan sistema de alerta para menores desaparecidos",
+      "categoria": "Otros",
+      "contexto": "Paraguay viene sumando herramientas tecnológicas en alianza con plataformas digitales globales para reforzar la seguridad ciudadana.",
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "updates": [
+        {
+          "date": "2026-07-26",
+          "hoy": "Paraguay y Meta anunciaron un sistema de alerta temprana para ayudar a encontrar a menores desaparecidos.",
+          "fuentes": [
+            {
+              "titular": "Paraguay y Meta anuncian un sistema de alerta temprana para hallar a menores desaparecidos - efeminista",
+              "medio": "efeminista",
+              "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORU5yV0hvS25vSzJQeHI1cFhKdWtFX3R0dlRLRGdnLWVjb280VnBzLUVyNFpFUzhiZGxwSkhYUVpNdG5veUtYZjJ3ejhua0J2WmVXWHdsLXhpcGZ3MHg0SS1jd1Z3b01sSTFTTGVwcjVKbU15VmthUHA4MVpVbEkxR1FWMVNMbUFQOXQw?oc=5"
+            }
+          ],
+          "imagen": "https://efeminista.com/wp-content/uploads/2026/07/paraguay-meta.jpg"
         }
       ]
     }
