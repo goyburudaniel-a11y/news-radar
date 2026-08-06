@@ -1065,11 +1065,11 @@
       ]
     },
     "energia-crisis-py": {
-      "titulo": "Paraguay corre contra el reloj para evitar una crisis energética en 2030",
+      "titulo": "El Gobierno reactiva la Mesa Energética para reformar el sistema eléctrico",
       "categoria": "Economía",
-      "contexto": "El crecimiento económico e industrial de Paraguay ha incrementado la demanda energética, generando preocupación sobre la capacidad de generación y transmisión disponible, con Itaipú y Yacyretá como pilares del sistema.",
+      "contexto": "El crecimiento económico e industrial de Paraguay ha incrementado la demanda energética, generando preocupación sobre la capacidad de generación y transmisión disponible.",
       "first_seen": "2026-07-14",
-      "last_seen": "2026-08-02",
+      "last_seen": "2026-08-06",
       "updates": [
         {
           "date": "2026-07-14",
@@ -1190,6 +1190,18 @@
             }
           ],
           "imagen": "https://www.abc.com.py/resizer/v2/QZCJSR63YFD43FNKAZWYRYQJKE.jpg?auth=1ecdbf12ddd55d0980f790381d3a4b33fc1187e2fa891433258b3721dc5fadde&width=770&smart=true"
+        },
+        {
+          "date": "2026-08-06",
+          "hoy": "El Gobierno reactivó la Mesa Energética, encabezada por el propio presidente, con el objetivo de acelerar la reforma del sistema eléctrico, crear un Ministerio de Energía, establecer un ente regulador y abrir el mercado energético a nuevos actores.",
+          "fuentes": [
+            {
+              "titular": "Gobierno reactiva la Mesa Energética para acelerar la reforma del sistema eléctrico",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/nacionales/locales/2026/08/06/gobierno-reactiva-la-mesa-energetica-para-acelerar-la-reforma-del-sistema-electrico/"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/CAN3JS5I3RBPPMUIACQKNNRG7Q.jpeg?auth=294f015d59c396a3f7bc553a04e9f837f02bd958b6b4ea0c0f53b8a836f4f22a&smart=true&width=1200&height=800"
         }
       ]
     },
@@ -2145,11 +2157,11 @@
       ]
     },
     "tim-payne-olimpia": {
-      "titulo": "Tim Payne se adapta a su nueva vida en Paraguay",
+      "titulo": "El fenómeno comercial de Tim Payne en Olimpia",
       "categoria": "Deportes",
-      "contexto": "Tim Payne es un futbolista que se hizo viral en redes sociales durante el Mundial y despertó interés de clubes tras el torneo, fichando finalmente por Olimpia.",
+      "contexto": "Tim Payne es un futbolista que se hizo viral en redes durante el Mundial y despertó interés de clubes, fichando finalmente por Olimpia.",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-06",
       "updates": [
         {
           "date": "2026-07-15",
@@ -2292,6 +2304,23 @@
             }
           ],
           "imagen": "https://s.yimg.com/lo/mysterio/api/1919843b201d493de014b34d1f3ef1e1f0ad1f6a40724883b058482bd276f555/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Flanacion.com.ar%2F5d4953a694c3d9a18e77e012796b8fa9"
+        },
+        {
+          "date": "2026-08-06",
+          "hoy": "Tras su debut con gol, el fichaje de Payne genera un fuerte impacto comercial para Olimpia, dinamizando el interés de patrocinadores en torno al club.",
+          "fuentes": [
+            {
+              "titular": "¡Fenómeno Payne! Efectos positivos del gran debut y gol, en lo comercial",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/deportes/futbol/2026/08/06/fenomeno-payne-efectos-positivos-del-gran-debut-y-gol-en-lo-comercial/"
+            },
+            {
+              "titular": "Eduardo Delmás, la joya de Olimpia y traductor de Tim Payne - D10",
+              "medio": "D10",
+              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMmhaSmQ5R281M2lPVUF5a1FUel9HN3NpdVZ0UnNNb2tSQWdzeFlVSUVQZXM5SlFrY0FzUk9NQWUwWC1yc0stUHIxM3RJeXRMSFgyMU1jZk9WYXQwVktoZURlQXZWalFQOGdvXzNZbVBoemtaem9yVUw3RklNcXlvampUVC1kMnY5anRhSEtR0gGbAUFVX3lxTE1Ha3I5eXBtMG0zVmhiZWp5bDMyMl9HVGxDWHZscXo2MnJIYmxZT05UejRJSVBjSzlYUFhKZjZsWC1Cci10bmR4cGlYLU9fbnJMekVJTzRCeDBuNnYzOVkzWVM0dFFsVW92Vkc2WGx6cEFZdlBsVzVnLUt5RjhKa1JFcDJFRnJlVC1VTFhpaXNhbjZ6TTNIT1JhUkpV?oc=5"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/AJOILE3WEJHV5HDL53Y2Z6JKOM.jpg?auth=ff15c2e4a01e925d3b579ad766b24d7b8ef00c5e0f3eda3f81883d2fa7537f67&smart=true&width=1200&height=800"
         }
       ]
     },
@@ -4243,11 +4272,11 @@
       ]
     },
     "rally-mundial-paraguay": {
-      "titulo": "El Rally del Paraguay generará un impacto de más de USD 200 millones",
+      "titulo": "El Rally del Paraguay bate récord de participantes",
       "categoria": "Deportes",
-      "contexto": "Paraguay es sede de una fecha del Campeonato Mundial de Rally (WRC), un evento deportivo internacional que además genera un fuerte impacto turístico y económico en el interior del país.",
+      "contexto": "Paraguay es sede de una fecha del Campeonato Mundial de Rally (WRC), un evento que además genera un fuerte impacto turístico y económico en el interior del país.",
       "first_seen": "2026-07-17",
-      "last_seen": "2026-07-31",
+      "last_seen": "2026-08-06",
       "updates": [
         {
           "date": "2026-07-17",
@@ -4330,6 +4359,23 @@
             }
           ],
           "imagen": "https://www.lanacion.com.py/resizer/v2/M2W74UEUYBAWHMNYRXIQCPIVLE.jpg?auth=8a508ee759c0e10bde172c83a750d96f9ed6e8f129b787669fcfb4376a38522e&width=1024&height=512&smart=true"
+        },
+        {
+          "date": "2026-08-06",
+          "hoy": "La segunda edición del Rally del Paraguay reunirá a 60 tripulaciones de 22 países, superando ampliamente la convocatoria del año pasado, y es presentado como una plataforma global para atraer inversión al país.",
+          "fuentes": [
+            {
+              "titular": "El WRC convierte a Paraguay en una plataforma global de inversión - La Nación",
+              "medio": "La Nación",
+              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVEFGVDdkbTM0VmI4OGNTUnN2N2R4VFlhZElReUo5djRuTW5tSU9vbmpXTC02TGFIYTRiZ29ESVphZW9HX2RCZkNhNzE0Uk51RG81bjdSY1NuM1ZHZkhnSlZobE1xNzVZN0F3ajFhNzdhZklDWDNWVnhEdVA5NFBYMzFlM2lVcFJUZG95Ry1fTGZEWFRXSHBIXy1JbGk3NlRQY1ZzbTVVSzFfMEhjcDZlU1RkRlpIeDRyTU9ONg?oc=5"
+            },
+            {
+              "titular": "El Rally del Paraguay crece con una grilla récord de participantes",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/deportes/2026/08/06/el-rally-del-paraguay-crece-con-una-grilla-record-de-participantes/"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/UK2NOIUJMBECVF5ODV337JDVWI.jpg?auth=1889c42c14b15155d271927af4efa468b6fb3fca333a979b9f3938ee00320695&smart=true&width=1200&height=800"
         }
       ]
     },
@@ -4391,11 +4437,11 @@
       ]
     },
     "obras-viales-py": {
-      "titulo": "Quejas por protección metálica en viaducto de Madame Lynch",
+      "titulo": "Cavialpa destaca avances en obras viales clave",
       "categoria": "Inmobiliario",
       "contexto": "La infraestructura vial paraguaya requiere inversión sostenida para acompañar el crecimiento urbano y la actividad logística del país.",
       "first_seen": "2026-07-17",
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-08-06",
       "updates": [
         {
           "date": "2026-07-17",
@@ -4425,6 +4471,18 @@
             }
           ],
           "imagen": "https://statics.elnacional.com.py/2026/07/6a5f59daa1a5e.jpeg"
+        },
+        {
+          "date": "2026-08-06",
+          "hoy": "La Cámara Vial del Paraguay (Cavialpa) destacó los avances registrados en obras consideradas clave para el desarrollo del país.",
+          "fuentes": [
+            {
+              "titular": "Cavialpa destaca avances en obras claves en el desarrollo del país - La Nación",
+              "medio": "La Nación",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWllSUkVmSG9zQ0VPUHk5R09fdVNKaVNJRDd0bENNc25TREN2QjNyWEx0RHFUaHhwLWtRN3VaY1hVYkpVd3dGWDBRRE5GdlFObUVwVzdvMnh2MHhGa2ZoNXVMTDdtWjlQUFRxcXN5enBJYkUyMmN0VlQ4cFFEMExZUElUM0x2eF9ENEFVeGM1c1BybHZnVUV5bURjMW5oNEg0a1FtdlZUaTB2Y0VOOE9wSTRFaE5ZZw?oc=5"
+            }
+          ],
+          "imagen": "https://www.lanacion.com.py/resizer/v2/67FKI5NFPJGK7OAL5MC7YQUTDY.jpeg?auth=4f4dfb23c61218f0ad8224ad1302be3c5ca6ac17e547235ff0a335ccdb57f5b5&width=1024&height=512&smart=true"
         }
       ]
     },
@@ -4450,11 +4508,11 @@
       ]
     },
     "terrorismo-politico-eeuu": {
-      "titulo": "EE.UU. y Paraguay firman acuerdo nuclear civil y profundizan su alianza estratégica",
+      "titulo": "Paraguay profundiza su alianza estratégica con EE.UU.",
       "categoria": "Política",
-      "contexto": "El Gobierno de Estados Unidos viene impulsando en la región una agenda de seguridad y cooperación, buscando el respaldo de gobiernos aliados como el de Paraguay, que reconoce diplomáticamente a Taiwán y apoya la política estadounidense hacia Venezuela.",
+      "contexto": "Paraguay reconoce diplomáticamente a Taiwán y no a China, lo que generó tensiones previas, incluyendo denuncias de ciberataques atribuidos a Beijing. En ese marco, Paraguay y EE.UU. firmaron recientemente un acuerdo de cooperación nuclear civil como parte de una alianza estratégica creciente, que incluye respaldo paraguayo a la política de EE.UU. hacia Venezuela.",
       "first_seen": "2026-07-17",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-06",
       "updates": [
         {
           "date": "2026-07-17",
@@ -4615,6 +4673,63 @@
             }
           ],
           "imagen": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png"
+        },
+        {
+          "date": "2026-08-06",
+          "hoy": "El presidente Peña mantuvo una llamada con el secretario de Estado Marco Rubio para hablar de la cooperación bilateral; Rubio agradeció el respaldo paraguayo a la 'transición democrática' en Venezuela y destacó el crecimiento histórico de la relación buscando que trascienda los cambios de gobierno. También hubo una reunión de Rubio con el vicepresidente Alliana, mientras un senador de la oposición exigió al Ejecutivo explicar el alcance real del acuerdo nuclear firmado con Washington.",
+          "fuentes": [
+            {
+              "titular": "Peña dice que conversó con Marco Rubio sobre la cooperación entre Paraguay y EE.UU. - laradiodelmercosur.com.ar",
+              "medio": "laradiodelmercosur.com.ar",
+              "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPU21RMEZJcHBjYTlqN3ZSLWVMYU0xY0U4QU9uWlZLUUVlVG9YU1V5SEkyZm1Sd2tiLUpndUhadkdjeDhrQ2hjMkFGZmZHUFkyYUN6bFEyZ0djV3UxUHVPN2gyZnQ1X1U3cnM0QXdtWnpzbE9HdWJLV25tM25UTHd4c1p1bFFadXFobmJMd29RbW1FcEFtTXp4b3ljVkRncUpRbmtWVHFMV0wtRUlGWVREMUVoN1BLYVNseXY3Uy0yaGdPZkNOSVJBNjA0VUdiVTFF?oc=5"
+            },
+            {
+              "titular": "Marco Rubio destaca el crecimiento histórico de la relación con Paraguay y busca que sobreviva a los cambios de gobierno - El Trueno",
+              "medio": "El Trueno",
+              "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWnRTTXBzUHJJcmh6V2ttTmtyelhwZmI5UEpNV1ltVFFCR1VCQzNtVVJMTEdSWXotcmROYUlNcXgzVFdIaktITHJDNXFYMDBFZ2dYb3I0S2xaQmExYkVjY0dSeHVOem5EWUdjVmZ6ZXJqbTFNWER2VnpRN25pbmtWR2ktbkU2eGlhT0xWX0VrTXdaZE42ankyUUFHUzdLdGhjZ2ZKelMyTmZHSGtjSmkyeVAzYlB1YmhBSS00RUJCdkx3ZzdKbTNDallVckxac1ZCU3NWUVhGNERyWU1mUXh6RTlKRmMzZGw1UnBESQ?oc=5"
+            },
+            {
+              "titular": "Llamada del secretario Rubio con el presidente Santiago Peña de Paraguay. - U.S. Embassy in Paraguay (.gov)",
+              "medio": "U.S. Embassy in Paraguay (.gov)",
+              "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORG85ckJGaUxRWFVhVFluY2lzSVEweHJrdnlzanFoRDlVOVktR0tsNXdwNmtQMm8wYnNMUmhOMnRjV1ViNTJEMzZsSGJCc1loOFk2aXdVc1gzMXFPTjd0UXBmN2ZjcUxRWTE1SWZTRGppR3JFdWQxMmUtNm0zcDB1LUwxTklKSVBrYVRoZlBFVDRWMlRPOG9jSjczeHJrYjZ5NUJN?oc=5"
+            },
+            {
+              "titular": "El presidente de Paraguay, Santiago Peña, conversó con Marco Rubio sobre la cooperación entre Paraguay y Estados Unidos - Infobae",
+              "medio": "Infobae",
+              "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPcVlCVFcyYTVNLXk2NnIxZVdfQ05uWkFlN210dlVVVkw0TUZNWU9USXlsMVU1NVE0RjJCcGgyUHJQdHJwU2JYQ3R4OERmRDVTYnZnN1l2SWpRSWVXd0Foek1RbDQ1eWdhX1JvaEFETEV5X0psZXBERENVT0pkMDFRRktYczAwYkZDUDh4Z0dUcFJQYlFRN3Y1MkFsOEJnR0o1UkpDeTY0Y3VtZzlibnNHelRaZExHUFRjaEVoOTFnUlQ1QUNuU2wweWNUcDNoeWg5TU5ncWJKaUw3YzBmYlptaHdIalFuOU9BTzR4RmxhMGRQQmhYZVRLV1BzQUdyZmlfcFh1Vmx6UdIBogJBVV95cUxPYkNKSW9GbkM2bUh0SGFVMS1NeS1FWEhmNDlxLTQ4R2ttaDhnUEo4MzlWMjhkR3FJZDRxTGF3c0FaSFRIc3ZxYlkyWkdKOEtLcTgtcEF4SEFORk1NaHJaZ0tnNXZEUmc2NDFCVWtpYTJsVUNTVmNvZEZ3YzFjWGc1U1FlVWI4bWQwSWNxVC1CUkFzSm9YbXdlUzk1Z0xqX2dfejdsUHhvMnZiYmtQVTM2TnZDQUJVdEUwV2ExdmZvcFNhYVgwdEtHU2ItNllUSlFRY3Rxb1hTV0JVVGV4ZjMxWTc2MlptQ1laWFhacHlfck9rM2FPZTZJWWFRMndPOFp1RDRjUzRrczVuaGhtckFkS0pjYXk3Z0FVMDB4UmFzb3ROZw?oc=5"
+            },
+            {
+              "titular": "Santiago Peña dice que conversó con Marco Rubio sobre la cooperación entre Paraguay y EE.UU. - AlbertoNews - Periodismo sin censura",
+              "medio": "AlbertoNews - Periodismo sin censura",
+              "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNkItUFJrWHBkTHF5RUR3STlCM1o3cWRkN0lLT0FfMkFvbmcwVjNmdl9wcExSbWNMdXF2aVRhekpydzl0b2ZwLXYxVzUzM3NMbWIxSmVCSlozbG53ZHYxM0hTYVJCX2lQdzN6Rzk1TmZ2OFVLLXRDWi1haU5RdllwRXBvck5kSFBMRGZaYXhSajRsZTgtejBVLVNfS2VBbzZhNG1scm5IT01reWhzNXNFRnd6TjVscXBncGs4QUZSaE02ckRlMFR0X2h5Rkc?oc=5"
+            },
+            {
+              "titular": "Marco Rubio agradeció a Peña su apoyo en la \"transición democrática\" de Venezuela - ultimahora.com",
+              "medio": "ultimahora.com",
+              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcXF0T0VZYldOcFJQMWp5Y0J3c0NGRU56U2xxdU9UNk82dXdYdmw1UVljWjFrYlZlcW1yQnprTldOcU94TlNoWW9LNHhjd2NwTGI3Z2h3NFE2T2VISTVaeEF2X1preUx3X2VxdTJUU2NJcHRzQkd6X1FGMDNCeF9oMmxXR21Pa2pvNnZSbXBHOThjSm5OWEduSnJ6N0dkSnE3V3l5b25PR1NTd9IBtwFBVV95cUxPZnBFNlhsZEpfby1jTFBoY3pTemhFeTRrV2FEdmpHS01SRnh4UzUxLVVKWGJWYlBPU3RlNVhOTTRIQVdXN3d4endwZm8xdUtyWC1ldU5sX2syeUN2S0RHbF9IN05aVWNmSUlDN1cwYm1OSHlEa1pLdnVkUDVDRGFYY1Vzc0dvWnJTZzhxazVYaWZtT01lckRwellYTlJFdF9PVUM2ck5nZVN1LUJVLV9rOG9uWXc4NUU?oc=5"
+            },
+            {
+              "titular": "Peña dice que conversó con Marco Rubio sobre la cooperación entre Paraguay y EE.UU. - Washington Hispanic",
+              "medio": "Washington Hispanic",
+              "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQmptZ3dxdGU5a2JGTXBrSUJRQng2UEhfLVR1YUtMNmpFRllZLW5jSkZSU3AtWTFmVnNqUUc0MzRwMjIxclVfN1BPaEpVT0R2YVFjU1c4WEZ2SUp1NjNvVlZHV3NIVjJDVGtya2JQUjdMMGNBYUlSaFZ5a3ZVYnN6Qld3LWVTekF5SWsxNkdKTW1ES21HTElvbThMY1V0VzZjbFZhRXNuNGt1VEVHM2xKZmxNY1VDQjVWWVY2T19B0gG-AUFVX3lxTE1Cam1nd3F0ZTlrYkZNcGtJQlFCeDZQSF8tVHVhS0w2akVGWVktbmNKRlJTcC1ZMWZWc2pRRzQzNHAyMjFyVV83UE9oSlVPRHZhUWNTVzhYRnZJSnU2M29WVkdXc0hWMkNUa3JrYlBSN0wwY0FhSVJoVnlrdlVic3pCV3ctZVN6QXlJazE2R0pNbURLbUdMSW9tOExjVXRXNmNsVmFFc240a3VURUczbEpmbE1jVUNCNVZZVjZPX0E?oc=5"
+            },
+            {
+              "titular": "EEUU y Paraguay firman un acuerdo de cooperación nuclear civil - France 24",
+              "medio": "France 24",
+              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ1psVzdLTVEwaU53ekVGZFVrbHc1bTZyRkYxak1YcEFBc2c2bWNoUTNhZV9jY0ZlQzZmMlY5ZS1pUHpKMVdlaEV0VmlhZkhqVHhMT0k3WEc1MnZqcWZkYzBmaWllN2RFdjhROXFueUlkbk0xTUhERTV0dDhRZ28xZVhSYXB1ZlpIUnZnNzRlYVR0SVpSdFJ4dDhYRW14WWpxV1Zod0dqS1NuaUlXWUVYZG9ON25Ob3hZMEl1Rw?oc=5"
+            },
+            {
+              "titular": "Reunión del secretario Rubio con el vicepresidente Alliana de Paraguay. - U.S. Embassy in Paraguay (.gov)",
+              "medio": "U.S. Embassy in Paraguay (.gov)",
+              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQenZVc2VHam5kWFphOWY3X0pCd2JtU0hVWVZPeDNycV8xUjRkeHZMVFpEZk51V1Y3R2JvSl9QUUduOG10eml6MXp2RUpWMDJoTFZGNWpGNmRueXQ4YlprbGtuek9KQ0d1cVktSDVmSzBUZVZla0ZkTFJLR3lINXhJOGh1cGlmQkdwOGxjMF90YkdRb2gtc2pYQThKdWFMZU1J?oc=5"
+            },
+            {
+              "titular": "Senador exige al Gobierno explicar el alcance del acuerdo nuclear con Estados Unidos",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/politica/senador-exige-gobierno-explicar-alcance-acuerdo-nuclear-estados-unidos-n110097"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2026/08/6a72f8c758be4.jpeg"
         }
       ]
     },
@@ -4840,11 +4955,11 @@
       ]
     },
     "biodiesel-gasoil-py": {
-      "titulo": "Presión sobre precios de combustibles y mezcla de biodiésel",
+      "titulo": "Petropar mantiene precios y el Senado debatirá transparentar los combustibles",
       "categoria": "Regulación",
-      "contexto": "El Ministerio de Industria y Comercio regula el contenido de biocombustibles en los combustibles vendidos en el país, mientras el mercado local sigue expuesto a la volatilidad internacional del petróleo y Petropar mantiene precios congelados.",
+      "contexto": "El mercado de combustibles en Paraguay sigue expuesto a la volatilidad internacional del petróleo, con Petropar manteniendo precios congelados como referencia de mercado.",
       "first_seen": "2026-07-17",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-06",
       "updates": [
         {
           "date": "2026-07-17",
@@ -4991,6 +5106,28 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/NWQFMHBHS5DRPJB7TEJM7TPR2M.JPG?auth=aa6b50c4ba0ebfa0c1335d2605162e61850d6ded6760ec0efe5944c49b42932e&smart=true&width=7342&height=4606"
+        },
+        {
+          "date": "2026-08-06",
+          "hoy": "Petropar reafirmó que mantendrá sus precios pese a la suba internacional del diésel y la gasolina en julio, mientras el Senado debatirá la próxima semana un proyecto para transparentar la formación de los precios de los combustibles.",
+          "fuentes": [
+            {
+              "titular": "Petropar mantendrá sus precios de combustibles, afirma su presidente - abc.com.py",
+              "medio": "abc.com.py",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOFZsUksxNW1QZnZfRGR6WjJobmpsN1o5SS1EN1o2X1FScWp1SnphTVZCMUtQQlpRN2ctMm9XZDIwamVDbmhuSXhUcEdUYTRKc2kydVdlX0FIR3c1d09EV2g4ZVhLVWZyVXlfZzJ4NjFOeldUbkNfaEVlV1JpZG9fdjdPcEFFVFIwVHRKQnlxZUhXal9HdGYtMHdEb2tsZng3OHlQZFU5MlNkUXFlb0N1cNIBxAFBVV95cUxOTTRISXREdVlublhFSy1XMHVNMWNRVXdCSnJUY1hJQlVSR193LTBmSHYtbERTMG5zWENVSFJkaDM4RjA4TUc1OTJuU1VvTWRnSi1ZOWZac3EtNEVIeGVqTm1ZMmVMaDhYbVhxaU1lbXFYcTdDQ2tvNUhQb0FxVkJ2ODZId3dwVzhQRi1TQkNEdUs3OWJmQm9qYVZpbFRmOTV2aEQzTlNCM3VWWHNfcmZYWlZabGVsR1lOb21FcHROSGVCWmFP?oc=5"
+            },
+            {
+              "titular": "Petropar prevé mantener sus precios como los más competitivos, según William Wilka",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/economia/petropar-preve-mantener-sus-precios-como-mas-competitivos-william-wilka-n110084"
+            },
+            {
+              "titular": "Basilio Núñez defiende transparentar el precio de los combustibles",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/politica/2026/08/06/basilio-nunez-defiende-transparentar-el-precio-de-los-combustibles/"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2026/03/69cbbfa87b4c4.jpeg"
         }
       ]
     },
@@ -5041,7 +5178,7 @@
       "categoria": "Deportes",
       "contexto": "El mercado de pases del fútbol paraguayo está en pleno movimiento de cara al Torneo Clausura 2026, con clubes grandes definiendo refuerzos y salidas al exterior.",
       "first_seen": "2026-07-17",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-06",
       "updates": [
         {
           "date": "2026-07-17",
@@ -5291,6 +5428,33 @@
             }
           ],
           "imagen": "https://versuspy2.fra1.cdn.digitaloceanspaces.com/versus/wp-content/uploads/2026/02/21124448/HBcPDHCW8AA39wV-1024x700.jpg"
+        },
+        {
+          "date": "2026-08-06",
+          "hoy": "Alan Núñez justificó su fichaje por Argentinos Juniors, trasciende el interés por Hugo Cuenca en España, surge la posibilidad de que una estrella mundial se sume a Almirón y Alonso en el Atlanta United, y dirigentes piden a los jugadores asumir el proceso como una vía para mejorar el nivel del fútbol local.",
+          "fuentes": [
+            {
+              "titular": "Alan Núñez justificó su decisión de fichar por Argentinos Juniors - VS Sports",
+              "medio": "VS Sports",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPd2ZSZTdvZ3NRM2hTSmo5WlJrdkllMGpuNVdUeW5iN1MwUV9wblMxQWdubnhzbUp1LUpHVjdpV2hKQzVNWk9hWVhldVVvemJNdnpyRXRibjY0RmNjUm02YmZkUVNaTHVyV2pkaUJzazFIMzhseVUtSWV5MU1waHUyZVNiMG1Ca1o2T0F0cEctdFRIOF9hSlVucFd2cVdvdFBkNV9aYXhpX0JMdFBjWXlmSA?oc=5"
+            },
+            {
+              "titular": "¡Hugo Cuenca en la Madre Patria!",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/deportes/2026/08/06/hugo-cuenca-en-la-madre-patria/"
+            },
+            {
+              "titular": "La estrella mundial que podría ser compañero de Almirón y Alonso en Atlanta - VS Sports",
+              "medio": "VS Sports",
+              "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY1c5RWZseWxUYUlsNXk0S25JZUFqTk45amRHN2w1ektqbXAtbWh4OEIyWktYS2k1d0twLS1jdzN1bFQtcHhJcnMzZWM5TXVfRTQtaVktYXUtMExUMGx6UmJlX29tRFRXSk01TWhXT0I3aVk2MGJ4cjZhQTVVNjNSMzBhZkVSNDV0c19xZ2YxQm9PbFVRcjRxZlhqd25OLTBhTmRvOXJkTHUwU2kyUnBTZFRGdTJKT1puNV9zTDl3?oc=5"
+            },
+            {
+              "titular": "Juan Gabriel Benítez: \"Que los jugadores entiendan que esta es la manera de mejorar nuestro fútbol\" - VS Sports",
+              "medio": "VS Sports",
+              "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOX2NBUTJvem1ZZDhFQkJnSFZQWlRIQVZTdmwwWThaTzBONFBZRkRsUkZPNElxcy1BZzIxZWR4bTAyd2pIZDZKbU03bnVqSWRrSllVbEdNdkxsT0ZsMlNod1laWkRTejUxdVdLQ3V5RVpQdXh3b0tKM1gxajVKY242TjFubm9FUEF0WHIxZHpwVkltMlBTa0VORWd1WF95bzhXSl9BeWFxZWt4aThWeGE3RUk0SDVQWS1rU2hvdnZaRGhTQlR2ODhQd2JTUUZ0RVRWUWIzUTNaNHl3Zw?oc=5"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/XCMBFVWX55BZPFGPEHD4BGHUKQ.jpg?auth=72e022f8fd11ddde71671684ab2ee20d547f2ab9c0c0a46e8355c38b91665b2d&smart=true&width=1200&height=800"
         }
       ]
     },
@@ -6272,11 +6436,11 @@
       ]
     },
     "fortaleza-guarani-dolar": {
-      "titulo": "El guaraní acumula una apreciación superior al 10% en 2026",
+      "titulo": "El dólar sigue perdiendo fuerza frente al guaraní",
       "categoria": "Economía",
       "contexto": "El guaraní viene mostrando fortaleza relativa frente al dólar en un contexto de solidez macroeconómica y superávit comercial sostenido.",
       "first_seen": "2026-07-19",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-06",
       "updates": [
         {
           "date": "2026-07-19",
@@ -6455,15 +6619,32 @@
             }
           ],
           "imagen": "https://multimedia.noticiassin.com/wp-content/uploads/2026/08/la-moneda-paraguaya-se-aprecia-mas-de-un-10-frente-al-dolar-en-lo-que-va-de-20-20260803-224748-6qV9.avif"
+        },
+        {
+          "date": "2026-08-06",
+          "hoy": "La divisa estadounidense continúa retrocediendo y sorprende al mercado cambiario, obligando a revisar proyecciones de tipo de cambio; el nuevo escenario beneficia a importadores pero genera preocupación entre los exportadores.",
+          "fuentes": [
+            {
+              "titular": "Dólar hoy en Paraguay: precio y cotización de la divisa este jueves 6 de agosto de 2026 - Clarin.com",
+              "medio": "Clarin.com",
+              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSzF5eThUaVRUZmRwaVNKSm1jQUthZElPVjVjdFJHOFdUakpxdjdmWjE3ZENZdE9pdjlMN2lfUVM5X3VTd0RFaDBIRVV6V3ZuWHltcFZhMDBSWG81UXpQWVlYdS1sV0RpY3Z2Mkg4RW1UTmQ5TjF5VnBjZVREckFUNzlGdHotQkZUWHhxUHFaSl9FOG5kTkZJR0lfM2dmS2pIRXVMQ0U4QnhzR3dnWkhtS2U4bXdweEFNbjNDU3BPLWk0QmVzaVM4U19tSzRIRjFiblZoR1Zoc9IB1wFBVV95cUxQSzF5eThUaVRUZmRwaVNKSm1jQUthZElPVjVjdFJHOFdUakpxdjdmWjE3ZENZdE9pdjlMN2lfUVM5X3VTd0RFaDBIRVV6V3ZuWHltcFZhMDBSWG81UXpQWVlYdS1sV0RpY3Z2Mkg4RW1UTmQ5TjF5VnBjZVREckFUNzlGdHotQkZUWHhxUHFaSl9FOG5kTkZJR0lfM2dmS2pIRXVMQ0U4QnhzR3dnWkhtS2U4bXdweEFNbjNDU3BPLWk0QmVzaVM4U19tSzRIRjFiblZoR1Zocw?oc=5"
+            },
+            {
+              "titular": "El dólar pierde fuerza y sorprende al mercado cambiario",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/economia/el-dolar-pierde-fuerza-sorprende-mercado-cambiario-n110094"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2026/08/6a743874dce6c.webp"
         }
       ]
     },
     "agenda-digital-estado": {
-      "titulo": "Registros de nacimientos y defunciones serán digitalizados",
+      "titulo": "Avanza la agenda de conectividad y economía digital",
       "categoria": "Regulación",
-      "contexto": "Paraguay viene impulsando la modernización de sus sistemas estatales mediante la digitalización de trámites y servicios públicos, en línea con tendencias regionales de gobierno electrónico.",
+      "contexto": "Paraguay viene impulsando la modernización de sus sistemas y servicios mediante la digitalización, en línea con tendencias regionales de gobierno electrónico y economía digital.",
       "first_seen": "2026-07-20",
-      "last_seen": "2026-07-29",
+      "last_seen": "2026-08-06",
       "updates": [
         {
           "date": "2026-07-20",
@@ -6500,6 +6681,23 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/VBH4XGX7KBA2ZNV4SDJCS5IUC4.jpg?auth=5c0533943a3e7a55939ae50ae6cc51e33042f81df3ac4102ca59b0181b4043a1&smart=true&width=870&height=482"
+        },
+        {
+          "date": "2026-08-06",
+          "hoy": "Se reportan nuevos avances en conectividad y adopción tecnológica en el país, con Encarnación y el sur destacados como una nueva oportunidad para la economía digital regional.",
+          "fuentes": [
+            {
+              "titular": "El Paraguay digital avanza con más conectividad y tecnología - latribuna.com.py",
+              "medio": "latribuna.com.py",
+              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPODVJLVd0aVJYNHgyZUhvN0xVTHFfTHVUeTR3Zmkxc0ZLVmtjRldkQ2lGOTcxb1VjNG9FZ3ZjUzRoUUJoVS16N0ZMRndCYWh5bkk1WEt5YjJTYm9CUjRfUW4wUlY4MkxpMFIxejlaOS1FS1VDcnVLLUNpUTJzTjdBeFp4R0VFUEZJVjMteTBBRlNhd3BhSVdVQlo5UFRPczBYdjNzM2x1WUF2bnNnX1ljYlhUdGxjOFpUOWhPUg?oc=5"
+            },
+            {
+              "titular": "Encarnación y el sur del país, ante una nueva oportunidad en la economía digital - Más Encarnación",
+              "medio": "Más Encarnación",
+              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYm9TMm15OEFLMjl2eEhONDQzaTFWczJZRDlJRUxDRWhpdjM4QjAyQlRtR2dLbXZpbldlZ2VhRFJZMDZOTHNxMUZpSzNrbi04cTV3NTgzRXBwYmwwMDNTaC1TUXV6NmJDNXgtZkI5OS1uU0xTeTRPbzJLck5HekpuZy1CbzhQMjZpUkowdnpla3ZsNzFIZVVjM1E1dmgwMHQxbzR4a29IOEJwOTRBTHAwTUxoZzhoMGF1Sm5r?oc=5"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/IMDZMT644VFDFAUB366KOFK2RM.jpg?smart=true&auth=880f42078633d77c95eb72d1324ea07dc192cf3506844f264fbb720b4fc8f6d2&width=1200&height=630"
         }
       ]
     },
@@ -6900,11 +7098,11 @@
       ]
     },
     "torneo-clausura-inicio": {
-      "titulo": "El fútbol paraguayo tiene un líder inédito en el Clausura",
+      "titulo": "Olimpia suma otra victoria en el Clausura",
       "categoria": "Deportes",
       "contexto": "El fútbol paraguayo se encuentra en pleno desarrollo del Torneo Clausura 2026 tras el receso por el Mundial, con los clubes grandes ajustando sus planteles.",
       "first_seen": "2026-07-20",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-06",
       "updates": [
         {
           "date": "2026-07-20",
@@ -7299,6 +7497,23 @@
             }
           ],
           "imagen": "https://www.abc.com.py/resizer/v2/XLJH6U2CZFDDRIMYNUUMFZCB5Y.jpeg?auth=853bc5ceeebd2e627540c45a6d35f9be0d64265e00b3088b1b6dc1b561a8dc86&width=770&smart=true"
+        },
+        {
+          "date": "2026-08-06",
+          "hoy": "Olimpia venció 2-0 a Recoleta FC en un partido de regularización de la fecha 10, aunque el club reportó la baja de un jugador por dos semanas.",
+          "fuentes": [
+            {
+              "titular": "Triunfo de Olimpia en encuentro de regularización",
+              "medio": "APF",
+              "url": "https://www.apf.org.py/noticias/triunfo-de-olimpia-en-encuentro-de-regularizacion"
+            },
+            {
+              "titular": "Malas noticias en Olimpia: El jugador que será baja dos semanas - VS Sports",
+              "medio": "VS Sports",
+              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORzR0eHVJRzEyUk1VVV81d3NOZl85a2JhbFlxbFpXRHlEb082aXpuc1otMjNZV0VDQXM0OGVBMXg4S3hsUmQtemtSd2tSakhRMGhUUUV5SG9PTXM1b0RSV2VPelBBR3RLQy1ubWF5a1cyemZrY3VtQ3NkLThtdE5RMjZteVliYTJRbHRybzVUUnZFdDVRVDR1UEdpYWJIYWpPeDRtWElIWWszSkFf?oc=5"
+            }
+          ],
+          "imagen": "https://statics-maker.llt-services.com/apf/images/2026/08/05/large/09481f64-948f-4a11-83ae-58ca3ef4cac7-33.jpeg"
         }
       ]
     },
@@ -7348,11 +7563,11 @@
       ]
     },
     "leite-embajador-senado": {
-      "titulo": "Leite dice no ser crítico de Peña pero admite fallas del Congreso",
+      "titulo": "Leite propone recortar USD 400 millones del gasto público",
       "categoria": "Política",
-      "contexto": "El senador colorado Gustavo Leite se había alejado temporalmente de su banca para asumir como embajador de Paraguay en Estados Unidos.",
+      "contexto": "El senador colorado Gustavo Leite se había alejado temporalmente de su banca para asumir como embajador de Paraguay en Estados Unidos, y desde su regreso al Senado mantiene una agenda de reforma del Estado.",
       "first_seen": "2026-07-20",
-      "last_seen": "2026-07-29",
+      "last_seen": "2026-08-06",
       "updates": [
         {
           "date": "2026-07-20",
@@ -7428,6 +7643,18 @@
             }
           ],
           "imagen": "https://www.abc.com.py/resizer/v2/4OTSTQT3ZFD2FJH5GWL64WHACE.jpg?auth=13b857214e34d8ca925b5996d8374c021d0a184117a42328071b4898e2b6f3d5&width=770&smart=true"
+        },
+        {
+          "date": "2026-08-06",
+          "hoy": "Leite lanzó una propuesta para recortar unos USD 400 millones anuales del gasto público, reduciendo partidas como viáticos y gastos menores, con el objetivo de redirigir esos fondos al sistema de salud.",
+          "fuentes": [
+            {
+              "titular": "Menos bocaditos y viáticos, más medicamentos: la apuesta de Leite",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/politica/menos-bocaditos-viaticos-mas-medicamentos-apuesta-leite-n110095"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2026/08/6a74394b8d0e0.jpg"
         }
       ]
     },
@@ -9520,11 +9747,11 @@
       ]
     },
     "credito-bancario-py": {
-      "titulo": "Crece el acceso al crédito de consumo, pero también la morosidad",
+      "titulo": "El crédito bancario se acelera, con fuerte avance en moneda extranjera",
       "categoria": "Economía",
       "contexto": "El sistema bancario paraguayo viene expandiendo su cartera de créditos en un contexto de crecimiento económico, aunque también se monitorea el nivel de endeudamiento de las familias.",
       "first_seen": "2026-07-24",
-      "last_seen": "2026-08-02",
+      "last_seen": "2026-08-06",
       "updates": [
         {
           "date": "2026-07-24",
@@ -9595,6 +9822,23 @@
             }
           ],
           "imagen": "https://statics.elnacional.com.py/2025/03/37fdc082d0f37daa6ab9139b8e7ae550.jpg"
+        },
+        {
+          "date": "2026-08-06",
+          "hoy": "El BCP reportó que créditos y depósitos crecieron en el primer semestre, destacándose un avance a doble dígito en los créditos otorgados en moneda extranjera.",
+          "fuentes": [
+            {
+              "titular": "BCP muestra en Paraguay un crédito más fuerte y a doble dígito en moneda extranjera - 5Días Paraguay",
+              "medio": "5Días Paraguay",
+              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZFhVaW1HUlo4MGNlQlRFYzhHaVcxM2pwaDRTclFiNDEzOFhWSVNaaEhNcTh1V3FmeXBhWHYzSFFxYmF1SzVYekE0YzVFLVBvclRJeHZJR09WeUFWZHZHZE8yY2VXOTZNekk4RkRXcjhNRC1yeUxwSTR0TkozcEtOdm5TSDBRUHc3WEhocEhXSkNEMHc2Um5qOGpibGIteVlyU2dvRDhCdGxheDNVcWc?oc=5"
+            },
+            {
+              "titular": "BCP: Los créditos y depósitos crecieron en el primer semestre - ultimahora.com",
+              "medio": "ultimahora.com",
+              "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV0ttV1V4ZkpLc3NuNl9YOXdKakFrRlo3VzB1OURWdGxnYU13S1lSUkV1b1E5NHZ6ekdveV9mQUZ1elhvV2pVWDRPOXZyczJFV19CSEZyM3lyLTdLMEVpMnZUWWJramtLQUxURkwzSVJFM25VeEJRNExkZnl5N25YNVNHMU4wWHZmdHN5YTdqNFXSAZ4BQVVfeXFMT25zMDMzRV80SGZmT3JBSlM2MmlzX1Z2MFlVWkk1dGg5dkc0UHhIT3NIV2JGMUlPdkY1dW5FTjJTLXBrTnJaaGpGUi1hRVRsdHBscU94UnB1Y0VYQVg0aWhYN1E1ZUNjMUhCMkVKc2I2aHRJZ2VkVi1QYm0wUVk0eW03TDZYM2xqem0wZWh4RUVtMU8tdUVsY0U0SE01OEE?oc=5"
+            }
+          ],
+          "imagen": "https://webmagazine.5dias.com.py//static/img_cms5d/uploads/prestamo-personal-vs-prestamo-empresa_20250530_121622.jpg"
         }
       ]
     },
@@ -9909,11 +10153,11 @@
       ]
     },
     "semana-sostenibilidad-py": {
-      "titulo": "Paraguay celebrará su primera Semana de la Sostenibilidad",
+      "titulo": "Gobierno profundiza su agenda de desarrollo sostenible",
       "categoria": "Economía",
-      "contexto": "Paraguay viene impulsando su imagen internacional en materia de sostenibilidad e inversión responsable, en línea con la agenda ESG que atrae a inversores globales, mientras el sector industrial destaca la producción sostenible como diferencial competitivo.",
+      "contexto": "Paraguay viene impulsando su imagen internacional en materia de sostenibilidad e inversión responsable, en línea con la agenda ESG que atrae a inversores globales.",
       "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
+      "last_seen": "2026-08-06",
       "updates": [
         {
           "date": "2026-07-25",
@@ -9931,15 +10175,27 @@
             }
           ],
           "imagen": "https://www.lanacion.com.py/resizer/v2/XWPLLUCNKVFNTNLTBMRI2LTPMY.jpg?auth=1865318a834c0c6fbba3e2bcaa6eef1bf779ce2137468c5800633d3fe4aac7f1&width=1024&height=512&smart=true"
+        },
+        {
+          "date": "2026-08-06",
+          "hoy": "El Gobierno reforzó su estrategia para posicionar a Paraguay como referente regional en desarrollo sostenible.",
+          "fuentes": [
+            {
+              "titular": "Gobierno impulsa agenda para posicionar a Paraguay como referente del desarrollo sostenible - La Nación",
+              "medio": "La Nación",
+              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRFFDZEVYQVI1TUtQb2hWa1ZSOG1EWUM4T3RDeWVVbXF0M2tQMzFKWTluWFBoR1JOZ0RoakhTUWpBUVl1SlppRHY3R1RibXh2NkFzRmlhSW9DMjRLd1RjMHl1dnYtLWVNNmpxcmtoeUR2aWFILVpiVEJ1cUF3Tk10TjNRbEI0TU5yZHJPenY2QlZMM1dPbjZrWUZHMl9lQ1lQOGxJa0h4X1VJVTBMWUgtT2RmcjMxcjlMSVBPVlRmSlBtYnJ0ZUtUNFp5U3JUX2N4VmtyVnNwMA?oc=5"
+            }
+          ],
+          "imagen": "https://www.lanacion.com.py/resizer/v2/FDF6YYCXIFGFXADIXEAO4Y6T2I.jpeg?auth=572d48397703cc8c6cc63a76101555e686ecb7ffad7b277946f460358e0a7a40&width=1024&height=512&smart=true"
         }
       ]
     },
     "dnit-modernizacion-fiscal": {
-      "titulo": "DNIT cierra julio con crecimiento en su recaudación",
+      "titulo": "La DNIT traza una hoja de ruta hasta 2029",
       "categoria": "Regulación",
-      "contexto": "La DNIT viene modernizando sus sistemas de fiscalización y ampliando la base de contribuyentes mediante la facturación electrónica (SIFEN), en un proceso de digitalización tributaria.",
+      "contexto": "La DNIT viene modernizando sus sistemas de fiscalización y ampliando la base de contribuyentes mediante la facturación electrónica, en un proceso de digitalización tributaria.",
       "first_seen": "2026-07-25",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-06",
       "updates": [
         {
           "date": "2026-07-25",
@@ -10023,6 +10279,23 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/EH6CK4DY2ZGILJM7YVGNXA763A.jpg?smart=true&auth=d2d9f2daaf06ba092cc60a1755bfb0d80ee08f4f5f28273802beac935c77b724&width=1200&height=630"
+        },
+        {
+          "date": "2026-08-06",
+          "hoy": "La DNIT presentó una hoja de ruta hasta 2029 con la meta de recaudar USD 1.500 millones adicionales en tres años, mientras confirmó que su recaudación ya subió 3,6% en lo que va del año.",
+          "fuentes": [
+            {
+              "titular": "DNIT: US$ 1.500 millones en 3 años y hoja de ruta al 2029 - abc.com.py",
+              "medio": "abc.com.py",
+              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON3dCVFM4Qi0wUHB0emFuVFVoZEswVTZpQW82dllvMFVISDRBak5UUS0wT1BLTjNvQ3FfV1gzN1U5ak85M25JaFBBYWc1aE42UXduYzNILVBtSl9Za0NXLWltbXFma3BqUWNLcm8ya2ttbkI0QjhSaWVQYldBQTR6Zm5WdVRCUWRlWGhWNDA0Ymh0cl9PaWRjdUtqWHE0SU3SAbMBQVVfeXFMUE1xT2J2M1NlYWNHeXh6ZXF1RzBWR2VUZXB6a3FwUzFLb1NzR3FsWFZhNUE2RmFYZHg5UTQzcFpwU0FSeWdJLVEwR0t5QjdHaHBRVUFiTVBuT2dwc3NxZHUxRUVnekllYUJRLVBuLTNFc1ZaeE45LWx6eW9Zbnp6MS15UTU4TV9PakFvcXhrM0dkU05XemdFZDYxdTI2cGFuejluZlRSSEVPOHE0eEVfbmpuYzA?oc=5"
+            },
+            {
+              "titular": "Recaudaciones de la DNIT suben 3,6% - latribuna.com.py",
+              "medio": "latribuna.com.py",
+              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZUZ5Y3Jnd1ZCeTllMm5Bd1RUVFJGeXB6ZWpIZGFGM1U4c1RUYmpmTlVhZ1dFcHY3M2xjVlMyZVlPVG51OW9sQ29aQ1RndkpJUW9rbnNLZnlPdUd0MEQ4SEptT19sNXlIbms5dlJFR0RfZXdSa2tQUHhXaWdnSUdYdEo5WnA1dlhDT0tEZWdGOHFUZ0dQUy04?oc=5"
+            }
+          ],
+          "imagen": "https://www.abc.com.py/resizer/v2/DWAERZWIDRB6HABPIMPLKLRMY4.jpg?auth=1e613c8b52a641f879938ccfdd5bd87bc70229e4b2c4f34c40ba0f30bf3020f7&width=770&smart=true"
         }
       ]
     },
@@ -10174,11 +10447,11 @@
       ]
     },
     "inflacion-precios-canasta": {
-      "titulo": "La inflación de julio vuelve a cerrar en terreno negativo",
+      "titulo": "La inflación de julio confirma su tendencia a la baja",
       "categoria": "Economía",
-      "contexto": "Paraguay viene registrando una desaceleración de la inflación según los indicadores oficiales del Banco Central, en un contexto de estabilidad macroeconómica, aunque persiste la brecha entre las cifras agregadas y la percepción de los consumidores sobre el costo de vida.",
+      "contexto": "Paraguay viene registrando una desaceleración de la inflación según los indicadores oficiales del Banco Central, en un contexto de estabilidad macroeconómica.",
       "first_seen": "2026-07-26",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-06",
       "updates": [
         {
           "date": "2026-07-26",
@@ -10285,6 +10558,18 @@
             }
           ],
           "imagen": "https://www.infobae.com/resizer/v2/VB4MKBAP3JDIPAFPSC7FTMNNHY.jpg?auth=8178d8c6d19c9b5e2597343ffab1758e395fd796d779addf6a979641bf0aed7c&smart=true&width=1024&height=512&quality=85"
+        },
+        {
+          "date": "2026-08-06",
+          "hoy": "El BCP confirmó una nueva caída de la inflación en julio, sosteniendo la tendencia de desaceleración de precios observada en los últimos meses.",
+          "fuentes": [
+            {
+              "titular": "BCP reporta caída de inflación en julio - latribuna.com.py",
+              "medio": "latribuna.com.py",
+              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTHNFeUtWQjI4M2VZS3ZoRjFXN05idjh2M3BBUnlidzNGV3VDWFZlVUVHT3hNcmlHTjVGSkw3QWtXWUUyVFQ2Ty0zeUVPTTBKOGx3UkZUVHlfeU54MUJ5ZUFKaC1pUkV0MHVlUHBPRGRDSWNsMTRmQzZHbW11WmZWV0RVa3d5MW5hT2JvVmwwc05lVDNlYTRhY01uZzZCZHc?oc=5"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/G5PNP4IIDRBILDATXV7L3SNY5A.jpg?smart=true&auth=f70b05da71fecbf15b2e826d1b736c9158dd0ca4af019898ac842d4594025aee&width=1200&height=630"
         }
       ]
     },
@@ -10500,11 +10785,11 @@
       ]
     },
     "desaceleracion-construccion-capaco": {
-      "titulo": "Se confirma el freno temporal en la construcción",
+      "titulo": "La construcción cierra un semestre de récord de obras pero con problemas de liquidez",
       "categoria": "Inmobiliario",
       "contexto": "La construcción es uno de los motores clave de la economía paraguaya, con Capaco monitoreando de cerca la evolución del sector ante la caída en la ejecución de obras públicas.",
       "first_seen": "2026-07-28",
-      "last_seen": "2026-07-31",
+      "last_seen": "2026-08-06",
       "updates": [
         {
           "date": "2026-07-28",
@@ -10541,6 +10826,18 @@
             }
           ],
           "imagen": "https://grupovierci.brightspotcdn.com/dims4/default/0653b69/2147483647/strip/true/crop/1280x720+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb0%2F00%2F9983f694495abc033a392418bedb%2Fhelmet-3371273-1280.jpg"
+        },
+        {
+          "date": "2026-08-06",
+          "hoy": "El sector cerró el primer semestre con cifras mixtas: pese a un récord de obras ejecutadas, persisten fuertes problemas de liquidez entre las empresas constructoras.",
+          "fuentes": [
+            {
+              "titular": "Construcción cerró un semestre mixto: récord de obras, pero con problemas de liquidez - La Nación",
+              "medio": "La Nación",
+              "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYXZBTjM2RldsTGZReGRmMUYycUdBNUhuWXNFVnZDT2dnWDBEb0ZlbGVvMlJLV1MxWDdOT3E3allZRWFVc0NwSjRFSlNBWUpDNEhHRUgtaXVyanJEQmJzVFctbHk5cFIzMDAzcV9ZZ3VxaGdMU1hJUVZVeXJENERjVEFNT3lkMWR0R2w2LTRnN3REek5rTGcyanlyTk0tV3E2QU9NMjJSbEl6VjdmcWJPVXEyQnBFVnRTWXAzdXBZaEJya0RYZmRsMktLTnQ?oc=5"
+            }
+          ],
+          "imagen": "https://www.lanacion.com.py/resizer/v2/SUFYU6DR7ZFCNFWCMJFKV22GWQ.jpg?auth=a6b799039b3a97f4c0d1de47f6b237420506e449527940e44794ab584ed70b89&width=1024&height=512&smart=true"
         }
       ]
     },
@@ -11081,11 +11378,11 @@
       ]
     },
     "peña-gira-suramerica": {
-      "titulo": "Paraguay profundiza vínculos de inversión con Ecuador",
+      "titulo": "Peña opta por la cautela ante la tensión entre Lula y Milei",
       "categoria": "Política",
-      "contexto": "El presidente Santiago Peña mantiene una intensa agenda de política exterior, visitando países de la región para fortalecer alianzas bilaterales y atraer inversiones para Paraguay.",
+      "contexto": "El presidente Santiago Peña mantiene una intensa agenda de política exterior, buscando fortalecer alianzas bilaterales sin quedar expuesto a las tensiones entre otros líderes regionales.",
       "first_seen": "2026-07-28",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-06",
       "updates": [
         {
           "date": "2026-07-28",
@@ -11421,6 +11718,18 @@
             }
           ],
           "imagen": "https://img.eloriente.com/pics/1280x960/b52414a5a7a11f382ff46a4bcc03eba6113a554a.jpg"
+        },
+        {
+          "date": "2026-08-06",
+          "hoy": "En medio de la disputa entre los gobiernos de Lula y Milei, Peña apuesta por la cautela diplomática para no quedar atrapado en ese conflicto regional.",
+          "fuentes": [
+            {
+              "titular": "Peña apuesta a la cautela para no quedar atrapado en la guerra entre Lula y Milei - La Política Online",
+              "medio": "La Política Online",
+              "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWERCZlNPdXQ2RnVSRDRrN2lUR2JWanlmdktZQVJtUmhnb08xNTJzSklxaXNkc21FTlNnM2pWRjRvb1pfZWRudUtrdXg4a2tvN1k0WmF1dHFVVERCX2JzS0l4Nk5CQl95LUE1YkFZbHAxWjJfRE10bWdZSDI2WmlPM18zY2pYNE5Vb202MThpQ3VuVml3WmI1WG9Hb3VhdWNSS2dyTlJvMTVjSVVXMXRtR2VmLVFXbE1xOTlfOTFZTGd2RDJzT1FXWkFVSUtlWjRnVFNnMGYyU18?oc=5"
+            }
+          ],
+          "imagen": "https://www.lapoliticaonline.com/files/image/294/294481/6a6a7d7e56608_1200_630!.jpg?s=367b9d998c89de4b5d015216019ef38a&d=1785898800"
         }
       ]
     },
@@ -13200,11 +13509,11 @@
       ]
     },
     "deficit-fiscal-exministros": {
-      "titulo": "El Gobierno enfrenta presión creciente por el déficit fiscal",
+      "titulo": "El Gobierno traza una hoja de ruta para reducir el déficit fiscal",
       "categoria": "Economía",
-      "contexto": "El Gobierno de Peña enfrenta un déficit fiscal creciente y un stock de deuda pública en expansión, lo que motivó la convocatoria a distintos exministros de Hacienda para analizar la situación de las finanzas públicas.",
+      "contexto": "El Gobierno de Peña enfrenta un déficit fiscal creciente y un stock de deuda pública en expansión, lo que motivó la convocatoria a exministros de Hacienda para analizar la situación de las finanzas públicas.",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-06",
       "updates": [
         {
           "date": "2026-08-04",
@@ -13264,6 +13573,23 @@
             }
           ],
           "imagen": "https://statics.elnacional.com.py/2020/10/b5095ee31e45615d0c50b3a6f3fa68c9.jpg"
+        },
+        {
+          "date": "2026-08-06",
+          "hoy": "El MEF presentó una meta de reducir el déficit fiscal al 1,5% del PIB para fines de 2028, con proyecciones de 3,2% en 2026 y 3,9% en 2027, y descartó subir impuestos, enfocándose en revisar exoneraciones tributarias y ampliar la base de contribuyentes.",
+          "fuentes": [
+            {
+              "titular": "Gobierno fija meta de déficit fiscal de 1,5 % del PIB para finales de 2028",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/economia/gobierno-fija-meta-deficit-fiscal-15-pib-finales-2028-n110057"
+            },
+            {
+              "titular": "Gobierno descarta subir impuestos y apunta a revisar las exoneraciones tributarias",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/economia/gobierno-descarta-subir-impuestos-apunta-revisar-exoneraciones-tributarias-n110073"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2026/07/6a68c2b141560.jpeg"
         }
       ]
     },
@@ -13327,11 +13653,11 @@
       ]
     },
     "ecommerce-qr-py": {
-      "titulo": "El pago por QR transforma el comercio electrónico paraguayo",
+      "titulo": "Avanza la formalización mediante pagos digitales",
       "categoria": "Economía",
       "contexto": "Paraguay viene modernizando sus medios de pago digitales, con el crecimiento de billeteras y códigos QR como alternativa a las tarjetas tradicionales.",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-06",
       "updates": [
         {
           "date": "2026-08-04",
@@ -13344,6 +13670,18 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/BEB32JH52FHSZLHWENS7Y64OU4.jpg?smart=true&auth=40d6190805619aa4fc6d6752a62b7eb4c96e6a8def472e0dfe8a8dc2aedf0bdc&width=1200&height=630"
+        },
+        {
+          "date": "2026-08-06",
+          "hoy": "Se reportan nuevos avances en la formalización del comercio a través de pagos online.",
+          "fuentes": [
+            {
+              "titular": "Avanza la formalización mediante pagos online - latribuna.com.py",
+              "medio": "latribuna.com.py",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZmMtSHNrbWFJZm1nZ2xEVVdhQlctcjlza0JDaTJHT2F2eFlISjNjVWo1YkZuUEZNRHFvbG9RV0hMTVVsaEpvNnRvN1hwejg4QndOLUxIc2kwM0Z4VkM4T3lGMm5KM0VVaDFETnJJekJyVG9hU0dyemRVb05XX3FhVzdMeUk5OXJOd2ZUSGFTVzNyUm9Ib3QxVlpxUDRZUDgtcnpFYXRfZw?oc=5"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/ESQDEBLXN5EOJFCYMRDRCZI7KU.jpg?smart=true&auth=adb7e087c439b6e1b5a2ec82565b7016b48b8f10c76cb35abffd73aed13de98b&width=1200&height=630"
         }
       ]
     },
@@ -13489,11 +13827,11 @@
       ]
     },
     "caso-corrupcion-ips": {
-      "titulo": "La Fiscalía imputa a exautoridades del IPS por corrupción",
+      "titulo": "Brítez se entrega a la Justicia y Peña defiende su designación en el IPS",
       "categoria": "Política",
-      "contexto": "El IPS atraviesa una crisis financiera e institucional, con antecedentes de cuestionamientos sobre el manejo de sus fondos y contratos, en paralelo al debate por su rescate económico.",
+      "contexto": "El IPS atraviesa una crisis financiera e institucional, con antecedentes de cuestionamientos sobre el manejo de sus fondos; la Fiscalía imputó recientemente a exautoridades de la entidad por presunta corrupción.",
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-06",
       "updates": [
         {
           "date": "2026-08-05",
@@ -13521,6 +13859,43 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/FMSRS2DV3BF25JSJZ3ROJWL26Y.jpg?auth=9a7402de0c31287f9fe012081fb9cde7b49eaeeeb924d36361357cd1f21d1420&smart=true&width=1200&height=800"
+        },
+        {
+          "date": "2026-08-06",
+          "hoy": "Jorge Brítez, expresidente del IPS, se entregó a la Justicia tras ser imputado por presunto perjuicio a la institución. El presidente Peña defendió públicamente haberlo designado en el cargo, afirmó no arrepentirse de la decisión y pidió que el tema no se convierta en un debate mediático.",
+          "fuentes": [
+            {
+              "titular": "Santiago Peña defendió la designación del presi de IPS que ahora está imputado - extra.com.py",
+              "medio": "extra.com.py",
+              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeElQekF4ZGNqeVhqM0gzVnZMS0ttNUs0WG0xV3g2UzVLU0VvVE95dXFlaDBDQmtBcXRHbDZrNzNzdDFmMmFpRVFXbVloZzlWRFZpTV9FVWlLUzRtcVlGbEtrcEFySnlmRzRlT1J2VFRuN25KWDFwbTlUb1hfamdUMlQ3elE0alVueFJ1TEx1UXgtNEFlZEdQdTluWjl0b3lfQll6bUdlNEl1SW5pYlpZdjBMSU7SAcIBQVVfeXFMTWI1Yy1BUXhyRkswM1Itei1WejcwSy03YS1jY1lOMy1NMXppWDJVcjFHaC15aE5OTDFGX3RoOUZ3T0tDbUZqZzU4amxxQTU4ZDBaM0dEcUJBTThFQjVqWDl3MzhadUk4T2pOdlB2R2ZjeXc1U3Bycy1pREpVSHlpUEpzODVFaWNxQktEcXpndFEydWFXSEFOV2c2cDVoZkxsMHBva2pWcG5kSnk3eU1GVlpoTkJjYnRUVnNFeS1UeWhGS2c?oc=5"
+            },
+            {
+              "titular": "Posición de Peña: “Esto no es para un debate mediático” - latribuna.com.py",
+              "medio": "latribuna.com.py",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSWtSOHhib09VOXVNLTA4YUNpM2dFZ3hvekQyOHZhRzNnZkRtZ2xTTGJuTFVYZ1l5RUcxR0JhR0gwUm1mVkFvbkp0UHZ6b3dQUThLTGJ1eVVncVdzNjMwVnlrVXhyQ0RJWnJYSUNWQzFUS3lOekRFYklIR1RFOEMzd0VzN3ZjZUZxRThEOEkzN3JITWxCT3VxTnRwcy1hcXU0T3VVSw?oc=5"
+            },
+            {
+              "titular": "Peña defiende sus decisiones tras la imputación del extitular del IPS - La Nación",
+              "medio": "La Nación",
+              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN3FUUS1hUGd3eVAwVm1waU5PN2pTckl3ajNCeWhsUFFFeFRqUzc5NTh1MjlYRk5ZclA2REYzcXdpbHVJYkdHdHQ1OHR1M1h6MUYzSTJ2S3Y2bkJqRVdUYjAyemtQOHRGZmVsZzBvWW5ja3FCTm11SVJScjQxWmh1YzFjVGUzTFVfQV9VMWtwZ2Nsb25tdm1tMUFROFJubmhRanJoZUlrYld4X1ctNE5CVjVtQkw4aDFYaWc?oc=5"
+            },
+            {
+              "titular": "Esto dice Peña sobre Jorge Brítez y las declaraciones de Lula - abc.com.py",
+              "medio": "abc.com.py",
+              "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNnR3djZ4Nlk2b0gwRWpMNWVxRVpIRHZUeERwNlZtc0tFRnA4TUlkTklFalBEeUJKYnYybTRGOFE5VDkxenZaelNpcjVxMk5IR0ZMMDZ0Uy1oZEVKamtDc2RNc21vc0wtbmxZQ3hVUU10OVVkcmR5c3FLYzgzcWxRb2Z6SkIzQjBmMWZ5ZmRJcG44UVVxUndFa3Vnd3hYcXRlQU8w0gG3AUFVX3lxTE5WTkM5dS1sSjk5Q08wS2tPOVdUaDZYQ0l2QzJ0cVBqeVV3NmxEUjZOTjM5QzZxLWg4NnV5LWVLdGVmc19oaEQwVDgydnI4clhwbHVNS0hOMlpxZXJSVjVYM0xLYWhDMGZWOTdSbzlQeGFyd1pZdG1YNl8tYkl2WXBmbUVBNkxkTi1UX2VYdnpoSlM3ZFk0RVV6dVNQUlNVdVMwXzg0TWo2Y1AwNTRSTGRWSEp4Uk5wdw?oc=5"
+            },
+            {
+              "titular": "\"No soy de arrepentirme\": Peña respalda designación de Jorge Brítez pese a imputación por presunto desfalco en el IPS - NPY",
+              "medio": "NPY",
+              "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdGlObkZoVlJLanZyaTJfWkVHaEtod0RnY3pvVERkbGJvSWpFRFl5VjZCUU1MTHBObVZuUXd1bnVYaHpvTHBROWNMUnBHdDBfOE53LV96YVRINXhxVEYwbHNVRnB5dmd5T2ZqT3JGdkxuNXFjeFM2ZzlkRlJEOWZTNEdPb2tCTXhlbGJvR0c5SGx6V0JUUE55SEtBb1VHWlBINndDZFRRN0hfbHdkRGtacEhlYnJ6NmFsbXRZdUpNSy1tdmlGQ0wzdjhzR1hMR1N5ZFJ4ckdDTUhYSGlBMVRySHd6RjRTdkZHXzJ3NEg4SG5tcUtidjN0UUxB?oc=5"
+            },
+            {
+              "titular": "Jorge Brítez se entrega a la Justicia tras imputación por presunto perjuicio al IPS",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/politica/jorge-britez-entrega-justicia-tras-imputacion-presunto-perjuicio-ips-n110102"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2026/05/6a08839da7992.jpeg"
         }
       ]
     },
@@ -13696,11 +14071,11 @@
       ]
     },
     "paranair-regularizacion": {
-      "titulo": "El Gobierno presiona a Paranair para regularizar sus vuelos",
+      "titulo": "El Gobierno endurece advertencias contra Paranair",
       "categoria": "Otros",
       "contexto": "Paraguay busca fortalecer su conectividad aérea, en momentos en que la aerolínea local Paranair enfrenta dificultades operativas.",
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-06",
       "updates": [
         {
           "date": "2026-08-05",
@@ -13713,6 +14088,18 @@
             }
           ],
           "imagen": "https://flex-app.tadevel-cdn.com/hostname/www.aviacionline.com/api/v1/image/article/6a722ed1e2e5a65bf746d5ae/facebook?v=4ea19bb5f8e23d2a6388a641f33e52bc&s=5e442d041ac2afd98e448f254665fecd"
+        },
+        {
+          "date": "2026-08-06",
+          "hoy": "Las autoridades advirtieron nuevas medidas contra Paranair por persistentes fallas operativas.",
+          "fuentes": [
+            {
+              "titular": "Advierte Paraguay nuevas medidas contra Paranair por persistentes fallas operativas - a21.com.mx",
+              "medio": "a21.com.mx",
+              "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUnJJMm11M0hKZmJTMDBhUWVWUUd0ZE5qd1A5R2pORURNZVNIWURnS0pDd043ZDBHWFNoLTJieWlKcFlWYXI0ajBrS2RTQVI1Qzc2UGdXZDlFRFNPM3ZiZHNaZHJET2lrSG1RNTYwVVNsRmN5bE9ON19HQkx5T3czcE16Y3AzU2pZbGRsNXZGR2ZmbEdxYlF4Qnh2ZjR3QnBnV1pmdUFrdDFJVi15NU04a3JhLWJfeXduT1Z0cEpDQzZjUm8?oc=5"
+            }
+          ],
+          "imagen": "https://a21.com.mx/wp-content/uploads/2026/08/imagecfghjkln-4.jpg"
         }
       ]
     },
@@ -13797,6 +14184,215 @@
             }
           ],
           "imagen": "https://statics.elnacional.com.py/2024/03/2e518844dc3ec16896e39524644023e4.jpg"
+        }
+      ]
+    },
+    "riesgo-pais-baja": {
+      "titulo": "Paraguay se mantiene entre los países con menor riesgo país de la región",
+      "categoria": "Economía",
+      "contexto": "Paraguay viene siendo destacado por organismos internacionales y calificadoras por su solidez macroeconómica, lo que se refleja favorablemente en indicadores de riesgo país frente a otros países de la región.",
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-08-06",
+      "updates": [
+        {
+          "date": "2026-08-06",
+          "hoy": "Nuevos reportes ubican a Paraguay entre las economías con menor riesgo país de América Latina.",
+          "fuentes": [
+            {
+              "titular": "Paraguay vuelve a ubicarse entre economías con menor riesgo país - latribuna.com.py",
+              "medio": "latribuna.com.py",
+              "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbmVJV0IyTE1IY0xrSUJDM1kzM0I3T3Z4elNSZ3JmUVlZUU9ibnZTcEFLWTI3S1c2dmVyTXYxNG5XMUpMd0Jia2g4S3l1VkxlUThnS1hRSzBjZUJseXJ5SXljdXhudkJSTjltSkRMYk5KOUVBdnpWWW9ETGNtcGhNNlNRRW53TGlYZHZxbHpWbTNDd250OU1MSlJma203UTRUbThuU2JRMG9qWVlPVmU3TlFURXE3RGVhdkU4Q08tdUc?oc=5"
+            },
+            {
+              "titular": "Paraguay se mantiene entre los países con menor riesgo país de América Latina - adndigital.com.py",
+              "medio": "adndigital.com.py",
+              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNjBjSXNkeWh5Yy13V0pNUDZFYjI3cjZXaVhVZHowWjUtQU94ci0tTDRjN3pydkxxclZYOUE5TzdkTnhHRU96OFdNSWc5X2ZpX1ptaVpyWkp5ZXlLZUVUYlh3SXM5SVlqZFVXN2FBMkkxRlpZMm81U1V1am5FQnFFWDJ4TUw4NC1LM0hKUEMtSjRPQ1ZjMWFXcmN5NFZGT1p1cURWdkIwV1ZUOU5q?oc=5"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/HMY3MVLPLBCWFHGIHQPR62LUWI.png?smart=true&auth=c333da4f2c2bf80e2d9329d83948d191227282691114479877da693e9f4e71ae&width=1200&height=630"
+        }
+      ]
+    },
+    "paraguay-costos-competitividad": {
+      "titulo": "Paraguay pierde su rótulo de país más barato de Sudamérica",
+      "categoria": "Economía",
+      "contexto": "El crecimiento económico de los últimos años viene modificando la percepción de Paraguay como destino de bajo costo, mientras persiste el debate sobre sus limitantes estructurales de competitividad más allá de la energía barata y los impuestos bajos.",
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-08-06",
+      "updates": [
+        {
+          "date": "2026-08-06",
+          "hoy": "Un análisis señala que Paraguay ya no ostenta el rótulo de país más barato de Sudamérica, mientras otro reporte advierte que la energía barata y los impuestos bajos 'no son suficientes' como ventaja competitiva por sí solos.",
+          "fuentes": [
+            {
+              "titular": "Paraguay ya no cuenta con el rótulo de país más barato de Sudamérica - abc.com.py",
+              "medio": "abc.com.py",
+              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNanBOWTVDS3IzemRLZkY2UFJfbmtlWWxCWWtGSTlQak9tLUpDb1BRRHlib2Q1TDJjb2ZUY2Ruc1pwQURnTmFhb1luOHQ1eEFlT2VncTQzRkE3Q0plNWJMVUxMMW1SNGxLcXYxQ19fRjJaTDlFT0NTV0pSOW9VZmFCaUtPQnVkSF96RU1ESzFqRW9UYk9VMUhpcFpoMTJ5LV9EWXFQNFlQSDBmUDdLMEhUUXVB0gHGAUFVX3lxTFBuOEtkQXBTMlo3U3JTMUhLQ1piS0FyQ0VETG93emEtSkdNRnk3Q05BUlFUN0x5b1NLWEs0c0VFaVJUbUdyU0l3TDhqUExEd2dKWnhmSUJiTHJfT0UxLWtZUkRlalB1aDZ5SmFPS0NZd1FpMFJIbHQtbHhVaEl2aVpvWHlld3NXLTJIRXQ2cnJvUlhJVldSVFJXU0p0S2tSekl2Yy1laGlJOHlLQTNhbUNRYUVvV3g2eGFMbVNvZU5XUHhQbjVVUQ?oc=5"
+            },
+            {
+              "titular": "Energía barata e impuestos bajos “no son suficientes” - ultimahora.com",
+              "medio": "ultimahora.com",
+              "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcTJqWEhUVm1hMWNUUG9JZTA2Uk96Y3dldkhlYnIxbE9WYzhqaXVIZDhFSUQ3SjlQZFphUi1NalpaOVZlTGhTakpvWEVGY3dTeGZnVHJDYmlXV01PZ0V3SVJDbDVDMU9XemZDZ1BsWHhjWVlCdzB4WW12dVdaNE1FMERYN1IzeVVaejUwc3hFdVhKZ9IBkgFBVV95cUxNcTJqWEhUVm1hMWNUUG9JZTA2Uk96Y3dldkhlYnIxbE9WYzhqaXVIZDhFSUQ3SjlQZFphUi1NalpaOVZlTGhTakpvWEVGY3dTeGZnVHJDYmlXV01PZ0V3SVJDbDVDMU9XemZDZ1BsWHhjWVlCdzB4WW12dVdaNE1FMERYN1IzeVVaejUwc3hFdVhKZw?oc=5"
+            },
+            {
+              "titular": "Paraguay y sus frenos - 5Días Paraguay",
+              "medio": "5Días Paraguay",
+              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WQjUxMjR5UmRKN2FXNWtwcjBRTGxxdFgxOUNoQ1ZxMU5MSk5lYmdkb1NxR0hvWTgtTlhqSV9iaG10V1pxYTVlcFhWNzRNRFhwU19nbEZCcEx1cS1aR1FF?oc=5"
+            }
+          ],
+          "imagen": "https://www.abc.com.py/resizer/v2/E6ZNONLOWBHFBN55RYYLV44ZCY.jpg?auth=a607aff24a0c639333b215de56c14201c3a00b18d72fe37ded284e9767b51e02&width=770&smart=true"
+        }
+      ]
+    },
+    "frigorifico-san-pedro": {
+      "titulo": "Anuncian el primer frigorífico de San Pedro con inversión de USD 40 millones",
+      "categoria": "Agro",
+      "contexto": "Paraguay continúa atrayendo inversiones en la industria frigorífica como parte de la expansión y diversificación geográfica de su cadena de valor cárnica.",
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-08-06",
+      "updates": [
+        {
+          "date": "2026-08-06",
+          "hoy": "El Gobierno anunció la instalación del primer frigorífico en el departamento de San Pedro, con una inversión proyectada de USD 40 millones y la generación de 150 empleos directos en su primera etapa.",
+          "fuentes": [
+            {
+              "titular": "Gobierno anuncia inversión de USD 40 millones para la instalación del primer frigorífico de San Pedro - Ñanduti",
+              "medio": "Ñanduti",
+              "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNHpaTmRBLWctMkxhY0hPajkyQTVsMjF0bi0wOVNrSGlUOFY1ME12aVNFTzhzVXlUWFJCSHBVeDBkdHNxa3RvTnQ2QkhPM3U3d3RTaV9vN0lSckpvRF9qak9MZkNHVjlHd19HLWx3RnZ1bHYyQnFDZUdPZ0JQU25uaEZreXBzeTY2TXhvdVNqWlhCWGo1N2ZLaTdSVlAtdXBESzgtNHNQNUhrUGpMdkw4STI1QzdLN1pEVm5VZFBBVV9Mdw?oc=5"
+            },
+            {
+              "titular": "Gobierno anuncia instalación de frigorífico en San Pedro con inversión proyectada de USD 40 millones",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/economia/gobierno-anuncia-instalacion-frigorifico-san-pedro-inversion-proyectada-usd-40-millones-n110089"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2026/08/6a7398098bcb1.jpeg"
+        }
+      ]
+    },
+    "ciberseguridad-bancos": {
+      "titulo": "Convención analiza la prevención de ciberdelitos en la banca",
+      "categoria": "Regulación",
+      "contexto": "El sistema financiero paraguayo enfrenta crecientes riesgos de ciberdelitos en un contexto de digitalización acelerada de los servicios bancarios.",
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-08-06",
+      "updates": [
+        {
+          "date": "2026-08-06",
+          "hoy": "Una convención sectorial abordó estrategias de prevención de ciberdelitos aplicables a los bancos del país.",
+          "fuentes": [
+            {
+              "titular": "Convención aborda prevención de ciberdelitos en bancos paraguayos - latribuna.com.py",
+              "medio": "latribuna.com.py",
+              "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeHpsUmFsVm0tb1piUGlmQ3Y0Wk85bUZIRzR5bVY5ZXpkcHZ0cFhsWi1CV1BHeGhaUzlyZnhUcHZFRGFfVF8zMlQyejVIdkxZNmhKQjg2MzBCQ3lwNUI2cDJHd05VZmRkU2sxOEhyZ2pDUm1LT1ZlakFHS1loTkduOUxacnRwYm5VZkZKdUJQLUxCZWlNTXVpaExIODVFTmFGM2VRbDBtOTM2dEFua2pOZWRyN3QtaUdJWGZaeVNVc3cxUQ?oc=5"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/4JHMCMKBTRGURHMETG3WZJ2MIQ.jpg?smart=true&auth=0489f98579787e97c7358c3675ff450dbe533169b1b7ec5b6a961949692ccc80&width=1200&height=630"
+        }
+      ]
+    },
+    "guarani-estadio-nuevo": {
+      "titulo": "Guaraní avanza con la construcción de su nuevo estadio",
+      "categoria": "Deportes",
+      "contexto": "Los clubes grandes del fútbol paraguayo vienen modernizando su infraestructura deportiva mediante la construcción de nuevos estadios con estándares internacionales.",
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-08-06",
+      "updates": [
+        {
+          "date": "2026-08-06",
+          "hoy": "El club Guaraní presentó los avances de las obras de su nuevo estadio.",
+          "fuentes": [
+            {
+              "titular": "Guaraní presenta los avances en las obras de su nuevo estadio - VS Sports",
+              "medio": "VS Sports",
+              "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZkhxRmprZzdGaW81aXM0ZlMwXzJ1NlFiUXBEaEhhWG9HeUgwLTlSbFVNZ1lSQTlwOFpxMDR5RVRlVGthTnlXbzBaelRSUF9COFlhQ2NhTEFrX0IwdlZxbWRrWTczckJObEFpY0o1MnN0eDNSLTVwUnpYU0cwM2hoMU9WTTM5N0FTWl8xTVBvdkR4NkZudzBsSlJfdHBOcnRtQnBMMmpNOGJtYzg?oc=5"
+            }
+          ],
+          "imagen": "https://versuspy2.fra1.cdn.digitaloceanspaces.com/versus/wp-content/uploads/2026/08/05165324/FotoJet-47-1024x597.jpg"
+        }
+      ]
+    },
+    "maurico-seleccion-py": {
+      "titulo": "En Brasil lamentan que Maurício haya elegido jugar por Paraguay",
+      "categoria": "Deportes",
+      "contexto": "La selección paraguaya de fútbol viene sumando jugadores de doble nacionalidad tras su destacado desempeño en el Mundial 2026.",
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-08-06",
+      "updates": [
+        {
+          "date": "2026-08-06",
+          "hoy": "En Brasil expresaron su pesar porque el futbolista Maurício optó por representar a Paraguay en lugar de a su país de origen.",
+          "fuentes": [
+            {
+              "titular": "En Brasil se lamentan que Maurício haya elegido jugar por Paraguay: \"Es una pena...\" - VS Sports",
+              "medio": "VS Sports",
+              "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbDNQWldfVlBsZVlHN3dWRE9nb0dIZWxYWkZIelJRb1ZNamVKZmNiMk0yZWZPQThET0drYXMxRFBqTHZLU240ZGRYdWctdExkVzAtNzlFRXZ5azB4ZXI0MFBWQXByWGIySWRMVGN5OWFJQUxrQWhUV0ViYXU4aFFlampRQ3AtRkptcGVoUFNyU0p1cXN5TTR0Tlp1ajlRaHlBdG5jWmkwaGY1d1FNMmRZZDVtSjdBSGNXQlNvQ3BCZVd5UQ?oc=5"
+            }
+          ],
+          "imagen": "https://versuspy2.fra1.cdn.digitaloceanspaces.com/versus/wp-content/uploads/2026/07/03072326/AX26CD7EEJFIVNMTCNUTVW7M2M-1024x572.jpg"
+        }
+      ]
+    },
+    "inseguridad-rural-ganaderos": {
+      "titulo": "Comando armado asalta a un ganadero en Hohenau",
+      "categoria": "Otros",
+      "contexto": "La inseguridad rural es una preocupación creciente para el sector agropecuario paraguayo, con episodios de asaltos armados a productores en distintas zonas del país.",
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-08-06",
+      "updates": [
+        {
+          "date": "2026-08-06",
+          "hoy": "Un grupo de seis delincuentes armados interceptó y asaltó a un empresario ganadero y a su empleado en Hohenau, robándoles dinero en efectivo y una camioneta.",
+          "fuentes": [
+            {
+              "titular": "Comando armado asalta a un ganadero en Hohenau",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/sucesos/policiales/2026/08/06/comando-armado-asalta-a-un-ganadero-en-hohenau/"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/TU42XELE3JCCBNNQGMFRPJP2MU.jpg?auth=e2e9bdacabefaeddc64967355bb43f3578ec824ab5f4c71b0ae21767edb7ec22&smart=true&width=1200&height=800"
+        }
+      ]
+    },
+    "compra-pozo-riesgos": {
+      "titulo": "Qué revisar antes de comprar una propiedad en pozo en Paraguay",
+      "categoria": "Inmobiliario",
+      "contexto": "El auge inmobiliario paraguayo impulsó la modalidad de compra 'en pozo' (sobre planos), que ofrece precios atractivos y facilidades de financiamiento pero conlleva riesgos jurídicos, financieros y constructivos para el comprador.",
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-08-06",
+      "updates": [
+        {
+          "date": "2026-08-06",
+          "hoy": "Una guía especializada detalla diez controles clave que conviene realizar antes de pagar por una propiedad en pozo, incluyendo la revisión del terreno, los permisos y el contrato.",
+          "fuentes": [
+            {
+              "titular": "Comprar en Pozo en Paraguay: 10 Controles que Conviene Realizar Antes de Pagar",
+              "medio": "El Inmobiliario",
+              "url": "https://www.elinmobiliario.com.py/post/comprar-en-pozo-en-paraguay-10-controles-que-conviene-realizar-antes-de-pagar"
+            }
+          ],
+          "imagen": "https://static.wixstatic.com/media/66d91e_5bcf15ac70ed46b5b17a163af4dab99d~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png"
+        }
+      ]
+    },
+    "hambre-cero-continuidad": {
+      "titulo": "Peña ratifica el esquema actual de gestión de Hambre Cero",
+      "categoria": "Política",
+      "contexto": "Hambre Cero es un programa social insignia del Gobierno de Peña orientado a la asistencia alimentaria escolar, cuyo esquema de administración ha generado debate público.",
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-08-06",
+      "updates": [
+        {
+          "date": "2026-08-06",
+          "hoy": "El presidente Peña descartó modificar el modelo de gestión del programa y aseguró que el esquema vigente debe consolidarse como una política permanente del Estado.",
+          "fuentes": [
+            {
+              "titular": "Mismo negocio: Peña ratifica que Hambre Cero seguirá con el esquema actual de administración",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/politica/mismo-negocio-pena-ratifica-hambre-cero-seguira-esquema-actual-administracion-n110096"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2026/07/6a44d42c5f492.jpeg"
         }
       ]
     }
