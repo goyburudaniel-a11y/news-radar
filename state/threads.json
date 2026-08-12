@@ -47,9 +47,9 @@
     "puente-bioceanica": {
       "titulo": "Avanza el asfaltado del Corredor Bioceánico en el Chaco",
       "categoria": "Inmobiliario",
-      "contexto": "El Corredor Bioceánico conecta Paraguay con Brasil y Chile, con obras clave lideradas por el MOPC, de fuerte impacto en el desarrollo del Chaco.",
+      "contexto": "El Corredor Bioceánico conecta Paraguay con Brasil y Chile, con obras clave lideradas por el MOPC, de fuerte impacto en el desarrollo del Chaco y la conexión con Argentina.",
       "first_seen": "2026-07-14",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-08-12",
       "updates": [
         {
           "date": "2026-07-14",
@@ -214,6 +214,28 @@
             }
           ],
           "imagen": "https://dataportuaria.com/es/Internacional/logistica/asfaltado-del-corredor-bioceanico-avanza-en-paraguay-entre-c/opengraph-image?507fe943861a77ba"
+        },
+        {
+          "date": "2026-08-12",
+          "hoy": "El Lote 4 de la Ruta PY15, de 52 km, ya recibe la primera capa de concreto asfáltico con un avance del 35,56%, acercando la conexión hacia Pozo Hondo, en la frontera con Argentina.",
+          "fuentes": [
+            {
+              "titular": "corredor bioceanico paraguay asfaltado - PortalPortuario",
+              "medio": "PortalPortuario",
+              "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbDg2enRsRjFkQ2ZDSGRqWTMwUUN1MDg3bHo0eElVa04zZ0FsOHBiU25IUWdUVzF4ZU1VZFFWbWliLTNFRUh4QkkxcTU1V0RvWDNZOWdiR3dZTDhVX1hQYVY2NTZucS1tbjJZamhZaG5CWDR5Q2NqbUFnbWlGN2J4MkRyaEJkMGVZRnZUZHh1S2k3YzlkWlJJdGJRQ3JCYkdUWG5ZazlGR2dUWHgyenNSNWRBcTBwZ2JoMy1YLVBWbk1JMEpaYllFYjJKRExjNnhQVFA2QV9ZUHpGbGJpeWc?oc=5"
+            },
+            {
+              "titular": "Asphalting of the Bioceanic Corridor Advances in Paraguay Between Cruce Don Silvio and Pozo Hondo - Data Portuaria",
+              "medio": "Data Portuaria",
+              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUmhPcGRjNlBhNWpuWjEyWE1MRWE4VEVMQ045YmdNbERTUnBUaVpmSlQ5NHdEOVVqN1o0elJ3bGdPXzAyTTExSlU2dFlpdHIzQnYwcWFTZDU3b3R5UmVWaVJCdUp1RUYzM1JidmNzVEZ0MmpXRmU1SjNhcWJpTWFPamRLa2ctbHBRc0psa0d3NVRHSXRtbFM0S2RRcjJpMm5zSnNnMWZvM2F1Y0F2amhYS1ZIR1k3UzhB?oc=5"
+            },
+            {
+              "titular": "La Bioceánica pisa el acelerador: el último tramo hacia Argentina ya empieza a recibir asfalto",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/economia/la-bioceanica-pisa-acelerador-ultimo-tramo-argentina-ya-empieza-recibir-asfalto-n110382"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2026/08/6a7b8bd492e0d.webp"
         }
       ]
     },
@@ -313,11 +335,11 @@
       ]
     },
     "economia-py-indicadores": {
-      "titulo": "Paraguay refuerza su narrativa de estabilidad económica",
+      "titulo": "La economía paraguaya confirma un semestre de fuerte expansión",
       "categoria": "Economía",
       "contexto": "Paraguay atraviesa un ciclo de fuerte crecimiento económico, con superávit comercial sostenido y buena calificación crediticia, lo que despierta interés diplomático y de inversores internacionales.",
       "first_seen": "2026-07-14",
-      "last_seen": "2026-08-10",
+      "last_seen": "2026-08-12",
       "updates": [
         {
           "date": "2026-07-14",
@@ -833,6 +855,23 @@
             }
           ],
           "imagen": "https://eltrueno.com.py/wp-content/uploads/2026/02/Palacio-de-Gobierno-fachada-bandera.jpg"
+        },
+        {
+          "date": "2026-08-12",
+          "hoy": "El INE informó que la actividad económica creció 5,6% en junio, acumulando una fuerte expansión en el primer semestre impulsada por la construcción, el comercio y los servicios.",
+          "fuentes": [
+            {
+              "titular": "Actividad económica de Paraguay crece 5,6% en junio y acumula expansión en el primer semestre. - Todo El Campo",
+              "medio": "Todo El Campo",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GRTBReGxhSGI5NEZtYktpTmZROTVCb1NzdW5hSWctVkh1ZDR2NFlyR2g5MVVaMEg2SXJkV1U4LURRNU12SkxYeDZIU0J5UnBwVlFN?oc=5"
+            },
+            {
+              "titular": "Actividad económica: ¿Cuánto creció en el primer semestre y que sectores impulsaron este repunte? - abc.com.py",
+              "medio": "abc.com.py",
+              "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZUEzeUViS2tfWmxaM0YycjRHenNvUXJkek5wdFFuWFhNRURUOVV2TUpNMk9MTzRRNDAxU05wTUVrX1dpdVBYNW9hWnI1U1lJdWt0Q0cxNmgyeEhXV3VoQkxaaGJVUHBQS0xJWmJyUm9DVGVzZkZOQ0lURlFwQ2FiRDl1ZUV1cDFyOElsVHB4RTcwOTZvdHpJekVRdGptY2hMb3FLb2I4ZkQtQmhDaC1LeU5IZmdNTmFWTWVSWUs3SzUtei1XbE1Bcng0MXJYazYzUVJiStIB6AFBVV95cUxQbHQ2OUxOZnJaREJFRXUzeVkzeFRoUXFjTmF0eXl1WlpLUmZQaTZ5YVFXQk1FcEVqdk5JNFh5OFZkS3RfRzFYYllPNDYyTlNQdnB5dzhEODNVTVNuaHhiQWF1dVFZVUlXenRmLV95RGQ5V3I2UjAwOVhtckswZlVaRi1zZk8tLTk0NjZhNlVRUXBVUlRvekV4YTY0MlB5MUtDNEZWbzZiUFRhOUV3cDBpd21qa29hUWgyM0E0SkVQTG5mWmVxSmJONVJRdExxcEJnYmxlN3BOenk1YVZyNzh0NnJteUhRWWp2?oc=5"
+            }
+          ],
+          "imagen": "https://www.abc.com.py/resizer/v2/ZCM33Q2Z2FAPBHX3J7LG5Y7YVU.jpg?auth=362ae29634c4694f53959057dde68405f653c19e2a33dc49fb07ea323fc189dc&width=770&smart=true"
         }
       ]
     },
@@ -1307,11 +1346,11 @@
       ]
     },
     "espectro-5g-py": {
-      "titulo": "Tigo y Personal se adjudican espectro 5G",
+      "titulo": "Conatel adjudica la segunda licitación de espectro 5G",
       "categoria": "Regulación",
       "contexto": "Conatel viene regulando el despliegue de infraestructura de telecomunicaciones en el país, exigiendo a las operadoras cronogramas de instalación y actualizando sus marcos técnicos.",
       "first_seen": "2026-07-14",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-08-12",
       "updates": [
         {
           "date": "2026-07-14",
@@ -1398,6 +1437,18 @@
             }
           ],
           "imagen": "https://media.datacenterdynamics.com/media/images/Paraguay_Skr4F73.e385a0a2.fill-1200x630.jpg"
+        },
+        {
+          "date": "2026-08-12",
+          "hoy": "Conatel adjudicó la segunda licitación de espectro 5G, definiendo los plazos en que las nuevas licenciatarias deberán ofrecer el servicio.",
+          "fuentes": [
+            {
+              "titular": "Conatel adjudicó la segunda licitación para 5G: ¿Cuándo deberán ofrecer el servicio las dos nuevas licenciatarias? - abc.com.py",
+              "medio": "abc.com.py",
+              "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZUt4ZTNyT2ZVTm1qVS1WMzJldHluUFJqRjk2OGo3eGxLM1owRkFKTWlENVBzNTgzbERRaHM4blZ5NUQxYjhtdTJiWUY2ZGhkMzBCb1ZmQ19yeHRSR2dvUF80c1k5a0YxN2VwLTgwY3k1dF9PV2dXcHBPOUxKNWNIcjRDM25QS2pZcUV2cWhmSnV3UXZYbjN6aXM0VU1IeWFFUVlYekRRajJFOXdqRHlGZjNYLUUwOWpxVUVYU3ozV1ZIQ3pGWUVlMzJTaTBwSWRjMFduUUxFcVlTS3g1Rl9uZWszZTlkN0tDajlr0gH_AUFVX3lxTE0xeGtrb09XaXlRZGpVMjU0SWJUQjczMDdnZVlwSXBlUXpheDVwRjdDRGNnV2c4Mnp1MldIMXZhNk1HUjVCOC0tSFAxQ1NIXzJBa2QxVFNRaGJ5V3pPdVNBZEVMVGJVRUFud2NDSy1OR1pJWlctc2RkMWtvRkszLVNQLXFHNzVXdzZSa2FxR2JWSzRHUmFsUjllRlY5dzNYdWpGVGg0U1FtSFV1RmdfbTNBVDBLQlRRYm1wVGtlbmZnOVdKcWVCb3h0SXdHSHVnTkdEUEM0dTJlS3UzcmZ6ZDhzX0JWZU1lR2EtNmF1aFQtN1p0NDc1X1lBNFFCSk5Baw?oc=5"
+            }
+          ],
+          "imagen": "https://www.abc.com.py/resizer/v2/YSOHRFBINNBY7LZOXAOLKRMQHM.jpg?auth=9250395813e7b4110f0071e38aefaaa84dbdbddfceba3280ecf07aa9c563c62b&width=770&smart=true"
         }
       ]
     },
@@ -1622,11 +1673,11 @@
       ]
     },
     "peaje-hidrovia-cappro": {
-      "titulo": "La hidrovía impulsa nueva infraestructura y enfrenta presión por peajes",
+      "titulo": "La hidrovía enfrenta incertidumbre por licitación y avanza con draga japonesa",
       "categoria": "Agro",
       "contexto": "La hidrovía Paraguay-Paraná es la principal vía de exportación de granos del país; cualquier limitación o mejora en su navegabilidad afecta directamente la competitividad del agronegocio paraguayo.",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-08-08",
+      "last_seen": "2026-08-12",
       "updates": [
         {
           "date": "2026-07-15",
@@ -1721,6 +1772,33 @@
             }
           ],
           "imagen": "https://statics.elnacional.com.py/2025/01/e0aabfbc957602ae7a26d27bc0733417.webp"
+        },
+        {
+          "date": "2026-08-12",
+          "hoy": "El Gobierno avanza en la puesta en marcha de una draga japonesa para reforzar la navegabilidad de la hidrovía y Peña se reunió con empresarios y armadores del sector, mientras trascendió que la licitación podría postergarse hasta 2028.",
+          "fuentes": [
+            {
+              "titular": "La hidrovía del río Paraguay podría postergar su licitación hasta 2028 y abre una nueva incógnita para la logística regional - Comex Online",
+              "medio": "Comex Online",
+              "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNcGJJUVZtWEwycWItalpYQ09BT1IwcUZ6c0JaeFgtbUVjZkRKcjdmdjdWempnMm5KVUtGQ3plR3JqblBXbS1xRXZNcHlnQkltUlA4QWxtTlVESHJkUThJUW9VUXE3LVZwbTFRRFA2WE8talZocG84OWQ1RlVJbDdQZl9jQjljTU5idDQxcmdiS3VxUjRyZExZdTl6azJnR3ZlSUY3WkpLTHdyaEtVSEVNVzBSSEFpZnBKcFUwNTFpcUlKSFBEdmkxNVFJdE5zSUFkLUIyMTRPanJ3Q1NwR3NJbENNN0NFMkRoYzFIendUMlRtZk9JVi1UNVYwRHR0YzcwaFRpVDZn?oc=5"
+            },
+            {
+              "titular": "Gobierno afina detalles para la puesta en marcha de la draga japonesa - latribuna.com.py",
+              "medio": "latribuna.com.py",
+              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNkNpeFRXbDJMdmZ1QkIzRFMzd0cyYjY3RjJSaUVXaXlLdXFrOWxCNzQzWE1LWm1HUnowd240SE14WXZNSmoyTjlkZk5JdHN0dmJla0JvSnNXdTR1c1dQN00xbXI1Q0pQMDBTYUtUaGVXSW9aY3dMejNla0dobnVIT25oTDUzdkxSNnZrb1hZeHFxdDlkZFdKakxEdk9XVVRpRkxXR053bTBFVU16MFlyYVNOUURnbVFMbXBF?oc=5"
+            },
+            {
+              "titular": "Peña analiza con empresarios y armadores el fortalecimiento de la hidrovía Paraguay-Paraná - adndigital.com.py",
+              "medio": "adndigital.com.py",
+              "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYWxpLVRlQUpkWkl6VzJac01mZlMtcnNHa3kxR1hqYW5sdWIxYnAxcWxXTlhTQk94QXBTOWM1MXR0NmRRb19JcmRmUVVJaW5CMDBfQVhyWkp0RE96RlotTEQ3eUU3VHFkclJVa04ybmVOUDRRcEx1VEJtQjVKWnZuQmVJSkR0NEZ3Q0JtcS0tajZPMEdTSEphYzdiU29lSV9lUjJZdF9TNnN0SGRWWkhZNkJJeWxqem8zQUpXSnNB?oc=5"
+            },
+            {
+              "titular": "Peña refuerza la hidrovía con la súper draga japonesa ante la indefinición de Lula y Milei - La Política Online",
+              "medio": "La Política Online",
+              "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVjRFbEJobmNOVDN5TzdfVVR0Q1NNNXFjdUJPSG8ta1RyRXhGb3VGN3NjTUtjaDk2TW9COU9nZmI4MHNOVEpOV05GSFpLYTlKczh2bVloaVh3OGtlZlVJaEQ3TDdrVnlWZkhSN3lSN1pTZDR2cklteWVJbVBERW9xbVFvMHN6UFF4VFc1d3BhSHhRRGdfbVRvem5sN29tMmt5aDJodjZ5NUZvc1d3a3pyOXFKVVRPMzFJcDlZdVlVVmpub3c3UWRGTUpWQlpfVHRoQXlzblFnQ19BQmZBSWc?oc=5"
+            }
+          ],
+          "imagen": "https://comexonline.com.ar/data/img_cont/img_imagenes/img_gr/16964.png"
         }
       ]
     },
@@ -1870,11 +1948,11 @@
       ]
     },
     "dnit-gestion": {
-      "titulo": "DNIT endurece el control sobre criptoactivos",
+      "titulo": "La DNIT amplía su control sobre el juego de azar",
       "categoria": "Regulación",
       "contexto": "La Dirección Nacional de Ingresos Tributarios (DNIT) viene modernizando sus sistemas de fiscalización y recaudación, en medio de casos de inseguridad vinculados a sus depósitos.",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-08-12",
       "updates": [
         {
           "date": "2026-07-15",
@@ -1945,6 +2023,18 @@
             }
           ],
           "imagen": "https://lexlatin.com/sites/default/files/2026-07/foto-de-art-rachen-en-unsplash.jpg"
+        },
+        {
+          "date": "2026-08-12",
+          "hoy": "La DNIT asumirá mayor responsabilidad en el control regulatorio del juego de azar en Paraguay.",
+          "fuentes": [
+            {
+              "titular": "La DNIT asumirá mayor responsabilidad en el control del juego de azar en Paraguay - sbcnoticias.com",
+              "medio": "sbcnoticias.com",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3czF2dzhVNklYNUZZZE5XeS1zZzBnSGJETGNEUUFsNGRhZUdZMkNvSm40aE1NN2d1M3VjZWdCcHctRHZvZ3RERFhPWDZ0OXVrUWZkSFphN0RrYWFwenMyczdZbURobDIwQ1ZTS1BhczVUS0tSY3BHcnZLTC1NQdIBgwFBVV95cUxOTWVKR0NSbmp4SjVaU1FfLUdITzJkV3NyV19lQ0NpYWZVeHhwNHFaZVVLdjRxdmdySWJkd2s2UlRod1dCRktoMi02dm9zNTBEcGItR3FDWDdCN194VGdFS2dZcXA0bXR0ZWYxUGpNSWVma2JvTURmbExBajVESVM1eHZ0RQ?oc=5"
+            }
+          ],
+          "imagen": ""
         }
       ]
     },
@@ -2660,11 +2750,11 @@
       ]
     },
     "camilo-perez-asuncion": {
-      "titulo": "Piden reactivar la Ley de Capitalidad mientras se define la candidatura por Asunción",
+      "titulo": "Camilo busca inversores argentinos para sostener el boom inmobiliario en Asunción",
       "categoria": "Inmobiliario",
       "contexto": "De cara a la gestión municipal, distintas figuras y especialistas presentan propuestas de desarrollo urbano para la capital, en momentos de fuerte actividad inmobiliaria en la ciudad.",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-08-08",
+      "last_seen": "2026-08-12",
       "updates": [
         {
           "date": "2026-07-15",
@@ -2754,6 +2844,18 @@
             }
           ],
           "imagen": "https://statics.elnacional.com.py/2025/07/68685e4fe3284.jpg"
+        },
+        {
+          "date": "2026-08-12",
+          "hoy": "El precandidato/dirigente Camilo se acercó a empresarios argentinos para atraer inversión inmobiliaria y sostener el boom de construcción en Asunción.",
+          "fuentes": [
+            {
+              "titular": "Camilo se acerca a los empresarios argentinos para mantener el boom inmobiliario en Asunción - La Política Online",
+              "medio": "La Política Online",
+              "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRVBmZ3Ewd1pWRWtUckllMWE0SW5BeHoxb0dzalE2OTRwZmN2d2J4M0pHdjIwZ2F5bGlGb0lSWS01UnBxMjNQNjFmbGpjamJoemJFY255eUowVFFGaE9CSlVwM1Z2cWY0Q21PamQ0VXhxX3pqTU90bnBvenF2bHRaY1JTdW52RkNiSVk3c0lZOWRSWjRxS1JUMzBZbjFwbng4MkM4QlBBcHdhTUY2X1V6aGN2MVpVUFA3ZnVnOXhGMWZNOHhTSERMcV9ZMzd3SmZ3?oc=5"
+            }
+          ],
+          "imagen": "https://www.lapoliticaonline.com/files/image/295/295859/6a7b87d965204_1200_630!.jpg?s=0fc819ce035dc7d91d095d21c9f075fe&d=1786417200"
         }
       ]
     },
@@ -3140,11 +3242,11 @@
       ]
     },
     "maquila-records-py": {
-      "titulo": "La maquila sigue generando empleo e inversión",
+      "titulo": "La maquila proyecta otro año de fuerte crecimiento exportador",
       "categoria": "Economía",
       "contexto": "El régimen de maquila permite a empresas instaladas en Paraguay exportar con beneficios fiscales, y viene creciendo sostenidamente como generador de empleo y divisas.",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-08-01",
+      "last_seen": "2026-08-12",
       "updates": [
         {
           "date": "2026-07-15",
@@ -3275,6 +3377,23 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/ESCBVZPCRRCIZPI7LEKV3SM6VI.jpg?smart=true&auth=5ced1198c75ec69a01ba1d03ed00bef6169f7d004728a5595aa2391a072c7099&width=1200&height=630"
+        },
+        {
+          "date": "2026-08-12",
+          "hoy": "La Expo Maquila y Plaza Mipymes buscarán generar negocios por USD 1.000 millones, mientras el sector proyecta crecer hasta 30% y superar los USD 1.700 millones en exportaciones este año.",
+          "fuentes": [
+            {
+              "titular": "Expo Maquila y Plaza Mipymes buscarán potenciar negocios por USD 1.000 millones - La Nación",
+              "medio": "La Nación",
+              "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOWJZUUQ3WHR6eWRFTkVTcGVEcktxX3FYUkt2b3dvNDRvNDJwdDE2TExjWEY5T0k2TlBILV9xMTlIMnA5NkUyWW40NXVWa0dLNFFGa1JWUkFLQUdzSG93OWo5LTNZMkVYdnBRU3RZSkFwWEZKSmwzTzh5eWszMGQ0am0zZ2h3aVVnWjJRc0NCYkRNRkJXdkZSc3IzbzJnSEJIWTlYR0Y5Z3BSMS1PUWpPSFdPdWhyX1V4VlhqUjg1aDZ2MWpkVXc?oc=5"
+            },
+            {
+              "titular": "Maquila proyecta crecer hasta 30% y superar los US$ 1.700 millones en exportaciones - 5Días Paraguay",
+              "medio": "5Días Paraguay",
+              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSDRFVHpjRzJqVmNTUU1FTjlKcnFCdkF0YnU0c05oRU0tQkFjN0F2X21VQ2ltNDZTbjZ0Z21Yd1RZVzZQbGhiSkg4bG83OW1RemZvS09aR0xvNVFabWFKaTFId2ppM05NeVV2X0MwdjF0MGxESUVhTHJ3b1BMZWJncWxWdHhlRzlMaHFRcmJERGZIMlRxczAwS1FKWGVjNlhZbXNzbV9XaTA2cWNBdkE?oc=5"
+            }
+          ],
+          "imagen": "https://www.lanacion.com.py/resizer/v2/LSEPZMXMYFHM3P52X5GWH3WYIU.jpeg?auth=20fc8cf0790076b04ebd9eee663bdb503fa4d8ede7ac7855f5af12caee171802&width=1024&height=512&smart=true"
         }
       ]
     },
@@ -3444,11 +3563,11 @@
       ]
     },
     "bonos-soberanos-inversion": {
-      "titulo": "El MEF coloca nuevos Bonos del Tesoro por G. 360.000 millones",
+      "titulo": "Los Bonos del Tesoro impulsan un salto en la Bolsa de Valores",
       "categoria": "Economía",
       "contexto": "Paraguay viene colocando bonos soberanos como parte de su estrategia de financiamiento, aprovechando su buena calificación crediticia y estabilidad macroeconómica.",
       "first_seen": "2026-07-16",
-      "last_seen": "2026-07-31",
+      "last_seen": "2026-08-12",
       "updates": [
         {
           "date": "2026-07-16",
@@ -3507,6 +3626,18 @@
             }
           ],
           "imagen": "https://statics.elnacional.com.py/2026/07/6a6b58843f642.jpg"
+        },
+        {
+          "date": "2026-08-12",
+          "hoy": "El retorno de los Bonos del Tesoro impulsó un alza del 24,7% en las operaciones bursátiles de julio, que alcanzaron G. 6,3 billones.",
+          "fuentes": [
+            {
+              "titular": "Los bonos del Tesoro vuelven a empujar la Bolsa: operaciones trepan 24,7% y alcanzan G. 6,3 billones",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/economia/los-bonos-tesoro-vuelven-empujar-bolsa-operaciones-trepan-247-alcanzan-g-63-billones-n110372"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2026/08/6a7b4f931e9d4.jpg"
         }
       ]
     },
@@ -4626,11 +4757,11 @@
       ]
     },
     "rally-mundial-paraguay": {
-      "titulo": "El Rally del Paraguay bate récord de participantes",
+      "titulo": "El Rally del Paraguay promete una edición histórica",
       "categoria": "Deportes",
       "contexto": "Paraguay es sede de una fecha del Campeonato Mundial de Rally (WRC), un evento que además genera un fuerte impacto turístico y económico en el interior del país.",
       "first_seen": "2026-07-17",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-12",
       "updates": [
         {
           "date": "2026-07-17",
@@ -4747,6 +4878,18 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/4GR6MOI6H5AZ3J5G7LRICUIKAM.JPG?auth=4ade6106516b566e3524d4c53b4a9a7297112b8913763434bdaa795b27919836&smart=true&width=1200&height=800"
+        },
+        {
+          "date": "2026-08-12",
+          "hoy": "Los organizadores prometieron 'el mejor rally de la historia', con actividades adicionales para turistas y familias durante toda la semana en Itapúa.",
+          "fuentes": [
+            {
+              "titular": "Deggeller: “Trataremos de hacer el mejor rally de la historia”",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/deportes/2026/08/12/deggeller-trataremos-de-hacer-el-mejor-rally-de-la-historia/"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/5JVV2KZK75HFTMSX5ICFHRTFU4.jpg?auth=a25002df3b25c60711a60890cbf9721b0a2ce6d4b1240b7fe539c5e4cb547063&smart=true&width=1200&height=800"
         }
       ]
     },
@@ -4808,11 +4951,11 @@
       ]
     },
     "obras-viales-py": {
-      "titulo": "Cavialpa destaca avances en obras viales clave",
+      "titulo": "EBY licita consultoría para la Circunvalación de Encarnación",
       "categoria": "Inmobiliario",
       "contexto": "La infraestructura vial paraguaya requiere inversión sostenida para acompañar el crecimiento urbano y la actividad logística del país.",
       "first_seen": "2026-07-17",
-      "last_seen": "2026-08-06",
+      "last_seen": "2026-08-12",
       "updates": [
         {
           "date": "2026-07-17",
@@ -4854,6 +4997,18 @@
             }
           ],
           "imagen": "https://www.lanacion.com.py/resizer/v2/67FKI5NFPJGK7OAL5MC7YQUTDY.jpeg?auth=4f4dfb23c61218f0ad8224ad1302be3c5ca6ac17e547235ff0a335ccdb57f5b5&width=1024&height=512&smart=true"
+        },
+        {
+          "date": "2026-08-12",
+          "hoy": "La EBY abrió el proceso de contratación de una consultoría para actualizar el proyecto ejecutivo de la Avenida de Circunvalación de Encarnación.",
+          "fuentes": [
+            {
+              "titular": "EBY abre ofertas para consultoría del proyecto de Avenida de Circunvalación de Encarnación",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/economia/eby-abre-ofertas-consultoria-proyecto-avenida-circunvalacion-encarnacion-n110373"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2026/08/6a7b5136d11e2.jpeg"
         }
       ]
     },
@@ -4879,11 +5034,11 @@
       ]
     },
     "terrorismo-politico-eeuu": {
-      "titulo": "Paraguay y EE.UU. sellan su cooperación en energía nuclear civil",
+      "titulo": "Paraguay explorará reservas de uranio tras el acuerdo nuclear con EE.UU.",
       "categoria": "Política",
-      "contexto": "Paraguay reconoce diplomáticamente a Taiwán y no a China, lo que generó tensiones previas, incluyendo denuncias de ciberataques atribuidos a Beijing. En ese marco, Paraguay y EE.UU. venían negociando una alianza estratégica en materia nuclear civil, motivada también por el fuerte crecimiento de la demanda eléctrica del país.",
+      "contexto": "Paraguay reconoce diplomáticamente a Taiwán y no a China, lo que generó tensiones previas. En ese marco, Paraguay y EE.UU. sellaron una alianza estratégica en materia nuclear civil, motivada también por el fuerte crecimiento de la demanda eléctrica del país.",
       "first_seen": "2026-07-17",
-      "last_seen": "2026-08-10",
+      "last_seen": "2026-08-12",
       "updates": [
         {
           "date": "2026-07-17",
@@ -5194,6 +5349,18 @@
             }
           ],
           "imagen": "https://statics.elnacional.com.py/2025/07/6872d69b0c4f5.webp"
+        },
+        {
+          "date": "2026-08-12",
+          "hoy": "Como parte de ese acuerdo, Paraguay anunció que explorará sus reservas de uranio.",
+          "fuentes": [
+            {
+              "titular": "Paraguay explorará reservas de uranio tras acuerdo nuclear con Estados Unidos - Rumbo Minero",
+              "medio": "Rumbo Minero",
+              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNE9ZXzJEUlpDc3YxVzl0bWl5Y1JjclZDYjVva1k5YzN3WEt1dEdvN1A4YzJUVWo2OE1LUjZZU2Z4ZHJvN3ozWk9IUGgtTHdzbG5iREpYLWxTNjhxNVRrbnpUcUZIeDh6ZUFTemoya2lmU1k2MDFVQjkwWmdwb0luNFpGTFZZR3R0RUNPcGVWN3I4ZmtNMlBha0FxU2lYSXJJS2p1QmxvSkpqN2pFSXM5WGYyV1lyeUN6RHNJ?oc=5"
+            }
+          ],
+          "imagen": ""
         }
       ]
     },
@@ -5959,11 +6126,11 @@
       ]
     },
     "cerro-porteño-pretemporada": {
-      "titulo": "Cerro y Olimpia enfocan sus energías en las Copas",
+      "titulo": "Cerro y Olimpia afrontan una semana clave en las Copas internacionales",
       "categoria": "Deportes",
       "contexto": "Cerro Porteño y Olimpia atraviesan el Torneo Clausura 2026 con dudas de rendimiento, mientras se preparan para compromisos internacionales de Copa Libertadores y Sudamericana.",
       "first_seen": "2026-07-17",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-08-12",
       "updates": [
         {
           "date": "2026-07-17",
@@ -6189,6 +6356,43 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/ESRIZ7HJZNAE7OKHW44GZAMIHM.jpg?auth=fcf31a5c221faca66c0640523ac51e7918478ce50cac2f86f5cf8f989ad94831&smart=true&width=1200&height=800"
+        },
+        {
+          "date": "2026-08-12",
+          "hoy": "Cerro Porteño viajó a Río de Janeiro para enfrentar a Vasco da Gama por la Sudamericana y buscará repetir su triunfo ante Palmeiras por la Libertadores, mientras Olimpia (el Decano) también se moviliza para sus compromisos internacionales; en el Clausura solo dos equipos siguen invictos y ya se fijó la fecha del próximo superclásico.",
+          "fuentes": [
+            {
+              "titular": "Solo dos equipos se mantienen invictos en el torneo Clausura 2026 - VS Sports",
+              "medio": "VS Sports",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbTZwRW92Vnd6bWVXeEtjRlZyUjlPTzc2eHl0R1VOMmVDSVd4cEhkbGczalJJUVQ4d1lhWnNQeGZfVGdyTDNpUGhJX2FYQWdSNWU3ZWJvV0NjR2lqQ1UyM3RzV3BLRzE3TlgwLUJpUWxkUDNWLU9oa3NaRmdsdWUwYTI5dGJLQWNWMjFwcXNWeUp2Vlc4V19XaTlwdE40Qmg1OVpfR21VN05BNnNIQU9ybQ?oc=5"
+            },
+            {
+              "titular": "Ya hay fecha para el superclásico: Olimpia habilita canje de entradas para duelo ante Cerro - VS Sports",
+              "medio": "VS Sports",
+              "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbnZCcE1zWVAwRjZoTkxsaE9meXBLRG9mb04waTN5d1E5Z0FFQWVvRmRDNFhTWVNQMWhaV2Nzang3WXdsbEQzVG54aU1WWUNEdlFHVnZyendBdjJoTjU5eXlHZ0h6SEk0SnZrY2NwdUtrZkhQLUlXbUNBQUM4SnE3S2RSVEl5c2NDS2hTTzhqaGFfZEtNbUF5eFViWFF4eGlkYXNhdHczOGpVSGlZRzJZLUxQUHU0alF2R0g0amRNS3JXZVRoeTdLVkxxWkhXS3hINWc?oc=5"
+            },
+            {
+              "titular": "A Abel Ferreira le preocupa un Cerro ultradefensivo: \"Van a jugar cerraditos...\" - VS Sports",
+              "medio": "VS Sports",
+              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd2V2T2pnOE93LU4zdWJOUTB1ZU1raGRrTGlUSmNLMTRaeFEwV0Ryb0FxZFZ0aTNIeGtqQkVYZ1pVdlNfejQ3RzRNM0hWOWZTWDlmR0pvMjB0NmtPVHVha1ROdlAwOVh6WVY4OFI3elpfUk1uY3M2Vzlrc1d4Z0Q4U3FkNHV2Wl90b0VFVVVhNTVsTGMtZHluR1BYeHZEVkdFZ0lqSm5pWC1iX0d1Y1ZPQXB2X29SRU1MemJxbQ?oc=5"
+            },
+            {
+              "titular": "Cerro, con varias novedades en la lista de viajeros a Brasil - VS Sports",
+              "medio": "VS Sports",
+              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeHI0MUJ2OFV2MDhxcTZSb05YWjBhOF9hTjNya2t0RVp2OXlwZHAxbW5WOUFtNEttUzN0M0NHcDhuWmM0bGxrcTQ1S09iNG5LdUpNRWQ3N21Wa09OMThrNTFnSDQ5eVl6ME52VHh6c2RPTUs3RmxfWS0tOVdaSk50aFFWckgtLUhBc0hfeHVBdjJ3VXBqdU4xQ19wNXRGZlB3cGx6SlRUM2w?oc=5"
+            },
+            {
+              "titular": "¡Maletas listas! El Decano viajará esta tarde rumbo a Río de Janeiro",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/deportes/2026/08/12/maletas-listas-el-decano-viajara-esta-tarde-rumbo-a-rio-de-janeiro/"
+            },
+            {
+              "titular": "Cerro Porteño buscará repetir el último triunfo en terreno Verdão",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/deportes/2026/08/12/cerro-porteno-buscara-repetir-el-ultimo-triunfo-en-terreno-verdao/"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/TK5IHHIHDNCP7BSHMR2XS2FM6I.jpg?auth=ac0fd76825d2b1b628296bfc70b624fc7566d707018ea8681320c0aad312b375&smart=true&width=1200&height=800"
         }
       ]
     },
@@ -6262,11 +6466,11 @@
       ]
     },
     "itaipu-yacyreta-ingresos": {
-      "titulo": "El fin de fondos discrecionales de Itaipú presiona a Peña",
+      "titulo": "Itaipú registra un fuerte incremento en su producción de energía",
       "categoria": "Economía",
-      "contexto": "Itaipú y Yacyretá son las grandes binacionales hidroeléctricas de Paraguay, cuyos ingresos representan una fuente clave de recursos para el país.",
+      "contexto": "Itaipú y Yacyretá son las grandes binacionales hidroeléctricas de Paraguay, cuyos ingresos y producción representan una fuente clave de recursos para el país.",
       "first_seen": "2026-07-18",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-08-12",
       "updates": [
         {
           "date": "2026-07-18",
@@ -6332,6 +6536,23 @@
             }
           ],
           "imagen": "https://www.rdn.com.py/i/jpeg/1200/2026/08/dineroitaipuanexoc.jpg"
+        },
+        {
+          "date": "2026-08-12",
+          "hoy": "Itaipú suministró 16.876 GWh de energía a la ANDE en los últimos siete meses, mientras su producción hidroeléctrica creció 8,6% en 2025, alcanzando 72,9 millones de MWh para Brasil y Paraguay.",
+          "fuentes": [
+            {
+              "titular": "Itaipú suministró 16.876 GWh de energía a la Ande en siete meses - Diario Vanguardia",
+              "medio": "Diario Vanguardia",
+              "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbnRwOXpMLU9lN1VhcFNSeEtwV2RoVDlqTlBvVko0Rlh2MXlqaFZCYlMtdXZ6SmFpblRkTnh6XzNUMk54SVN3aEU4SnlIN3h1aWg0NFNnMWVBWTQ3LU9fUjBueG8yVDJsQVZCOUcwR2pOdi1GczRmdXJRLWN5WktKR2RJTWsyMmZEWU5tdDVHOEs3QWVmNlBua0tVMUpRdw?oc=5"
+            },
+            {
+              "titular": "Incremento del 8,6% en producción hidroeléctrica de Itaipú en 2025: 72,9 millones de MWh para Brasil y Paraguay - Noticias Ambientales",
+              "medio": "Noticias Ambientales",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdHRPeHRaQnY1VnpIYzFCS3pPTGdjam1wUjItdEp4ckZJNFlxQXpSaUZ2RUw5VlY4dFFSMTNMdmd4NHc4Z0tZaE5CRkhDN0tPYlEzMl9FMTBPMWI0Q3lMTTJ5UlBoNW02UEpLUHE0b2hQUHhQM09lMS1HS3gyZzh3UlRBdFhJY1ppVUVDbWt1d09od0RRN3pqQ0FNR0dKM2NhVkZDZk9kWlk4UnhWUHZuOHFlaVBMUdIBtgFBVV95cUxNdHRPeHRaQnY1VnpIYzFCS3pPTGdjam1wUjItdEp4ckZJNFlxQXpSaUZ2RUw5VlY4dFFSMTNMdmd4NHc4Z0tZaE5CRkhDN0tPYlEzMl9FMTBPMWI0Q3lMTTJ5UlBoNW02UEpLUHE0b2hQUHhQM09lMS1HS3gyZzh3UlRBdFhJY1ppVUVDbWt1d09od0RRN3pqQ0FNR0dKM2NhVkZDZk9kWlk4UnhWUHZuOHFlaVBMUQ?oc=5"
+            }
+          ],
+          "imagen": "https://storage.googleapis.com/media-cloud-na/2026/08/incremento-del-86-en-produccion-hidroele.jpg.webp"
         }
       ]
     },
@@ -7145,11 +7366,11 @@
       ]
     },
     "fortaleza-guarani-dolar": {
-      "titulo": "El dólar sigue bajo la lupa frente al guaraní",
+      "titulo": "El dólar encuentra un piso frente al guaraní",
       "categoria": "Economía",
       "contexto": "El guaraní viene mostrando fortaleza relativa frente al dólar en un contexto de solidez macroeconómica y superávit comercial sostenido.",
       "first_seen": "2026-07-19",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-08-12",
       "updates": [
         {
           "date": "2026-07-19",
@@ -7393,6 +7614,23 @@
             }
           ],
           "imagen": "https://www.clarin.com/img/2020/03/04/XTskgx7L_1256x620__1.jpg"
+        },
+        {
+          "date": "2026-08-12",
+          "hoy": "La divisa estadounidense mostró una leve recuperación tras encontrar un piso en su cotización local.",
+          "fuentes": [
+            {
+              "titular": "Dólar hoy en Paraguay: precio y cotización de la divisa este miércoles 12 de agosto de 2026 - Clarin.com",
+              "medio": "Clarin.com",
+              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZ1pma1dLRW91aXdDTDJQclh6S2x0REhSbEFmeEhoQjFXcUxiUkZsb0xZdmZVMXRUampyVHMtN25HYnNfWWpCZG5iTUpjSTBWWWxISzNIV25iRHpjSXV1bS15NVRBdkRxa0RWdUxjRHg2NmVPeTFUbVV2Q1Z6U0ljOEVpVmkybHZfYjFzVjJqRmExSnM5Z09UOGhWY0ZpR1JvNDlOdC1SVzNEbTd5TVNZUW5mLXFVSk94T09GTUtZUWZvci1MbEY5cldNRnFRa2RjUHBvTGEwQdIB3AFBVV95cUxNbjRrSHdRNzVWQ0praWxDdFNjdmJvblVvbExINXJPWmZxeHFfcEpDTHpndjRTcnBWSDhZajgwWm9xQ3NQOHBkbXVmZGtvY0t1WDBzRy1jTmVoYkNud0Zjd1FsYnBFR2wxLVRmWGZsVHMwWDJEQjhEWndwZC1mWWZuQ0Y3VU5lTnMxZG9mckNxb0lBTDJMYzFGSVNfOTNfSlZxVFZDX2Z1VEh3YUZTbE9GWkdBQVRyY0gyOS1yYlBUTkhHRGR0ZEs2cVlMN25vdm1tMUZ0V2FvVGpmVlN0?oc=5"
+            },
+            {
+              "titular": "El dólar encuentra un piso y apunta hacia una recuperación moderada - latribuna.com.py",
+              "medio": "latribuna.com.py",
+              "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeko4R3NhcE5UcW0tdmdhSzJDUEtBNTNNQmJLUVAyMU00SDd6bWNteTRNcGdFWGxNNzVmYTREZ2JlOFBIZ3I1OTZna0NVOENQTXBuQW84R291QmJKMGsyWDFkWFR5X0loN0xrNjFLbHk3Qy1hWUUzc0FFV2g4M0FfamkxYUUxcW55bnpYQTFDRklIYk51LThoci1LdVRlUDBSZ0VfazNUT2tmbHN1YUJ6eU1odEZ0Y0ZzczZ1a3BRRURQQ0xh?oc=5"
+            }
+          ],
+          "imagen": "https://www.clarin.com/img/2020/03/04/XTskgx7L_1256x620__1.jpg"
         }
       ]
     },
@@ -7459,11 +7697,11 @@
       ]
     },
     "carne-exportacion-nuevos-mercados": {
-      "titulo": "Las exportaciones de carne combinan señales mixtas de volumen y precio",
+      "titulo": "La carne paraguaya de exportación alcanza un precio récord",
       "categoria": "Agro",
       "contexto": "Paraguay es uno de los principales exportadores de carne bovina de la región, y viene gestionando la apertura y sostenimiento de nuevos mercados de exportación.",
       "first_seen": "2026-07-20",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-12",
       "updates": [
         {
           "date": "2026-07-20",
@@ -7716,6 +7954,18 @@
             }
           ],
           "imagen": "https://statics.elnacional.com.py/2023/02/9461cb9400024f81acac0f0435210927.jpg"
+        },
+        {
+          "date": "2026-08-12",
+          "hoy": "La carne paraguaya de exportación registró un precio récord, reflejando la fortaleza de la demanda internacional del producto.",
+          "fuentes": [
+            {
+              "titular": "Precio récord registró carne paraguaya de exportación - ultimahora.com",
+              "medio": "ultimahora.com",
+              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS0E0cHNxZTAtazVQOUdkLWkyT2ZRaEFhdS1KU1ZSNFl6VnR1eDJkY3BMSXl1OUhVNmdoTVF1a3VCSHRrN0x2MEJUQ25HdnRvZEN3TWoyMEVCMGlXN3NZaGh2STBxNk9ud0JGZUdDWW9Ed1VzTW1ZcGhZOWlNR2Y2MUllUzhZVm_SAZQBQVVfeXFMTTBKYXB6VHd0ckgwWGp4ZUVFTk1BUDNZVGlBbUxGQ20wMEgtUDI1TDJxNE9Yd1BJR2loRll1NklmbGxwVFZmeE9iTVIwb3I0WW9sa3ZLaElMZ0t1S2pyRURrY0taekNIbjZhanpNYWVLbG5MLTdudUh1M1lDWG12bDR1MFhaMVB4S0JhMGJNLWZUcXg0TA?oc=5"
+            }
+          ],
+          "imagen": "https://grupovierci.brightspotcdn.com/dims4/default/951ccce/2147483647/strip/true/crop/777x437+0+182/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2F84%2Fe5%2Fac92908e43099cf5cb7fe57e2cc0%2Fuheco20260812-016a-ph01-14223.jpg"
         }
       ]
     },
@@ -8894,11 +9144,11 @@
       ]
     },
     "caso-rivas-titulo-falso": {
-      "titulo": "Testimonios complican al exsenador Hernán Rivas",
+      "titulo": "El juicio a Rivas expone fallas en el control de títulos académicos",
       "categoria": "Política",
       "contexto": "Se investiga en la Justicia paraguaya un caso de presunto uso de un título académico falso por parte del exsenador Hernán Rivas.",
       "first_seen": "2026-07-21",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-08-12",
       "updates": [
         {
           "date": "2026-07-21",
@@ -8959,6 +9209,18 @@
             }
           ],
           "imagen": "https://statics.elnacional.com.py/2026/04/69e884854b7f5.jpg"
+        },
+        {
+          "date": "2026-08-12",
+          "hoy": "Testimonios y documentos del juicio revelaron una cadena de controles fallidos en universidades, el MEC y la Corte que permitieron la obtención del título cuestionado.",
+          "fuentes": [
+            {
+              "titular": "Juicio a Rivas desnuda la fábrica de títulos sin control",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/politica/juicio-rivas-desnuda-fabrica-titulos-control-n110389"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2026/08/6a7c047bcc397.jpg"
         }
       ]
     },
@@ -9160,11 +9422,11 @@
       ]
     },
     "recaudacion-tributaria-historica": {
-      "titulo": "DNIT triplica registros de extranjeros y ve margen para recaudar más",
+      "titulo": "La DNIT insiste en que hay margen para recaudar más",
       "categoria": "Economía",
       "contexto": "La modernización de la DNIT y la formalización progresiva de la economía paraguaya vienen impulsando un crecimiento sostenido de la recaudación impositiva.",
       "first_seen": "2026-07-22",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-08-12",
       "updates": [
         {
           "date": "2026-07-22",
@@ -9223,6 +9485,18 @@
             }
           ],
           "imagen": "https://masencarnacion.s3.us-west-2.amazonaws.com/uploads/public/6a7/a29/e18/6a7a29e181490886910143.webp"
+        },
+        {
+          "date": "2026-08-12",
+          "hoy": "La DNIT sostuvo que todavía existe margen para incrementar la recaudación tributaria en el país.",
+          "fuentes": [
+            {
+              "titular": "Para DNIT, todavía se puede recaudar más - ultimahora.com",
+              "medio": "ultimahora.com",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xNjkwREFrdGktektZNk5haEhBbGpreTNxVGVaRXZYR1R2amtuUGR4VDd4cmhVU1FVakVhUUFGMGt0LXp5Nm1CeUItdll6R3AtbnB6R1NDRkYxUWFZbUpmaXlZeXFfU2VOZ05CV3NScEFOQ2Vz0gGCAUFVX3lxTE9CenB1TG9uYjE0MkkzMWpDR2lsZkFHVm1YdTgwT0V3VjlLbmNSc0pQWkVLYnVuTFB3c1Y5UUEzOUpLT3lHeGZXN3ZweHZQNnVka2dEWTIzZ3lIVGtBOTV4dWFTVERWNGxuTUhNMmhWOE92RmhDekpEUDdLbmd5QWRnYkE?oc=5"
+            }
+          ],
+          "imagen": "https://grupovierci.brightspotcdn.com/dims4/default/8ea7194/2147483647/strip/true/crop/3009x1693+0+116/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2b%2F8b%2F95858dab46269a89f2563dd14df9%2Foscar-orue.jpg"
         }
       ]
     },
@@ -9317,11 +9591,11 @@
       ]
     },
     "exportacion-soja-record": {
-      "titulo": "El USDA mantiene un escenario favorable para la soja",
+      "titulo": "La soja paraguaya enfrenta señales mixtas de demanda externa",
       "categoria": "Agro",
-      "contexto": "La soja es el principal cultivo de exportación de Paraguay, con estrecha interacción con Argentina en materia de procesamiento y molienda regional.",
+      "contexto": "La soja es el principal cultivo de exportación de Paraguay, con estrecha interacción con Argentina y la Unión Europea en materia comercial.",
       "first_seen": "2026-07-22",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-08-12",
       "updates": [
         {
           "date": "2026-07-22",
@@ -9415,6 +9689,23 @@
             }
           ],
           "imagen": "https://statics.elnacional.com.py/2024/09/59a9ca29e90711869970a7159f20ed0d.jpg"
+        },
+        {
+          "date": "2026-08-12",
+          "hoy": "Se anunció un nuevo balance de oferta y demanda de soja paraguaya, mientras las importaciones de soja de la Unión Europea cayeron 32% en la nueva campaña, lo que podría afectar la demanda externa del grano.",
+          "fuentes": [
+            {
+              "titular": "Soja paraguaya: un nuevo balance medirá producción, consumo, stocks y exportaciones - La Nación",
+              "medio": "La Nación",
+              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQXhidFpIcnFJeWdhTFF6SVdIRkNzbHczY0hzc0VzUVE4SnNvSHc5aF9teHVfVEJaLTlHWHhuaE02czg2MjFqSDhIbGdIaTFSTC1RYjhtZzhnRm9SRWJGSEYtT1UycFBseTUxNGx1UkdVN1VJSzU0UTd0ODV0NXVtMG5LYm1icWJNTnd4MzNHOUVLZzd2NWN0MVdGQWNPeXpJVGlwX1pLNm5mQU4xX2Zqdnl5THcycmFLR2Fld2NURzFqRHgzcDFGTw?oc=5"
+            },
+            {
+              "titular": "Importaciones soja de UE en la campaña 2026/27 caen 32% al 9 de agosto - Yahoo",
+              "medio": "Yahoo",
+              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORGd0VmJmZ25yc3prQUR3X1gtQ253VDNLNjV2UGhIT0o2UEpac1JFdnYtRWtCcWdXZ2VmMXo4V05USURMNzd5aHp2cFpuYTNYMXBoNi12bzQxWEtFXzQwemZfOUEzNlhPX3dqdHJWTTJKRjBxajFJSWlBb2ZBaFBZb3lrT0x6RFpHWnN1RV9oQ0FjZWhGcmFr?oc=5"
+            }
+          ],
+          "imagen": "https://www.lanacion.com.py/resizer/v2/J54CHNZYQ5BIVA7YGYYL4PL6UY.jpg?auth=1433100e2ed00906bed1143433a5ee56deb985ea4c879da6cfd287f3079b096f&width=1024&height=512&smart=true"
         }
       ]
     },
@@ -10138,11 +10429,11 @@
       ]
     },
     "hospital-fuerte-olimpo": {
-      "titulo": "Avanzan obras de infraestructura sanitaria en distintas regiones del país",
+      "titulo": "Peña anuncia nuevo hospital para Ciudad del Este",
       "categoria": "Inmobiliario",
       "contexto": "El MOPC y el Ministerio de Salud vienen ejecutando obras de infraestructura sanitaria en distintas zonas del país, desde el Chaco y el Alto Paraguay hasta el área central, para mejorar el acceso a servicios de salud.",
       "first_seen": "2026-07-23",
-      "last_seen": "2026-07-31",
+      "last_seen": "2026-08-12",
       "updates": [
         {
           "date": "2026-07-23",
@@ -10167,6 +10458,23 @@
             }
           ],
           "imagen": "https://www.ip.gov.py/ip/wp-content/uploads/2026/07/HOefWemWMAAwNZa-scaled-e1785424666254.jpg"
+        },
+        {
+          "date": "2026-08-12",
+          "hoy": "Peña anunció la construcción del nuevo Hospital General de Ciudad del Este, que contará con 56 unidades de terapia intensiva.",
+          "fuentes": [
+            {
+              "titular": "Santiago Peña anuncia la construcción del nuevo Hospital General de Ciudad del Este - Diario HOY – En Paraguay y el Mundo",
+              "medio": "Diario HOY – En Paraguay y el Mundo",
+              "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVTA4UDNxWTZjMmRVY1pxOF9EMFpkVEU0Y3RJSzI1TThTYzlBSTFmWF85NFZRNVpBa2N3MS02SkF5c0xzbTRNUDQ2VkFZZllrSzNRUnkxZTdQNTJJbWt0RWJmUFBqeG9vWWtNTmVlOXFEaERUWVlvT1pYa01NMk9iVHJTUlBjOS12RFVkNXlqTEJCMzN4Q1N2NmFTQS1LYlRUUGk0T0pHNndzcE1lX251QXlBXzlrdVR0aWh6VU05X3pkTXIxVVRr?oc=5"
+            },
+            {
+              "titular": "Peña destaca que Hospital General del Este contará con 56 unidades de terapia intensiva - La Nación",
+              "medio": "La Nación",
+              "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORkRUVnNra3B1blhPVDItM1NzS2NoNHdwcVQwSDdBS082QnFTaEJFS3FvZTkyVHJjeGdvUTBJZHBuVHEzWDRxdG00VHpvMW55amRheXZKNjhnTzRmNUpyTHAxOVdGQWQtazJTZ1BLeGZhckhQeF9Cd2lWbmhqZV93cFVMVVI5MEdJRHUxX3RiVFduSzFlMU5Zb0xneDJGSDNWYU1mTXRBQkQ0bENZa21HTHBXTWVhQk0yNFhhcFpTV2JhbU96bXFRendRUzBxbEo5a0E?oc=5"
+            }
+          ],
+          "imagen": "https://www.lanacion.com.py/resizer/v2/K25VYNOYUBBHPHG34PKBLW3WCE.png?auth=b8359d0d4e1705e943d73b33c0cf7c470ddf439ef197dd6f5458c647d6ec6e50&width=1200&height=630&smart=true"
         }
       ]
     },
@@ -11656,11 +11964,11 @@
       ]
     },
     "che-roga-pora-vivienda": {
-      "titulo": "Che Róga Porã avanza con nuevas licitaciones de vivienda social",
+      "titulo": "Familias acceden a viviendas sociales financiadas por Itaipú",
       "categoria": "Inmobiliario",
       "contexto": "Che Róga Porã es el principal programa de vivienda social del Gobierno de Peña, que combina financiamiento estatal y participación privada para ampliar el acceso a la casa propia en Paraguay.",
       "first_seen": "2026-07-26",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-12",
       "updates": [
         {
           "date": "2026-07-26",
@@ -11695,6 +12003,18 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/3IZXIRGWENE2HFUQZJ6T4F4EHA.jpg?smart=true&auth=afe5a7740b091c638bfda390e688eab419780dbcc3c6b17ed86a61ee3714d07c&width=1200&height=630"
+        },
+        {
+          "date": "2026-08-12",
+          "hoy": "Más de 60 familias accedieron a viviendas sociales financiadas por Itaipú en las localidades de Arroyito y San Ignacio.",
+          "fuentes": [
+            {
+              "titular": "Más de 60 familias acceden a viviendas sociales financiadas por Itaipú en Arroyito y San Ignacio - adndigital.com.py",
+              "medio": "adndigital.com.py",
+              "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONy0teTBIUDlGQzFnNU90ZHNfSVBDY09mQWxtOG5BYVFmVWZvYU55bTFSbzBTbDI3ZF81UmZmWFlEd2FEN2QwX1pvQXlHeDMwN0F6Y2M4elhrME5vV1EwNldtdERnTVB1QzA0ekJzbVY5OHpOeGpER0tuS0hxbXpJcFIzN0lFdFZNWl9hemdtelRIb1J3RG5hNUw5aExLQlYwV1hPazBJSzJ0blktTXF0TUVBWmFRUDhRQVU1Nkk4VkZHX005NVE?oc=5"
+            }
+          ],
+          "imagen": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/08/whatsapp-image-2026-08-11-at-152225.jpeg"
         }
       ]
     },
@@ -11817,11 +12137,11 @@
       ]
     },
     "migracion-extranjera-vivienda": {
-      "titulo": "Paraguay, segundo mejor país de Sudamérica para residir",
+      "titulo": "Se triplican los extranjeros que buscan residencia fiscal en Paraguay",
       "categoria": "Inmobiliario",
       "contexto": "Paraguay atrae un flujo creciente de extranjeros motivados por menores costos, estabilidad macroeconómica y facilidades de residencia, lo que impacta en la demanda inmobiliaria local.",
       "first_seen": "2026-07-28",
-      "last_seen": "2026-08-09",
+      "last_seen": "2026-08-12",
       "updates": [
         {
           "date": "2026-07-28",
@@ -11887,6 +12207,18 @@
             }
           ],
           "imagen": "https://statics.elnacional.com.py/2024/12/1b3a041eacaf63e1bab2cb0e81e06820.jpg"
+        },
+        {
+          "date": "2026-08-12",
+          "hoy": "La cantidad de extranjeros que solicitaron residencia fiscal en Paraguay se triplicó en 2025.",
+          "fuentes": [
+            {
+              "titular": "En 2025 se triplicaron los extranjeros que buscaron residencia fiscal en Paraguay - adndigital.com.py",
+              "medio": "adndigital.com.py",
+              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUG52UG92NVNXR3B2cGdONkNKa0Z5WWYydEpwRDFWcFFfeTNZVkgzZUJmWFYxeDVBVWZDNXZpeU1UeUFlelA4eHRkejdPdGNDbXhfM0Q1enR6bDNsV1h0a2VkdEE1TFVxZjVybDJVQ1IybVVZUjRLSTh3UGREYjNGT2gtM2lpRVlZaF9rQldNZU5najM2MFdWQlJQeGFDcFR3QkthQ1IwZzJyeC1xTVFWbDh3?oc=5"
+            }
+          ],
+          "imagen": "https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/09/whatsapp-image-2025-09-05-at-151653.jpeg"
         }
       ]
     },
@@ -12909,11 +13241,11 @@
       ]
     },
     "narcotrafico-corredor-regional": {
-      "titulo": "Incautan 45 kilos de cocaína en una carnicería de Pedro Juan Caballero",
+      "titulo": "Nuevo hallazgo de cocaína en Pedro Juan Caballero",
       "categoria": "Otros",
       "contexto": "Paraguay es señalado como un corredor relevante del narcotráfico regional, con la zona de frontera con Brasil como foco recurrente de operativos.",
       "first_seen": "2026-07-28",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-08-12",
       "updates": [
         {
           "date": "2026-07-28",
@@ -13045,6 +13377,18 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/EUWUMZTRBBGFPOEW3CVIQQLBHU.jpg?auth=0ac3073ae808642f69f434b0cf91f8c67ab257ccdbf9d8eaef60b24609eeb6f9&smart=true&width=1200&height=800"
+        },
+        {
+          "date": "2026-08-12",
+          "hoy": "La Policía halló 43 panes de cocaína, más de 40 kilos, en una carnicería de Pedro Juan Caballero, con tres personas detenidas.",
+          "fuentes": [
+            {
+              "titular": "Hallan 43 panes de cocaína en una carnicería de Pedro Juan",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/sucesos/policiales/2026/08/12/hallan-43-panes-de-cocaina-en-una-carniceria-de-pedro-juan/"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/2G67CDZWQRC5JNFJPQTQQB2HSI.jpeg?auth=bdb38becccd6cee4ad680ea2db019215f8f6ea958250938ecb055cfcd4068ff3&smart=true&width=1200&height=800"
         }
       ]
     },
@@ -13545,11 +13889,11 @@
       ]
     },
     "mercosur-ue-acuerdo": {
-      "titulo": "La tensión regional pone en riesgo el acuerdo Mercosur-UE",
+      "titulo": "Se concreta el histórico acuerdo Mercosur-Unión Europea",
       "categoria": "Economía",
-      "contexto": "El acuerdo comercial entre la Unión Europea y el Mercosur, bloque del que Paraguay es miembro pleno, se encuentra en fase de implementación tras años de negociación, con potencial impacto en las exportaciones agroindustriales regionales.",
+      "contexto": "El acuerdo comercial entre la Unión Europea y el Mercosur, bloque del que Paraguay es miembro pleno, se encontraba en fase de implementación tras años de negociación, con potencial impacto en las exportaciones agroindustriales regionales.",
       "first_seen": "2026-07-30",
-      "last_seen": "2026-08-01",
+      "last_seen": "2026-08-12",
       "updates": [
         {
           "date": "2026-07-30",
@@ -13591,6 +13935,18 @@
             }
           ],
           "imagen": ""
+        },
+        {
+          "date": "2026-08-12",
+          "hoy": "Tras décadas de intentos fallidos, el acuerdo Mercosur-Unión Europea finalmente se concretó, un hito que podría beneficiar a las exportaciones agroindustriales paraguayas.",
+          "fuentes": [
+            {
+              "titular": "Tras décadas de fracaso, se hizo el acuerdo Mercosur/UE - latribuna.com.py",
+              "medio": "latribuna.com.py",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTVFPUnNJdDBHeDVwR3hIaU9fZUJBYWdybFNfRzliWmhGX2JqR2Z5ajE3UExwTF9LNGdaMFNRZTRXOGtlOGNuTjM3VEkwNDRvZk5oMXRJcTllV3NzVHdtbkpVdm93akxjYmxlTnhCcE1CcEdGVjhSVkV6UFZyWlhBTG5wckFXRTFpdEJhei1pb3AxcnYtU01zREtqeVdNNzVkTGtoUjBSdw?oc=5"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/YEO4TSWL3BHZBPO5C244FZROIA.png?smart=true&auth=b280c587d4b423a610bf012dd2d4e3252432275be6e8bca6280355cb5f4ae5da&width=1200&height=630"
         }
       ]
     },
@@ -14082,11 +14438,11 @@
       ]
     },
     "recoleta-boca-sudamericana": {
-      "titulo": "Recoleta FC visita a Boca por la Sudamericana",
+      "titulo": "Recoleta FC cae ante Boca en octavos de la Sudamericana",
       "categoria": "Deportes",
       "contexto": "Recoleta FC es un modesto club paraguayo que compite en la Copa Sudamericana, alcanzando en esta edición los octavos de final del torneo.",
       "first_seen": "2026-07-31",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-08-12",
       "updates": [
         {
           "date": "2026-07-31",
@@ -14187,6 +14543,23 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/HTUOEHLEGZCILPK6Z2H5TLHGC4.jpg?auth=e55cfd4682be7e069bbc6b5e1a7cb39bec0bc1f7194ba272ee746eac3215c24f&smart=true&width=1200&height=800"
+        },
+        {
+          "date": "2026-08-12",
+          "hoy": "Recoleta FC cayó 1-3 ante Boca Juniors en el partido de ida de los octavos de final, complicando su clasificación.",
+          "fuentes": [
+            {
+              "titular": "Un golpe de entrada no fue suficiente, Recoleta sucumbió en Buenos Aires",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/deportes/2026/08/12/un-golpe-de-entrada-no-fue-suficiente-recoleta-sucumbio-en-buenos-aires/"
+            },
+            {
+              "titular": "Desliz del Canario en Buenos Aires",
+              "medio": "APF",
+              "url": "https://www.apf.org.py/noticias/desliz-del-canario-en-buenos-aires"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/BZUCA3GV4RAVNF7HFHWWWEQVFI.jpg?auth=882d62f7a4ae436eafd6eca26e70c9607abad15ce78e1341e3b8b31132cf6987&smart=true&width=1200&height=800"
         }
       ]
     },
@@ -14391,11 +14764,11 @@
       ]
     },
     "business-week-2026": {
-      "titulo": "Peña abre cumbre que resalta la competitividad de Paraguay",
+      "titulo": "Paraguay Business Week proyecta negocios millonarios en Hernandarias",
       "categoria": "Economía",
       "contexto": "Paraguay organiza periódicamente eventos y misiones comerciales para atraer inversión extranjera, dentro de su estrategia de posicionamiento internacional.",
       "first_seen": "2026-08-01",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-08-12",
       "updates": [
         {
           "date": "2026-08-01",
@@ -14444,6 +14817,18 @@
             }
           ],
           "imagen": "https://www.lanacion.com.py/resizer/v2/WJAC4VKWZBCU7DPJCJ6J73S3XA.jpg?auth=f28e9418239ef22022e9a3c48e1a4d76977f823016ecc3dd790c125a54c6b9ae&width=1024&height=512&smart=true"
+        },
+        {
+          "date": "2026-08-12",
+          "hoy": "El Paraguay Business Week proyecta negocios por USD 1.000 millones en Hernandarias.",
+          "fuentes": [
+            {
+              "titular": "Paraguay Business Week proyecta negocios por USD 1.000 millones en Hernandarias - marketdata.com.py",
+              "medio": "marketdata.com.py",
+              "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRnZIMlBsdWdqUnNnbmhtRzRxeURPSTQ5c1FydjB1ZXNEMFkzdWlseVFVbW1GLXhkbVJiSU01OUJLOGdBR2RjUUpWaExva2JRZUY0LVYzc1NQNDdNblVkajF5MWgzdlFINGxleU9Zd1dMQ3kyVmd4aUxZOVAwaVU0NVdlVlUzSHlWRmJUejA0ZUR1SGJ2dkkyZVc4b3V0d0FKMlBnTExiZ1NYRF9vMU1aQWNRcExPa29qLW9qeVhIYUVYVlBmaXY1ajBfa2pDUQ?oc=5"
+            }
+          ],
+          "imagen": "https://marketdata.com.py/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-11-at-4.18.46-PM.jpeg"
         }
       ]
     },
@@ -14868,11 +15253,11 @@
       ]
     },
     "deficit-fiscal-exministros": {
-      "titulo": "Peña y el MEF insisten en un manejo fiscal responsable",
+      "titulo": "Crece el debate sobre la convergencia fiscal de Paraguay",
       "categoria": "Economía",
       "contexto": "El Gobierno de Peña enfrenta un déficit fiscal creciente y un stock de deuda pública en expansión, lo que motivó la convocatoria a exministros de Hacienda para analizar la situación de las finanzas públicas.",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-08-12",
       "updates": [
         {
           "date": "2026-08-04",
@@ -15012,6 +15397,23 @@
             }
           ],
           "imagen": "https://grupovierci.brightspotcdn.com/dims4/default/de6ab5f/2147483647/strip/true/crop/777x437+0+60/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2Faf%2F4e%2Fb3c89b8542e394d5051d1feb8a64%2Fuheco20260811-011a-ph01-30261.jpg"
+        },
+        {
+          "date": "2026-08-12",
+          "hoy": "Analistas advirtieron que postergar la convergencia fiscal podría afectar la credibilidad internacional del país, mientras un diputado oficialista defendió el manejo fiscal del Gobierno citando el crecimiento económico.",
+          "fuentes": [
+            {
+              "titular": "Postergar la convergencia fiscal: ¿qué implica para la credibilidad y reputación internacional de Paraguay? - marketdata.com.py",
+              "medio": "marketdata.com.py",
+              "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQU2xVZFQzQndCWnVqTktxbk9pUWlKZnBYUlBPb19YOURONEVLSG4xMVUyNG1NT0c2bEt4OU5HNVJVY2xOVTFpVG1lTmVPcXRaWFNGbFVralZHaVpWdDE0MFkxYmhjbzdkTlBsUC1QeXFfQTE4WEd6LUpEOFhVeldkVTR1Wm1iSEJIYm85UlYwVl8teTJmUXhrRUtETFhzZkpaaF9YN3hWNXJDVGV6cGs1U2RsUGIzODAtSFZBQ0sybS1zcnl1OS1PU09GVmVVVlZfY3BTVlJoa3BGd3hZa1gwZDNtOWVSamIxd3FTNFZ3ay0?oc=5"
+            },
+            {
+              "titular": "Diputado defiende el manejo fiscal y destaca crecimiento económico - latribuna.com.py",
+              "medio": "latribuna.com.py",
+              "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaEtiNnFjMXVvT1k3OGtjNzZDdW1BV25haUF3WkNyekI0bTdoWXhyeW9uNXF1THFmQ0V6QVdhbXdiZHE4VGxiY1pkeEk1dkI4c1RJZVVmSlZTcXI3OVhwT2F0ZkY0VXdxNmgwZEhlZVNFWUxvd1ppUWk2RXA1UTNSMHBHY0w0clZodUFiTnlZQ19JMWM2YkFDQ1hRRnVIQm4xa2NRS0hOQWVXR2xLRUFqNW15VHVUT0k?oc=5"
+            }
+          ],
+          "imagen": "https://marketdata.com.py/wp-content/uploads/2026/08/portada_web_MD-01.jpg-1.jpeg"
         }
       ]
     },
@@ -15049,11 +15451,11 @@
       ]
     },
     "turquia-carne-auditoria": {
-      "titulo": "Turquía audita frigoríficos paraguayos para habilitar importación de carne",
+      "titulo": "Turquía sigue evaluando frigoríficos paraguayos para importar carne",
       "categoria": "Agro",
       "contexto": "Paraguay es uno de los principales exportadores de carne bovina de la región y viene gestionando la apertura de nuevos mercados de exportación.",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-12",
       "updates": [
         {
           "date": "2026-08-04",
@@ -15071,6 +15473,18 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/F2HYH2YLRZHXJBHWBY767Z3GTM.jpg?auth=d2339fea2b5cfc6f3bc4ca236f9b44d2f22d2aef3eede7141224bf0a6ebdade0&smart=true&width=1600&height=1066"
+        },
+        {
+          "date": "2026-08-12",
+          "hoy": "Paraguay avanza en su proceso de habilitación para exportar carne al mercado turco.",
+          "fuentes": [
+            {
+              "titular": "Paraguay avanza en su política de exportación de carne a Turquía. - Todo El Campo",
+              "medio": "Todo El Campo",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUMExLbTJwRnJyS0R2bDM0RWM5bERFMHFwZ0dPQUNLS0QtQXhERGRGeGEwd0lfUG5RWTNlNUdHY0J1RFJ1aDFXeU9jbjFZYU95MUxB?oc=5"
+            }
+          ],
+          "imagen": ""
         }
       ]
     },
@@ -15247,11 +15661,11 @@
       ]
     },
     "diputados-sesion-agenda-clave": {
-      "titulo": "Diputados debaten préstamo de USD 75 millones y reforma policial",
+      "titulo": "Diputados vuelve a frenar un crédito clave por falta de quórum",
       "categoria": "Política",
       "contexto": "El Congreso paraguayo debate periódicamente proyectos de ley vinculados a endeudamiento externo, reforma de fuerzas de seguridad y beneficios laborales.",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-12",
       "updates": [
         {
           "date": "2026-08-04",
@@ -15269,6 +15683,23 @@
             }
           ],
           "imagen": "https://statics.elnacional.com.py/2026/06/6a3253941fa1a.jpg"
+        },
+        {
+          "date": "2026-08-12",
+          "hoy": "La Cámara de Diputados destrabó US$ 50 millones para intereses del MOPC pero volvió a frenar el préstamo de US$ 75 millones para conectividad rural por falta de quórum, mientras el diputado Latorre propuso endurecer el reglamento interno frente a los legisladores 'raboneros'.",
+          "fuentes": [
+            {
+              "titular": "Latorre plantea endurecer el reglamento interno ante diputados \"raboneros\"",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/politica/latorre-plantea-endurecer-reglamento-interno-diputados-raboneros-n110395"
+            },
+            {
+              "titular": "Diputados destraba US$ 50 millones para intereses del MOPC, pero vuelve a frenar crédito de US$ 75 millones",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/politica/diputados-destraba-us-50-millones-intereses-mopc-pero-vuelve-frenar-credito-us-75-millones-n110390"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2026/08/6a76e191e1c3b.jpeg"
         }
       ]
     },
@@ -15930,11 +16361,11 @@
       ]
     },
     "inversion-extranjera-sectores": {
-      "titulo": "Paraguay avanza en diversificar sus inversiones extranjeras",
+      "titulo": "El real estate y la industria lideran la atracción de inversión extranjera",
       "categoria": "Economía",
-      "contexto": "Paraguay viene consolidándose como destino de inversión extranjera directa gracias a su estabilidad macroeconómica y régimen fiscal competitivo, con reportes periódicos del BCP sobre el origen y destino de esos capitales.",
+      "contexto": "Paraguay viene consolidándose como destino de inversión extranjera directa gracias a su estabilidad macroeconómica y régimen fiscal competitivo.",
       "first_seen": "2026-08-07",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-08-12",
       "updates": [
         {
           "date": "2026-08-07",
@@ -16018,6 +16449,23 @@
             }
           ],
           "imagen": "https://www.abc.com.py/resizer/v2/MKVIKREEWJHR5MXKULKR7QAQAY.jpg?auth=4af3df68a0bc9ec7df9efc7b7c4a2bb05b6478b1ecafbc7875c31ac99d64acb5&width=770&smart=true"
+        },
+        {
+          "date": "2026-08-12",
+          "hoy": "Casi la mitad de la inversión extranjera que recibe Paraguay se dirige a real estate, telecomunicaciones, comercio y tecnología, mientras la industria manufacturera ya capta uno de cada cuatro dólares de esa inversión.",
+          "fuentes": [
+            {
+              "titular": "Casi la mitad de la inversión que recibe Paraguay va a real estate, telecomunicaciones, comercio y tecnología - InfoNegocios Paraguay",
+              "medio": "InfoNegocios Paraguay",
+              "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWHZTbVJraHljTE5aQUVsZWpnMVZtWjZydHQydE1STHpZTXVOTzNweTNHbDlPRldrcXdrcGU1T2JfMlBVSVVIQUdYalVaalBmRE9jQkRjZ01ranhhX2lCcXpQM184QVdKMXdPQ1BtQnBwbkVhbThKTWhNSDNFbDF5OF9Tbnlwd2RlSFAzZFdPVVY2Vnd3UXphSHlGM3cwVWJldkRybzZnblRHQWV4c1owbFZzNjJEOEZvUTN3ci1ZeUtUcGNqdDJVdnlRa2U2NHltc0s1ckpEb3ozQW5CdEhOaNIB4AFBVV95cUxQWHZTbVJraHljTE5aQUVsZWpnMVZtWjZydHQydE1STHpZTXVOTzNweTNHbDlPRldrcXdrcGU1T2JfMlBVSVVIQUdYalVaalBmRE9jQkRjZ01ranhhX2lCcXpQM184QVdKMXdPQ1BtQnBwbkVhbThKTWhNSDNFbDF5OF9Tbnlwd2RlSFAzZFdPVVY2Vnd3UXphSHlGM3cwVWJldkRybzZnblRHQWV4c1owbFZzNjJEOEZvUTN3ci1ZeUtUcGNqdDJVdnlRa2U2NHltc0s1ckpEb3ozQW5CdEhOaA?oc=5"
+            },
+            {
+              "titular": "Paraguay deja de ser solo productor de materias primas: la industria ya capta uno de cada cuatro dólares de inversión extranjera - El Trueno",
+              "medio": "El Trueno",
+              "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNamM1U3p4RTd1bnBMaDQ5eUNWWkx6bTdXdVVodU1ZUUswMWNMVWRoblFXaVNuLXllUE43cGtlTExZUDZTSFR2R0h5cWhRdWVOb2EwdlRfdFEtX0R1QW1nSUpqbV9BSWlkS2xuLU9xLV9qVFZGUjZqQTNVNFpGSC1IbmR0eHNFWU5pYUkzVl8xOGpKeU4xZUg1UnJfUGo4RHpiN1Vac1MydkdWNEE4Zmx0QmtzSVNZWEZ3OUxTZ0pJQWQ4S1hnTEQ0VkNaZElBalpzX2M5RzdoVmZsbmpWOG5DVWlzMGtERjZqc3Faemw2NTV1bkpuZEE?oc=5"
+            }
+          ],
+          "imagen": "https://eltrueno.com.py/wp-content/uploads/2022/05/industria-obreros-ball-trabajadores-aluminio-fabrica-guarambare.jpeg"
         }
       ]
     },
@@ -16465,11 +16913,11 @@
       ]
     },
     "balance-tres-anos-peña": {
-      "titulo": "Peña defiende su legado a tres años de gobierno",
+      "titulo": "El balance de tres años de gobierno de Peña genera contrastes",
       "categoria": "Política",
-      "contexto": "En agosto de 2026 se cumplen tres años de gobierno de Santiago Peña, un mandato caracterizado por fuerte crecimiento macroeconómico, pero con cuestionamientos persistentes sobre su impacto social.",
+      "contexto": "En agosto de 2026 se cumplen tres años de gobierno de Santiago Peña, un mandato caracterizado por fuerte crecimiento macroeconómico, pero con cuestionamientos persistentes sobre su impacto social e institucional.",
       "first_seen": "2026-08-10",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-08-12",
       "updates": [
         {
           "date": "2026-08-10",
@@ -16569,6 +17017,33 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/ZBTJZ63PKJF3NHB22W3RVQVMXY.jpg?auth=1961247781ac29bd6d9ca17dbc395c17b06208df71f8b29ad9546b0f9c6ace70&smart=true&width=1200&height=800"
+        },
+        {
+          "date": "2026-08-12",
+          "hoy": "Trascendió una reunión secreta de Peña con ministros de la Corte que reavivó cuestionamientos sobre debilitamiento institucional; el presidente destacó una tasa de empleo formal del 40%, mientras la oposición, a través del senador Borda, criticó que 'prometió mucho pero cumplió poco', en medio de desafíos fiscales persistentes.",
+          "fuentes": [
+            {
+              "titular": "A tres años de Gobierno, persisten los históricos desafíos fiscales - ultimahora.com",
+              "medio": "ultimahora.com",
+              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORkx3bG01TUs4dmJEMVVmSGVfNmVDQlUycjRQWERuN19TamhwTFpicThwc2x0SENCTGlienlnMExYa0xmeGx0bll2Q2dwRC0xd2hsenVrLXlWOEdzY2JFZzljM0ZMZWZtZTFoR3VHTmhzeW1SalpTcWt2Y1NPV2VWWFZsOVVCak8wT2tBVGVhWDJaUTkyQ1RIeNIBpgFBVV95cUxOb1NkMkZ3czBmWUVYQW9IaWpRTHhkY0RHXzlHU1VCUlkwT0xmbzNCQ1ZXMXBvbVpkOV9BcTlGVGpHMzJPUFYxMTl3M2RHT3JWVVBlSl9za3h0dzRQTkZXRmcxVjA5cmgwS0hoUU9Kc0lmMWRCa1kxc3QxeEhmU2NUXzlLbE5LTHE4LUV4Z1JDWlRYelE0alF6cXlkZnNMMzBCd3ZmbkN3?oc=5"
+            },
+            {
+              "titular": "Tres años de Peña: la reunión secreta con ministros de la Corte y el debilitamiento institucional - abc.com.py",
+              "medio": "abc.com.py",
+              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN2tEbmd0SE80UG9Wa1FMRG9wcE1HUDRqYzlSb2hsV004eGllNnB1ZUJDeDNGQ2NuTHZUTzk5dlJPRmVKX3o3N3VYcC1XQmVUbE5RWk5QN1BvLVZ1cTlaVFF6X1pxakc3SEVRdVJLWWVqbWFxaGtEVENCcVpyY3ZFQ3VsZFcwWmpzOUR1OVlsSDJxMFZTUnk0TTlZOFk5Y3FKbnppVXRRTkRmZXJ6ZFRGUGc1di1pNllDTDNBc0E2UkdxM0xSb0QwMFZ2ZDNzR3VJV2JQRW5Oc9IB6wFBVV95cUxOYTZPUEpFZ0NkazVDVFRuV3R5U2JuOUNpcUU1R1NFOVltOFZoYWhsSm9UUmdZOFFMR21reUtfckstdW1PeXdzM05RVDBUTEJ6RUp0TkVTV3Z6bkxPUWgwdzRTLXdQMHp5NFhpZnN1TEl3N3BNSlRGeXRCMmhMTmNJakdOVjNxcG9yLXl5RGZZZ1docHdJX0RNVW44VENLNE05ZXlmNnRhNkRpYkRWWmR5djhYbHBtQ0ZvNTA5ZlZYX3h2REVLTDJBbDJqSk9fdU41N0hMR3NlUEEzSk1hTGNlek10ZVA5MGRCSkJF?oc=5"
+            },
+            {
+              "titular": "El presidente Santiago Peña cifra en 40 % la tasa de empleo formal en Paraguay - Correo del Sur",
+              "medio": "Correo del Sur",
+              "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTlEwMVF1b1VBOWNpRkVKZXdyWjByako4RnQzWkpTQThPQXd4Z1ozQ0otR1EzaXF5UnZ0YUFpTXVsX2R0cWpNQjB4TlQ0X1hxRWFNVngxZ00zRmoyemwwT2tvX2FqNElyNUotbjdIMEw2MEtIbVRtQVBETk1PMkM4UzhLR2FaTVNVTWdxamlRREpKUzBrb21MN1pkcWQzX1NWOEdJeGFqb1cxc3V6SXY3SEQ3ZmdyWU9FbzExVzhR?oc=5"
+            },
+            {
+              "titular": "Tres años de gestión de Peña: “Prometió mucho, pero ha cumplido poco”, dice Borda - abc.com.py",
+              "medio": "abc.com.py",
+              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbGZRbVk1Q2dIQnc3RXZfRHlycEZNZjJNa3p5ZkRtNk8xem1jenNYdUJQZkpVMTFSeFZsSkc1LXZ6VjhMOG1fTDQtLUxzUUZHQXVWYXd3WVRqVnRjZjFkVVBRVlliVElKZXlXWnN0cktVTlM2Ym1teENyRVhLTHRZTUJ6c1piVWNvM2tYdUZlTTlVOW1wU2hwNGswdjg1ZEo0UWEtZ3FfbUNSd0oxQzVDQm82VzNaOUFCbWFKatIB0AFBVV95cUxOSldMdlY0R3d1Rk9vUHV3U1o0VUtDZzVydnhrc294T0FlN2x5RGNTNE5Oald2S1VvNlhVN0dDUWlqVU83cnJ2RVdLcERWdUNvXzdPb0ZEWENudkZkVjEyN0l1bXo1V0ptS2NVcW5Na0lvd04xQm5ra09Cckw5em1QVzRiM0xKS1F4aGN2UThFaFlBNThsS2pRSmFxVWZoQU1QaFBMMVNqWkl4WXdPM2pja3p6V3VwVVJWQzkwdVBBb3ZUbGFwSThQZ0xkUEdSUmRp?oc=5"
+            }
+          ],
+          "imagen": "https://grupovierci.brightspotcdn.com/dims4/default/ec0e71e/2147483647/strip/true/crop/1504x846+0+158/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc5%2Ff7%2Fb85e9cd24edaac64e96f1176b61a%2Fwhatsapp-image-2024-05-12-at-20-44-23.jpeg"
         }
       ]
     },
@@ -16658,11 +17133,11 @@
       ]
     },
     "chia-exportacion-japon": {
-      "titulo": "La chía paraguaya recupera acceso pleno al mercado japonés",
+      "titulo": "Japón levanta controles reforzados sobre la chía paraguaya",
       "categoria": "Agro",
       "contexto": "Paraguay viene diversificando su oferta agroexportadora hacia productos no tradicionales, sujetos a exigentes controles sanitarios en mercados como Japón.",
       "first_seen": "2026-08-11",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-08-12",
       "updates": [
         {
           "date": "2026-08-11",
@@ -16675,6 +17150,18 @@
             }
           ],
           "imagen": "https://www.abc.com.py/resizer/v2/PH6XLVD47FBLZOGVG2ADUAFVI4.jpg?auth=6e6798b231b427ea6eb01d3cb653b0579cf2877da2760bf88b6c22e0130340ab&width=770&smart=true"
+        },
+        {
+          "date": "2026-08-12",
+          "hoy": "Japón levantó las medidas de control reforzado sobre la chía paraguaya, tras el fortalecimiento de controles sanitarios impulsado por el Senave.",
+          "fuentes": [
+            {
+              "titular": "Japón levanta medidas de control reforzado sobre chía paraguaya",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/economia/japon-levanta-medidas-control-reforzado-sobre-chia-paraguaya-n110352"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2025/04/67fd6a4f3fa0d.jpg"
         }
       ]
     },
@@ -16700,11 +17187,11 @@
       ]
     },
     "terremoto-colombia-solidaridad": {
-      "titulo": "Paraguay se solidariza con Colombia tras devastador terremoto",
+      "titulo": "Paraguay expresa solidaridad con Colombia tras el terremoto",
       "categoria": "Otros",
       "contexto": "Un fuerte terremoto de magnitud 7,4 sacudió Colombia, dejando más de 100 muertos, lo que generó una ola de reacciones de solidaridad en la región.",
       "first_seen": "2026-08-11",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-08-12",
       "updates": [
         {
           "date": "2026-08-11",
@@ -16727,6 +17214,18 @@
             }
           ],
           "imagen": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png"
+        },
+        {
+          "date": "2026-08-12",
+          "hoy": "Los obispos de Paraguay expresaron su solidaridad con el pueblo colombiano tras el terremoto.",
+          "fuentes": [
+            {
+              "titular": "Los obispos de Paraguay, solidarios con el pueblo colombiano - Vida Nueva",
+              "medio": "Vida Nueva",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU1pQT2RwYVdHYkgzWVp0NmdpOE9EUnZlY28tX2twTERvYkc5bWhLcTNYUEg0VGI3c0dGLXVqcV9PeVpxX0pKNTRKaGJzVjlEUmhpVDctMTR0WGhNZFd5RHpjeXg1M2hEMWJJLURZNXB6MmV0SHAwQl9jNXJDTmwySXFMVnNpNjI3dXRHVjQyOXZqcVFpTWliSEVPTzhzNk1KY1R1a2NId9IBrAFBVV95cUxPbzBQOGpkUVJ6OVNKS051N0RGeVFxVkNuanZwaHl6eTkyRWVFd1FkZnR1NXc1N2laLUhBUTdlUlN6UU1LT2M2MzdOZmRkM2JpSEx5VVNONDhCenRGWFVvVzZTMDBhWjZqS0VsR3c2M0JnMU1pSXlIUzNDWU1LRnFabmtabmZZOHNEUDg5ekdRVVhZVzB6dmRRUkEtTm1YRVFvM2hBLVI3LWxfclR0?oc=5"
+            }
+          ],
+          "imagen": "https://www.vidanuevadigital.com/wp-content/uploads/2026/08/cali-colombia-.jpg"
         }
       ]
     },
@@ -16748,6 +17247,142 @@
             }
           ],
           "imagen": "https://lexlatin.com/sites/default/files/2026-08/silvestre_canva.jpg"
+        }
+      ]
+    },
+    "represa-corpus-argentina": {
+      "titulo": "Un diputado argentino reflota el proyecto de la represa de Corpus",
+      "categoria": "Economía",
+      "contexto": "Corpus es un proyecto histórico de represa hidroeléctrica binacional entre Paraguay y Argentina sobre el río Paraná, paralizado por décadas debido a diferencias entre ambos países y su impacto ambiental.",
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "updates": [
+        {
+          "date": "2026-08-12",
+          "hoy": "El Gobierno paraguayo sigue de cerca la iniciativa de un diputado de Misiones (Argentina) que busca reflotar el proyecto de Corpus, en momentos de creciente demanda energética regional.",
+          "fuentes": [
+            {
+              "titular": "El Gobierno sigue de cerca a un diputado misionero que busca reflotar la represa de Corpus - La Política Online",
+              "medio": "La Política Online",
+              "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazc0cGlkOU5pZG5aUzJLQUU4NEpBSmwtUTlsbGp1aF96ZDVJV3VkMnBwSkx4YUtxVWdSR0ZzQ3F4VkdObHdOSGYzNjE1VGtHNE9VZ0RRSmRETG1SSGNYYzc3WFh5M1pwTDVMbjRUSENHbGwtdndfRnJmTmszQjdobHRCc1hWV1hNSlhIRURQbTY3UGZua01tYmpNYXZ4azdodFpVdzMyUkpDSzlsT0lJOFR6cFFBSzZfanFaS2Z0YWg2MmRweUxCUHFCTmZ1OWpC?oc=5"
+            }
+          ],
+          "imagen": "https://www.lapoliticaonline.com/files/image/293/293643/6a5a8a6f45af8_600_315!.jpg?s=9c882a59e3191222c4262e6ef553062c&d=1786472124"
+        }
+      ]
+    },
+    "femicidios-py": {
+      "titulo": "Preocupación por la cifra de femicidios en Paraguay",
+      "categoria": "Otros",
+      "contexto": "Paraguay registra periódicamente altos índices de violencia de género, con organismos de derechos humanos monitoreando la evolución de los femicidios y su impacto social.",
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "updates": [
+        {
+          "date": "2026-08-12",
+          "hoy": "Un informe reveló que en Paraguay se registraron 17 femicidios en lo que va del año, dejando 33 nuevos huérfanos.",
+          "fuentes": [
+            {
+              "titular": "Paraguay registra 17 femicidios en lo que va del año y hay 33 nuevos huérfanos en el país - infobae.com",
+              "medio": "infobae.com",
+              "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTnZUZU5ZVXJGd3pEUHg3R0daNlZScWZNbzNKLWgxdUMtZV9ROTNXTEVmZmxsR0h2SW9YV2xzRlZPZEhDUlRlVFJ2cjlqX1RpTnNSQWphSTVwZVZ5SUY1Q0dKWTFMcUEzN0V6ZHlKa3ZqcWtxdF9OQ1dXQ0FkbFZwV1RacUgtUC0yaTlUcmo4dW82LXUtZ0ttYkFjTFdjRjNaUkZYMVJNRTZFQU5GdDVPNF9fdnFtdW4xYWtHSEVyMFZYSW40dkRkQWRzamNmbnplcjNyRVkzYk1hOTlnS3dHcUJB0gH8AUFVX3lxTE5wanNkRVRVeXZhWkNwWk5PM3NXWVNPcjl1X3Vqc3V0bnJVOUJnVlF3TTFsSDV1M011aGV1Z0ZlTlA4endCUGYxV2RaT0k4dlR5SnB4MmtpdVBYTzM3ZzFzZ3dTTUwtZlo1ZjFGMjFCcmlISzBKdTZUZDBYRnU0ekRPSXVVSGNkckpNS2gwdWJMSVdRUTctbnV6QjQ1ejg5bjYwYXgyeXJlRlVnZWRYVDlhdlFRaUtMSnJ0cDJXX2dYUlZRaGxIYklFRXhsdW9DUVdvdTNrekx4ek9MNXAwVUNtY2lxYWRZX0lUeVJNaFRCaG1YWWVReGljZnRFaA?oc=5"
+            }
+          ],
+          "imagen": "https://www.infobae.com/resizer/v2/OCHQHHBVQ5BS3LBXRHCU7HWKPE.jpg?auth=a52c9d64ab361c243663b9f40213b5d26afcbe5927c9aa4f711f4c5d4321306e&smart=true&width=1024&height=512&quality=85"
+        }
+      ]
+    },
+    "bello-gestion-asuncion": {
+      "titulo": "El intendente Bello destaca gestión financiera y obras en Asunción",
+      "categoria": "Política",
+      "contexto": "La Municipalidad de Asunción gestiona recursos para obras viales, drenajes y prestaciones urbanas en la capital, en un contexto de fuerte actividad inmobiliaria en la ciudad.",
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "updates": [
+        {
+          "date": "2026-08-12",
+          "hoy": "La comuna informó una recaudación de G. 1.193 billones, con desembolsos al sistema previsional y una inversión cercana a G. 59.000 millones en mantenimiento vial y drenajes.",
+          "fuentes": [
+            {
+              "titular": "Bello ordena cuentas y reactiva obras para mejorar los servicios públicos",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/nacionales/locales/2026/08/12/bello-ordena-cuentas-y-reactiva-obras-para-mejorar-los-servicios-publicos/"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/KDFJ65327FGPFG2MMN56PSJDGM.jpg?auth=99fd0b3736e22a6c33ddf4730fa7964f7cdb66e2f304dc0705f79e951b1a2fe1&smart=true&width=1200&height=800"
+        }
+      ]
+    },
+    "renuncia-ministro-turismo": {
+      "titulo": "Renuncia el titular de Turismo tras solo tres meses en el cargo",
+      "categoria": "Política",
+      "contexto": "El Gobierno de Peña ha realizado distintos cambios en su gabinete durante su gestión, generando periódicamente interrogantes sobre la estabilidad de sus funcionarios.",
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "updates": [
+        {
+          "date": "2026-08-12",
+          "hoy": "Jacinto Santa María Ammatuna renunció a la Senatur apenas tres meses después de asumir, atribuyendo su salida a motivos de 'dignidad personal'.",
+          "fuentes": [
+            {
+              "titular": "Ministro de Turismo deja el Gobierno tras apenas tres meses y atribuye su salida a \"dignidad personal\"",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/politica/ministro-turismo-deja-gobierno-tras-apenas-tres-meses-atribuye-su-salida-dignidad-personal-n110391"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2026/04/69f2795e57750.jpg"
+        }
+      ]
+    },
+    "frontera-segura-plan": {
+      "titulo": "El Gobierno planea extender el Plan Frontera Segura",
+      "categoria": "Regulación",
+      "contexto": "Paraguay y Argentina cooperan en materia de seguridad fronteriza ante el avance del crimen organizado y el contrabando en zonas límite.",
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "updates": [
+        {
+          "date": "2026-08-12",
+          "hoy": "El Gobierno anunció planes para extender el 'Plan Frontera Segura' entre Paraguay y Argentina.",
+          "fuentes": [
+            {
+              "titular": "Gobierno planea extender \"Plan Frontera Segura\" en Paraguay y Argentina - El Potosí",
+              "medio": "El Potosí",
+              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcEM0ZUR1LVpsdFlWYTV0dThWUmQzQ2hWUDg5WkhST2taNmVCdHZqd1lndEY1RDJNUk1INjFPVWR5RUJudXFTbGhKamJLZHo3WmNRTV9YNGsxWHdUVjZHMjEtWkEtYXZ6UDNMSFlVaDFCU0RYY1pmVFZzRnByRnFHc01IRVVXdlFfZmQ0UGpjZjZ1Z0t6N1BGb21qZVNtNHNVNllpSXg4NG5tdC00WjN0cmxGOA?oc=5"
+            }
+          ],
+          "imagen": ""
+        }
+      ]
+    },
+    "influencers-gobierno-indigenas": {
+      "titulo": "Controversia por el contacto de influencers con indígenas aislados y el uso de influencers por el Gobierno",
+      "categoria": "Otros",
+      "contexto": "En Paraguay existen comunidades indígenas en aislamiento voluntario, protegidas por normas estatales que buscan evitar el contacto externo; en paralelo, el Gobierno de Peña ha sido cuestionado por presuntamente pagar a influencers para promover su gestión.",
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "updates": [
+        {
+          "date": "2026-08-12",
+          "hoy": "El Gobierno buscó impedir que un influenciador contactara a indígenas en aislamiento, mientras el presidente Peña negó pagar a influencers extranjeros y afirmó que sigue habitualmente su contenido.",
+          "fuentes": [
+            {
+              "titular": "Gobierno de Paraguay busca impedir que influenciador contacte a indígenas en aislamiento - abc.com.py",
+              "medio": "abc.com.py",
+              "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTjJfcjd4a0YwV0JoV2pWMHN0V3lWeXRiR0kyTG5FZjNDWWctWTgwRW55QzNza2Fob3lkTW0tUEhBYTFHZE5hTmo4SlNZZ2VPZ0s4WWhfYzNmSTJ2UF9QdC1HMFhmQVZuRGpRMVZCemVfLWtkMmxQcjQyWWFQcjJES1JpTkdYU2FlaGU2ODZaTWliR2c3cmM0Qjl6TV9fb0oyUjFPd2JfTGhQRU5tb0VrVTFVcmF1cjl0Z3NOM0tkeDJiakVDZWU0dVlpU21meGtEaEJpS0Q0QmlBTjYwSzNsLXUzRUlzTlVoYmfSAeoBQVVfeXFMTk4yX3I3eGtGMFdCaFdqVjBzdFd5Vnl0YkdJMkxuRWYzQ1lnLVk4MEVueUMzc2thaG95ZE1tLVBIQWExR2ROYU5qOEpTWWdlT2dLOFloX2MzZkkydlBfUHQtRzBYZkFWbkRqUTFWQnplXy1rZDJsUHI0MllhUHIyREtSaU5HWFNhZWhlNjg2Wk1pYkdnN3JjNEI5ek1fX29KMlIxT3diX0xoUEVObW9Fa1UxVXJhdXI5dGdzTjNLZHgyYmpFQ2VlNHVZaVNtZnhrRGhCaUtENEJpQU42MEszbC11M0VJc05VaGJn?oc=5"
+            },
+            {
+              "titular": "Santiago Peña: \"Sigo mucho a influencers y ellos piden que se deje de decir que son pagados por el gobierno\" - ultimahora.com",
+              "medio": "ultimahora.com",
+              "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMkFtbnljenZXNnFlNU03RFpCSDdSdWpmdDRxZ2FzUXoyRzdoTG8yajJ4SmUwXzVOZnNuOE8zNkpVNVZ0Umtwb1RvQXQ3V1FZZlVVVi1sU1M5RGVOM2xzTm5jN0M3UHNlYzBSVHgwcFl5RXpaWDJSNjVMcGZSUDNlZHEwOEt2cFZxNlFycFlqc0ZZMHFyTTk2SzZ5WVRQUWpzYUxIV3RaYVVlLVpKTjJnczhER1lqUVhGa05fUmJhMzNIbHBkR0NCaURhdGPSAdoBQVVfeXFMT1J2N2tFamVtVTlXbnE2QVRha3cxWkt5QlNtZW4ybWFhQllXMk1SWUJoSEZlamRoMW1PY3hmUGwxd0h2RzJ3SWdUMFBXd3dKZi1RSVRSWmUtU213OVZhYjdmMHhMQzdWZEsxOElJbFZaWm1hOEQ1Mjk1UTl2RHNzT29oSTFEOWRoWWFLZ3lCaklvUExsWUVpRjZGSGRhak9janpUNHdkcl9qRWNrNEZnVDBRUGx6MndhT1d1WmM2eW9CTF9TakhIY1hKNE41ejYtME9rcnRLMFF6ckE?oc=5"
+            },
+            {
+              "titular": "Peña dice que consume contenido de influencers extranjeros y niega que son pagados por el Gobierno - abc.com.py",
+              "medio": "abc.com.py",
+              "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRTQ5dlFTTWtKZ1hrWkNIc2NuRG00aTZKQVhEeHp6dmR2R2Q2aGJMNUcwazZHcFQ5V1hlM280YklVd2VxMEpBaGtWb05ydVBkRXg4aVFJZ0VCNFM1QjFjRUp1YjNUVFlYWDJsTWc4SUNzSV8yZHVCaXNmX2hiTElpUWQ5N29NQWRTbmtxUGNuSDRwekFvc1dicVY2TGg4eWxPQWQ1dlpDTlNJSU5jTGlScHRObDVTV18xbFRwQXY4NG43VEtKT0h1SmtmZWZMWDFYazc4UDF4ZWQ3Z9IB7gFBVV95cUxQeW5Jb1Bud0JqMC0yVkZaSklOeElURmV1eGxNX1dtODR5ck1oM0V3Nl9mWmNrWEJUWVE3SW9YNVR4c3BCZGZ2bDlGZ3FFeG5FbzRSbHZIM0RPZU9fU3dLMUJwRldldU1aUkoxaWRxVHFjZEx3Um1jdXdnTm1JaHI3bWs4ajZndXZSVWxOTUQ0WXVFMFB4c3FvRF9odWhJc1h4Z0lmVlRDT3ZpRm9QVlYwOFh1aXdTZW8zbzdyQ3NDbDFYY0hOTjBwM2hlYm1Fa1NmTUQ1aHFJemVjZkh5WFphSE1BdnhHTFhQLV9jTFBB?oc=5"
+            }
+          ],
+          "imagen": "https://www.abc.com.py/resizer/v2/MOAP76XDJFEHLLTLQPIEIIZQZI.jpg?auth=af21fffb866efe059006e6c98a79ad3cc96cb597e29061d022f5aafd3f78d1f5&width=770&smart=true"
         }
       ]
     }
