@@ -347,11 +347,11 @@
       ]
     },
     "economia-py-indicadores": {
-      "titulo": "Persisten dudas sobre el rumbo del dólar, la inflación y el crecimiento",
+      "titulo": "El MEF eleva la proyección de crecimiento pero persiste el debate sobre su impacto social",
       "categoria": "Economía",
-      "contexto": "Paraguay atraviesa un ciclo de fuerte crecimiento económico, con superávit comercial sostenido y buena calificación crediticia, lo que despierta interés diplomático y de inversores internacionales.",
+      "contexto": "Paraguay atraviesa un ciclo de fuerte crecimiento económico, con superávit comercial sostenido y buena calificación crediticia, lo que despierta interés diplomático y de inversores internacionales, aunque persisten dudas sobre cómo ese crecimiento se traduce en bienestar de los hogares.",
       "first_seen": "2026-07-14",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "updates": [
         {
           "date": "2026-07-14",
@@ -1059,6 +1059,23 @@
             }
           ],
           "imagen": "https://marketdata.com.py/wp-content/uploads/2023/02/Expectativas-de-politica-monetaria-aun-restrictiva-en-EEUU-y-Reino-Unido-entre-los-destacados-de-la-semana1.jpg"
+        },
+        {
+          "date": "2026-08-24",
+          "hoy": "El Ministerio de Economía y Finanzas elevó su proyección de crecimiento para 2026 a cerca del 4,5%, mientras un análisis paralelo advierte que ese dinamismo no llega plenamente a los hogares debido a la alta informalidad laboral.",
+          "fuentes": [
+            {
+              "titular": "Crecimiento de Paraguay no llega a los hogares por la informalidad - latribuna.com.py",
+              "medio": "latribuna.com.py",
+              "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUlN5TzdYckpzWXA2bkU4LXNKTGluMGhYRVB0NWNtdzNpZnNSVXh2OTNDaW1nSTkzR1dqUkN6ZDg2Z0lfWTFSamRTZnVwaUV5NldIZ0UxakFOd2JaM1NOSF9xY3RiVXluZmlBb0VkVEdqaVJ4ZVg4MVk4c2E4QjhPVmRvZUlfWnQ3X1JyWDVQS0poNjNvTklkSFZGMV9EU1ZCblZiMUpTa1JjbzIwRU1ic3plSjdPb184WE45OExIR0Z6ZU0?oc=5"
+            },
+            {
+              "titular": "El MEF eleva la proyección de crecimiento de Paraguay a cerca del 4,5% para 2026 - El Trueno",
+              "medio": "El Trueno",
+              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQlVpNXEwMkZET2dBSDZEaEdXa0NOSzR5a0drcHgtLUxsYW1vdk1XWTNsR2UtWkVyQ1QxTEdNNkx5UGJPZUFoU0xmYkZidS1IS25wb3BreFkxTE1fTnlGRlVEckJuU3Vya0w3ektHMngyb2ZCc29mY0h4ajZhS2owQTlJMlFIeFNoaktpNG9idFh5eGQ5M3d5VnJYYlctNUZrcFJBUXBkLTA1dUFoX2dpRk5Uc3I?oc=5"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/YSH5OBNAERGAFBRU3KYSMXWPUE.JPG?smart=true&auth=cc98a8139defa98e6a846f5dc85925d11dff83169196928b6b6bd7218ff53750&width=1200&height=630"
         }
       ]
     },
@@ -2453,11 +2470,11 @@
       ]
     },
     "sector-ganadero-py": {
-      "titulo": "Paraguay avanza hacia una norma para estandarizar el dressing bovino",
+      "titulo": "Senacsa endurece controles sanitarios en los rodeos",
       "categoria": "Agro",
       "contexto": "La ganadería es uno de los pilares del agro paraguayo, con el país posicionado como un exportador relevante de carne bovina.",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-08-24",
       "updates": [
         {
           "date": "2026-07-15",
@@ -2615,6 +2632,18 @@
             }
           ],
           "imagen": ""
+        },
+        {
+          "date": "2026-08-24",
+          "hoy": "El Senacsa actualizó sus normas sanitarias para prevenir enfermedades reproductivas en el ganado bovino, incorporando nuevos mecanismos de vigilancia y certificación para reducir pérdidas económicas.",
+          "fuentes": [
+            {
+              "titular": "SENACSA endurece controles para proteger la productividad de los rodeos",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/economia/senacsa-endurece-controles-proteger-productividad-rodeos-n110906"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2023/08/98aa86dc6a5eecc787ff945858387c70.jpg"
         }
       ]
     },
@@ -4531,11 +4560,11 @@
       ]
     },
     "alerta-nino-emergencias": {
-      "titulo": "El calentamiento global amplifica el impacto de 'El Niño'",
+      "titulo": "El agro se prepara ante el fenómeno El Niño 2026-2027",
       "categoria": "Agro",
       "contexto": "El fenómeno climático de 'El Niño' suele traer lluvias intensas y crecidas de ríos en Paraguay, con riesgo de inundaciones y efectos sobre la actividad agrícola.",
       "first_seen": "2026-07-16",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "updates": [
         {
           "date": "2026-07-16",
@@ -4826,6 +4855,23 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/24XUXX4DZRA3VCJN5FPP5YU66A.jpg?auth=f4e9f7f95cb25d2e882b2f76969a1f3a27f83be26b3a0a3d03070754150d75e2&smart=true&width=1200&height=800"
+        },
+        {
+          "date": "2026-08-24",
+          "hoy": "El MAG intensificó sus acciones de prevención ante la posibilidad de que El Niño genere condiciones climáticas adversas en el nuevo ciclo agrícola, mientras productores expresan preocupación por el riesgo de mayores lluvias, humedad y plagas.",
+          "fuentes": [
+            {
+              "titular": "MAG refuerza la preparación del agro ante el fenómeno El Niño 2026-2027",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/negocios/economia/2026/08/24/mag-refuerza-la-preparacion-del-agro-ante-el-fenomeno-el-nino-2026-2027/"
+            },
+            {
+              "titular": "El Niño pone al campo en alerta por más lluvias, humedad y riesgo de plagas",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/economia/el-nino-pone-campo-alerta-mas-lluvias-humedad-riesgo-plagas-n110905"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/6C2NP6BSARCGDHRM7AV44R333A.jpg?auth=764c952fd3da6e7c7ed5f2067a43b21a36f637915cad64886cc8038ba581c35b&smart=true&width=1200&height=800"
         }
       ]
     },
@@ -5040,11 +5086,11 @@
       ]
     },
     "pasaporte-biometrico-bloqueo": {
-      "titulo": "Se ratifica el bloqueo migratorio por demoras en el pasaporte biométrico",
+      "titulo": "Paraguay confirma el bloqueo migratorio por demoras en el pasaporte biométrico",
       "categoria": "Regulación",
       "contexto": "Varios países de la región vienen actualizando sus requisitos de documentación biométrica para el ingreso y salida de personas.",
       "first_seen": "2026-07-16",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-24",
       "updates": [
         {
           "date": "2026-07-16",
@@ -5177,6 +5223,18 @@
             }
           ],
           "imagen": "https://www.cronista.com/resizer/v2/MJTSATZB2JCLRCBEWVMTRRBULA.png?auth=83774a940902d237d78edf22edb6eec371362f35660e25c4b1166f892d9d9031&height=630&width=1200&quality=70&focal=823%2C392"
+        },
+        {
+          "date": "2026-08-24",
+          "hoy": "Se confirmó que Paraguay, junto a República Dominicana y México, prohíbe el ingreso a ciudadanos que hayan postergado el trámite de renovación de su pasaporte biométrico.",
+          "fuentes": [
+            {
+              "titular": "Confirmado | República Dominicana, México y Paraguay prohíben el ingreso al país de todos los ciudadanos que hayan postergado este trámite de renovación del pasaporte - El Cronista",
+              "medio": "El Cronista",
+              "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPOExmTXBtN3NScUdqUENvOXRaTXg0ZUVEOUtPRWRvT1dmUVY1SnQ3OWd1ZzFBZWFTOF9BWmNOclc4VEdwMlBtYWZCODA3RXh3cWtyV1BQR0Z1eFRCdHlqLUZqTzVZczVNZ2d5ZkZNM3JodFlvUURjMklQMWEySXZVdGM5V0ozQkM4MHdBRUI1aEk5T19oMi1Zai1MM1hNZFZ1bWVoOUZ5WHFnUXdfRnQzYXZsODlEUEYzT0dMTWJQZDZ1RG85MWxqS0lDZngwYTJsMW56YkdFTUJwS000eFVDc3d6MWJaSTVoRXpVd19LRXVDMm1ZMXB0SWVJeTNQdXpEbGVUaWNmWDRwd1JpZjFXY1p2V2VRd1VZUFFCVXVEWE83WW9LS3JiM25B0gHEAkFVX3lxTE1aeS1wd2Q2emVWWmoweEFvQjN4TzNRckFXbGgzU3BmbmdBUEJiREFPNEJyQjBONERJRV94NE9ZSlJoRkY5aGEzRjlTams4cnlUSVZOM3o3THFDSEJHeHQydGxKTEFqS181R0NkSU1hQU1xSVgwbTBaeU5pTWJZNnpVOG04dEtKMVdHbmRkWFdkRGxGc3hQaTZpVDdyM0ZGb2pRVnBhVDdUU1BTRXRtT3hJbnAwLXQ2c085U3dfX1BVUHJYZDlzcnE1WGZqZWtfdXJRemxlenFfOExEVGhaVnhuaG94eGUxZ0xDQ2p5cjhrdHJGeDF4akZHLXBweDVnZFk3TnBoVjBUV01DU2pjbGZKSFZfakRnTnVGeC02bWRmbVR2ZUdjNngxc2lsOGZRbWFCNG9Uem9pc1p1V3hhZEVtNndHaA?oc=5"
+            }
+          ],
+          "imagen": "https://www.cronista.com/resizer/v2/6QFO44D5QNEDJE6JDHF3YGPJ44.png?auth=ac1e7d6aa8929a1479b6cbc1b1672a546209cc02d60e0822cbd2594c8a192aa5&height=630&width=1200&quality=70&smart=true"
         }
       ]
     },
@@ -5538,11 +5596,11 @@
       ]
     },
     "rally-mundial-paraguay": {
-      "titulo": "Beneficios especiales para el WRC Rally del Paraguay",
+      "titulo": "Arrancan las actividades del WRC Rally del Paraguay",
       "categoria": "Deportes",
       "contexto": "Paraguay es sede de una fecha del Campeonato Mundial de Rally (WRC), un evento que además genera un fuerte impacto turístico y económico en el interior del país.",
       "first_seen": "2026-07-17",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "updates": [
         {
           "date": "2026-07-17",
@@ -5707,6 +5765,28 @@
             }
           ],
           "imagen": "https://www.lanacion.com.py/resizer/v2/SGK5VF5FNBFKLN4BSRP5RWGRFI.jpg?auth=3167ee5cf9ec6dfa0d14789a982c4e5efec094f2ddee3d6db9b0e66230215b13&width=1024&height=512&smart=true"
+        },
+        {
+          "date": "2026-08-24",
+          "hoy": "El Sunday Test dio inicio a las actividades del WRC en Carmen del Paraná con pilotos locales e internacionales probando sus autos; Toyota busca su sexta corona mundial en los caminos paraguayos y el sector hotelero de Itapúa reporta ocupación plena por el evento.",
+          "fuentes": [
+            {
+              "titular": "Sector hotelero a tope con el Rally del Paraguay en Itapúa - VS Sports",
+              "medio": "VS Sports",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb21FajFKWTJjejRVMkJGeURyWlFHWEhOOVlnTVduTXhPeUVkdVFnemRiYUZoVU1GMkpUZjhjendVWW9Ual9sZkY2eEdfS2NvTDFrUDh5aVRST0gxSVpYYmpjd2lqVjJQYU1hWFFkTUNMaEs5bFNyN1MwOHJZcmN6aExwRF9QZ1NOVHRnajdLdDlZcy1xZGZGU05YVTB6R1h3cW5UVENVTQ?oc=5"
+            },
+            {
+              "titular": "Los motores ya se encendieron en el sur del país",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/deportes/2026/08/24/los-motores-ya-se-encendieron-en-el-sur-del-pais/"
+            },
+            {
+              "titular": "Toyota por la sexta corona mundial en los caminos paraguayos",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/deportes/2026/08/24/toyota-por-la-sexta-corona-mundial-en-los-caminos-paraguayos/"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/WDES7T3D5VHQZJQDPXFKJ7N73I.jpg?auth=7c8baa2fec48726b5aa48d6f95911a0cfdc3cdc36c655f3d9d4d0fcb626d15c3&smart=true&width=1200&height=800"
         }
       ]
     },
@@ -8498,11 +8578,11 @@
       ]
     },
     "emergencia-vial-paraguay": {
-      "titulo": "El Día del Peatón resalta la vulnerabilidad vial en Paraguay",
+      "titulo": "Nuevo siniestro vial fatal en Minga Guazú",
       "categoria": "Regulación",
       "contexto": "Paraguay registra un elevado número de siniestros de tránsito, con motociclistas y jóvenes como las principales víctimas, lo que llevó a declarar la emergencia nacional en seguridad vial.",
       "first_seen": "2026-07-18",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-24",
       "updates": [
         {
           "date": "2026-07-18",
@@ -8563,6 +8643,18 @@
             }
           ],
           "imagen": "https://grupovierci.brightspotcdn.com/dims4/default/a588cf9/2147483647/strip/true/crop/661x372+34+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe9%2F1c%2Fe4bd0fcf4f1b9f442a313df92f73%2Fcaptura-de-pantalla-2026-08-17-144313.png"
+        },
+        {
+          "date": "2026-08-24",
+          "hoy": "Un violento choque en la Ruta PY06, en Minga Guazú, dejó dos jóvenes fallecidos y un niño de 6 años gravemente herido.",
+          "fuentes": [
+            {
+              "titular": "Dos muertes y un herido, saldo de un siniestro vial en Minga Guazú",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/sucesos/policiales/2026/08/24/dos-muertes-y-un-herido-saldo-de-un-siniestro-vial-en-minga-guazu/"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/4LDWKB2CCBBUXJJ7FPBJLYUK4U.jpg?auth=030d3f0d6919db4b6f4179bfcf00873ef6d4fbcef01f1628210ad5625daff6e0&smart=true&width=1200&height=800"
         }
       ]
     },
@@ -8834,11 +8926,11 @@
       ]
     },
     "fortaleza-guarani-dolar": {
-      "titulo": "El dólar sigue subiendo en Paraguay pese al contexto internacional",
+      "titulo": "El dólar sigue firme en el mercado local",
       "categoria": "Economía",
       "contexto": "El guaraní viene mostrando fortaleza relativa frente al dólar en un contexto de solidez macroeconómica y superávit comercial sostenido, lo que empieza a golpear a los exportadores y a la recaudación aduanera.",
       "first_seen": "2026-07-19",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-24",
       "updates": [
         {
           "date": "2026-07-19",
@@ -9272,6 +9364,23 @@
             }
           ],
           "imagen": "https://www.clarin.com/img/2020/04/23/UIgMX6Usc_1256x620__1.jpg"
+        },
+        {
+          "date": "2026-08-24",
+          "hoy": "Se reportó la cotización diaria del dólar en Paraguay tanto para el domingo 23 como el lunes 24 de agosto, sin variaciones significativas respecto a la tendencia reciente.",
+          "fuentes": [
+            {
+              "titular": "Dólar hoy en Paraguay: precio y cotización de la divisa este lunes 24 de agosto de 2026 - Clarin.com",
+              "medio": "Clarin.com",
+              "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWFBkVXpNbGVLOThrNG5NTmFIclpqNS1wd0daZDdFZ0VqVHYwa0FOYmw0b05SZWZLQkt1NmJSWmk4QjNRSlZ6emFialp6SUo2UDBjZGxSQUN3NXJnMHBDLUFQUTNoUTJWZFN4aWMwTjJ0dmFiTFVsQWctVEpLaG9rNmUyeEJfRXFoUy1kTklxQTR3NVI0RDlJd0RXcEhiTXFEQXRVSEpsNkJrN0NEWWhmYzFBb3JsdEVkQ2c0R3l6bzNBNzJPdTIxbGNjaVIxTG5PVXfSAdcBQVVfeXFMT19RV2ljX04xOGRhT0JsNFhEejExTUpQYUVQRHJfa3VNTmhWQVg4QVdaNzBISW45eHoxR1NVcTM2QkpoZ05NR2psMHcxVlVKcjZ4ZGlSVXd5WVdScUJrOTRubnFiaW9Mdkg2UjF1U0xfa2dxVjh3aGQ5MkNtVm1MdGZ6ZlpFWklQeHpGaE9TTmk2TnNnbEVqTk5HQzVsTHVnWWFtUXJic2w2S2xuZGs0QlNkSVpvNmkzRWt0LTlGUWpFZGhwSUk3NjhuWHg1c0YyWHlTZ2dacDQ?oc=5"
+            },
+            {
+              "titular": "Dólar hoy en Paraguay: precio y cotización de la divisa este domingo 23 de agosto de 2026 - Clarin.com",
+              "medio": "Clarin.com",
+              "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQamx6YWhQVm9mb2pSWTZlbk1pRHZqNzhybFpsWkI4ZW9pYUZvamdycFdaUG9uNzg3M0FfSmhQdVowOXJVc0Y5V0xxTXhoUVotR1FBQzI3MXY5LUVsV0VSOF82MUZsZmNKeTUyOUVoRHBpZTdOSEVNcVJyQnM0ZlZ6a0hCcmU2ZHdLck9JMy1jZ1hMcnF1ZU9OVzJXUnY1clNnTWU3NUxHa1htR3phY1FUR3B3cmo4UlgteGMtNlpLS3hVWC10ZExiNVZaMFJ4VUtFRUNFY9IB2gFBVV95cUxOLTFwUnVSQ3A0RGVRSmlBeXdzdVpZNDFmV01ucHNnUmZmS0ZyY1BVRGFHNUVhbTZlMnpUUmhDLTlaQmZYLUJRQ3VUMldNYl9oNzEzVHVlWUdwaEFUVEFzRXBZN3dZbmpWVTZibDNzcnJJSU5qNlJIQUljVllPOGZPZUs1WWFlMVBmb1o3UUtmOFRXaFdnaUM3cWpoMVUwTlJvMGdmb2U5dk5ZQnVYMmZkcllKRkMwb3h5RUx4OUZCeFN1VWw0cDZwNXQyQURUbHFvbk42Q0ZXa1MxZw?oc=5"
+            }
+          ],
+          "imagen": "https://www.clarin.com/img/2019/11/29/W92lPof3_1256x620__1.jpg"
         }
       ]
     },
@@ -9845,11 +9954,11 @@
       ]
     },
     "torneo-clausura-inicio": {
-      "titulo": "El Superclásico Olimpia-Cerro Porteño marca la fecha del Clausura",
+      "titulo": "Olimpia remonta y vence a Cerro Porteño en el Superclásico",
       "categoria": "Deportes",
       "contexto": "El fútbol paraguayo se encuentra en pleno desarrollo del Torneo Clausura 2026, con los clubes grandes ajustando sus planteles y luchando por resultados de cara a sus compromisos internacionales.",
       "first_seen": "2026-07-20",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "updates": [
         {
           "date": "2026-07-20",
@@ -10533,6 +10642,83 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/V3YJTMK46FG7RA5QY2ZZDY4KFQ.jpeg?auth=cd96130747d2be0122476f842f85c1018b27e0a7f9b15bab83b233d475ee58cd&smart=true&width=1200&height=800"
+        },
+        {
+          "date": "2026-08-24",
+          "hoy": "Olimpia dio vuelta el resultado y venció 2-1 a Cerro Porteño en el Superclásico de la sexta fecha, con la remontada como tema central; el técnico azulgrana Ariel Holan admitió errores y pidió tiempo para su proceso, mientras Olimpia sumó además el regreso de Rodney Redes tras rescindir con Liga de Quito. El operativo de seguridad y el ambiente en las tribunas también fueron parte de la cobertura.",
+          "fuentes": [
+            {
+              "titular": "¿A qué hora juega y qué canal transmite Cerro Porteño vs. Olimpia por Superclásico de Paraguay 2026? - El Comercio Perú",
+              "medio": "El Comercio Perú",
+              "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNLUxKZm9RakZGdS0yWEtveWdYdGdhMG1SR19ibmkzYXJsYVV3czNxZXJsdlEwQ3RKOXFqZ0loWktSVHpCd0dvTDNCYUhobC15cVliYTF6NTFqMG54d1NDWmpVcXdFQmd3UG5OcThVbmswck9ZZmI4eXBQRFkxc05fdkNqc21xS2JTd0xraUdVZ09FQzliTFVzdjdZS2lWcXNWcHdYS3IzSkQ5di0waG5PYUpDeG1RY3pUZkltdF8tTF9kY0YtbHl2Rmx1YVpYekZXRks5M0hqMWc5Y0dlZHF2R0tSaVNYV1p5cmNMaHg4Sy1Ua0lDTE9SQ0hLSUtINzBfSWduYlFRMFVua2FmV3EzUHMxbmQ2UQ?oc=5"
+            },
+            {
+              "titular": "¿Por qué perdió Cerro el clásico? La explicación de Holan - VS Sports",
+              "medio": "VS Sports",
+              "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNEdCU1lGcEhiS2twZVJnLXZtVnZkOWhFTHNRa2RJdk9pd1pGdTl6NTZ6TDJ1RENXdnd4d1VjQzBnYjNISzFNbTJ3Yk9yMm8zVjVFUnNlMzZIRDBLMVhQdjlBVXk5MzE1LWlmVzhKckJjOF90ZHVCZHZocS02emZ2em10Q1BYa3lqbnJOMVdscHNxTzRMVVVSVE1xRGw2NUlBOXVv?oc=5"
+            },
+            {
+              "titular": "Tigo Sports transmitió el partido Olimpia 2-1 Cerro Porteño (23/08/2026) - El Comercio Perú",
+              "medio": "El Comercio Perú",
+              "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOV3RxYkhTQUstZlF4Z1JQbEJCRlhISEdLbkM1el9VVGVFSENQYjNUUDlhVVUtSTE5TGNQcVBhN191dVd1SXk4VmFDbVBzdHZVTGJMRWl1UTVCMUc1cU52RFI3bENJZUwxOXVwWnRVREJLc1RscG1JdUhLT0k2NVNmQ2J5VUFHVnhsYVd2UDV1Yy1Jd0VqR2YzdFlidk9lcnNpTnhLU3pBRkZlUURBQmxFeWtDckdLZjVMUXlqcGxQOUh5Rzh5dDJRVXRaWDVLaVMyMmdzYkpqYUd1cVJubC1MR1VramFKWVF4U1dXSmV6ZFJJMnE1TlRYN3NjSmtaaENQQXFz?oc=5"
+            },
+            {
+              "titular": "La dedicatoria especial de Romeo Benítez: \"Cumplí su sueño...\" - VS Sports",
+              "medio": "VS Sports",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU0xYMWlMMXpMbERyaUI3YnN0MElzZnI5RHNrUHl5RElFYXZrcEJldXhDbWJCYVQxN0poTnlFaUx5eE16LWFKbkJEM190VDA3Qzg3M3hRVTRXZ0VMSS1RUmJjRGxZZnZQY3BwUEVMNXZqcjFXXzBJdlBfUDZ2ZHExOXIwUHlTN1ZWQ1lZSDdCd0l5UE8zWkFxTjlQekp6dWlYcVFobA?oc=5"
+            },
+            {
+              "titular": "¡Lo fusiló! El golazo de Cañete que hizo delirar a Cerro en el clásico - VS Sports",
+              "medio": "VS Sports",
+              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeU1VSU1ZdHdBSW1oejJjOWM4MFYxVFNPLS1JWGN6eU1qcUU4cGdyanNCZXBMZVFXU2t2S25KRFNnWS00bmZLVndveE5pcjdCM1puVHZOQmlKWTRkVUJZaWhFUFRKTXNwZDZqSEZuV1gyaVdDTXRfbDBPNFZRellZQmRmX2dTX1Fia2o0dFkydnJjQWdRdmRPcUhwOFViYVlKcklDaGVsMWF5N09zaFZwckJSMWs?oc=5"
+            },
+            {
+              "titular": "¡En una ráfaga! Los golazos de Olimpia para dar vuelta el clásico - VS Sports",
+              "medio": "VS Sports",
+              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWklJZlVXWGg0TjZ5bm9PZnJXY0ZGTG85bTRxWTFLOVpCSWM4Q3pOVkxOc1g0RVM0RGNpbjJZTWF6M2RVTWZ1UzMtYm0zMU5Ca1dzSGNUcVdoNWJyNWlELTlUcUxPNE1XOE9mVXViQWk2a0VUNk5vUkRLdk9qSlFEdG56Qm5BaWY2VkNLWmZwbUtwRHVpbVJEaktUdzBPclFLeF9NNUJCWWJUNW05OGc?oc=5"
+            },
+            {
+              "titular": "Rodney Redes rescinde con Liga de Quito y vuelve a Olimpia - VS Sports",
+              "medio": "VS Sports",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdzRsd1BrdDhzamtqTjFjMTIzRnAyVE9pSWNaOXN3UG5pLXd4ckhESXpUdU83SlY4Ml8tWl8ybTNXbm0xVjJiTWs4QldrQktDSFFxNUNoeW0wVmlSZzBSOEVPcDBZN2tPNVpYZDgxUUpHSkU5c3BiZkF4eWRLTnJLSm9DcEwwWjNzcEpiUHZOYzlHZDZPNXk4NFc2V08wcExFSlNKMHROYw?oc=5"
+            },
+            {
+              "titular": "Olimpia vs. Cerro Porteño: La pasión por el desconsuelo - D10",
+              "medio": "D10",
+              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN2hVM1Jtb3A0ZHZCQVhBWGtoQWgzYVhNTmR6SGFnUkduSkxOZFJZemdGWC05V0VtN18weUt0V0prRW1hbDV5WmZpTDkySWJCNnZGUXk3QW4wOWloRXptYzFFZGN5S0RzNnFXQ0ctWjlOdkZCbzhheFB5c0JIUmtFbDlUZEFDcW_SAZQBQVVfeXFMTkQ2X015cnh5SkU5cEZQWUdHRWdBV29MRFZaeXRwNExaRVhrRUYyaW1lUmpENWJobjE1NVNfVlN5aGZXNGU1S21sZzdvaDZaVXhXczJZeDVaNlF0SjBMamxPRWpMTnlndzkyQWxwQ1Zld2FCLS1GdnAwOU5fbHR6LU1RYzdaQ0dVRVZpRlhnWnhFRUVaMA?oc=5"
+            },
+            {
+              "titular": "La seguridad del superclásico - D10",
+              "medio": "D10",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwYkI5OXZWLTk3THJwN0IzM05KOEFUcWFrcGJYVGR0ZlJvTUdqS0lQQjU5T3NCRl9KZ3BPVGF1X0xKQ0xqSkxSdHZzZE1aWmF3NTVQVWVmbm9CNW9JUXhBSU5JREVKXzjSAXRBVV95cUxQQmZ5OEtWa1lvVVdUN0EwNTlmMDhIeVhsX1d1SDFxZ2diVWtRNGdReHVJY1E4NGN5T0l1V2hmS1FJeEpULTJuOUp3czVzb2VZY25ncmZyU3RqOUdVbVhfU1REbEVLa29sVURQNnpHQWtnbTY5cw?oc=5"
+            },
+            {
+              "titular": "El clásico se vivió en las gradas",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/deportes/2026/08/24/el-clasico-se-vivio-en-las-gradas/"
+            },
+            {
+              "titular": "Ariel Holan: “Esto es un proceso y pueden pasar estas cosas”",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/deportes/2026/08/24/ariel-holan-esto-es-un-proceso-y-pueden-pasar-estas-cosas/"
+            },
+            {
+              "titular": "Delmas: “Fue uno de mis mejores goles y el más importante”",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/deportes/2026/08/24/delmas-fue-uno-de-mis-mejores-goles-y-el-mas-importante/"
+            },
+            {
+              "titular": "El Superclásico es para Olimpia",
+              "medio": "APF",
+              "url": "https://www.apf.org.py/noticias/el-superclasico-es-para-olimpia"
+            },
+            {
+              "titular": "Tarde de Superclásico en el Defensores",
+              "medio": "APF",
+              "url": "https://www.apf.org.py/noticias/tarde-de-superclasico-en-el-defensores"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/KYUBELMO5BEKLKBTRMEBB3JLRU.jpg?auth=4cf01f94a1598d97f01393b4a80c3280064b9c57988c3ea10d6f0b1c08f0cfc2&smart=true&width=1200&height=800"
         }
       ]
     },
@@ -11521,11 +11707,11 @@
       ]
     },
     "recaudacion-tributaria-historica": {
-      "titulo": "La DNIT reporta una recaudación histórica adicional",
+      "titulo": "La DNIT suma otro récord de recaudación adicional",
       "categoria": "Economía",
       "contexto": "La modernización de la DNIT y la formalización progresiva de la economía paraguaya vienen impulsando un crecimiento sostenido de la recaudación impositiva.",
       "first_seen": "2026-07-22",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "updates": [
         {
           "date": "2026-07-22",
@@ -11613,6 +11799,18 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/4FVSASM7D5E3VAHVREZZYG2V7M.jpg?auth=f6c6ff108b4fdd7d195c96e071f95db4c014383e63ea0434cf2b05bf47ee624c&smart=true&width=1200&height=800"
+        },
+        {
+          "date": "2026-08-24",
+          "hoy": "La DNIT informó que recaudó USD 1.529 millones adicionales para las arcas del Estado, reforzando la tendencia de mejora en la recaudación tributaria.",
+          "fuentes": [
+            {
+              "titular": "DNIT recaudó USD 1.529 millones adicionales para arcas paraguayas - latribuna.com.py",
+              "medio": "latribuna.com.py",
+              "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdXNxZG8zRTdzdjE0OFZlSkJKVkdPUU9vUDM4LURPYmFua2xtSGNPQWFQWlB0MVgtV3FFeF9uUGlYUDM1eEdEWkNZSHVyeHFSbnFQN2YyREptZ3hUTW9pMjYtSmZmSW1fQXZhdEVzTldKaUhSSjFHSGRrMnlDb1JxcDhBZWU5XzlxYkhiUG5NSUZjdkhjdEhPcEY5TXN6X3FCYkJ2Tk1FdF9XVThaQ01aM2t3WmJNUExNRVFoeFlYSGg?oc=5"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/4FVSASM7D5E3VAHVREZZYG2V7M.jpg?smart=true&auth=f6c6ff108b4fdd7d195c96e071f95db4c014383e63ea0434cf2b05bf47ee624c&width=1200&height=630"
         }
       ]
     },
@@ -13352,11 +13550,11 @@
       ]
     },
     "credito-bancario-py": {
-      "titulo": "Préstamos y ahorros crecen con fuerza y reflejan un sistema financiero sólido",
+      "titulo": "El crédito de consumo lidera la cartera bancaria paraguaya",
       "categoria": "Economía",
       "contexto": "El sistema bancario paraguayo viene expandiendo su cartera de créditos en un contexto de crecimiento económico, aunque también se monitorea el nivel de endeudamiento de las familias y pequeñas empresas.",
       "first_seen": "2026-07-24",
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-08-24",
       "updates": [
         {
           "date": "2026-07-24",
@@ -13531,6 +13729,18 @@
             }
           ],
           "imagen": "https://perspectivas.com.py/media/fintech-pagos.jpg"
+        },
+        {
+          "date": "2026-08-24",
+          "hoy": "Se reportó que el crédito de consumo lidera la cartera bancaria total con US$ 6.020 millones, consolidándose como el segmento de mayor peso dentro del sistema financiero.",
+          "fuentes": [
+            {
+              "titular": "Crédito de consumo avanza y lidera cartera bancaria por valor de US$ 6.020 millones - abc.com.py",
+              "medio": "abc.com.py",
+              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcS1rSktYM0phU1BoVjhjNnIzTnFYTmE0ZkxCUnk3SXBmMHBJMEQ3cGM2WlEzY0E0dVlvRlpTS2l4OVNkSTJnODFrQ28wRjc3UVZUTXdrLS1lY18zVTVMR284UHRqa2wxLWxaY1BsOEgtSGJsR0h6LTRhNFJaeWxGZG1rWENPZThIQ2Y1cC1vS2l3MXhDTkRzU2wxbDI4aEVlQmpfSFlnQTljRXpIODBkLWZ0eDMyTkNqUVljN0RtYjl3SzZqZVhTYmU5TmJtajVxdVpSMWl4Zw?oc=5"
+            }
+          ],
+          "imagen": "https://www.abc.com.py/resizer/v2/ZGHRQNB6EZGMJNWGE6P37UACCY.jpg?auth=405cb2f66fc624371b4f01268c1acb096ec2c28312bc56023ae69ab9aaaea285&width=770&smart=true"
         }
       ]
     },
@@ -13751,11 +13961,11 @@
       ]
     },
     "conferencia-ejercitos-americanos": {
-      "titulo": "Paraguay recibe delegaciones militares de 21 países para Fuerzas Comando 2026",
+      "titulo": "El Comando Sur reúne fuerzas especiales de 17 países en Paraguay",
       "categoria": "Política",
       "contexto": "Paraguay participa regularmente de foros y ejercicios militares regionales como parte de su política de cooperación en materia de defensa continental.",
       "first_seen": "2026-07-24",
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-08-24",
       "updates": [
         {
           "date": "2026-07-24",
@@ -13826,6 +14036,18 @@
             }
           ],
           "imagen": "https://listindiario.com/files/main_image/uploads/2026/08/20/6a8789131f7ca.jpeg"
+        },
+        {
+          "date": "2026-08-24",
+          "hoy": "El Comando Sur de Estados Unidos convocó en Paraguay a fuerzas especiales de 17 países americanos en el marco del ejercicio Fuerzas Comando 2026.",
+          "fuentes": [
+            {
+              "titular": "El Comando Sur reúne en Paraguay a fuerzas especiales de 17 países de América - Diario Red",
+              "medio": "Diario Red",
+              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV2VDLTkxMktSQ3lCajdkWHJycEc5WkNjVXpxWnNiYl9rSXdISDloX094bmRPUklUakJULXNrdUIwNjhrQ1NNS0tyMXlXQ3g3UTFXYVFHaHNnR1pLMDQ0VExUWGtQU2dyZUhfcUJQeDZkT3AxVE14ZTd1dFY3bjRjS3A0S2hDazAtbU5VUG9GeWVWQ0N0SGFUOHN0eDZxNGN4cUtNYm5pVEFMbWNGOVAza3AwUWstZEFid1FIaWE4aHJpVE40X1d3TFVWR0NlZDZneFZGSThJY9IB3AFBVV95cUxNUTR5Z0JhWFdzQkhhcGJPQU9WeElRUkp5XzB0NjlxTTNSU2Y1SEFQUXp1dGxiSk5aaVRCRnhKREI0dC1femUzSExUNEp6amNiR2VXaENzY09QUVRiUGpZWUNWSHVOaE9leXRtZkZtQk1pdkwyeXBCcDJ0elJ2OFFjVnoxUG1vR2NzZW8taHR1eDlNbVRheHA4ZExsQ0JoZlF1c01VZVVwVUtvNmxueUs3c0RwMUlVcWQwV2dNZmpCeTQ3ZDE3OHE4aDZ6ZldFTXh2SC10bVFzNXIyZkJL?oc=5"
+            }
+          ],
+          "imagen": ""
         }
       ]
     },
@@ -15977,11 +16199,11 @@
       ]
     },
     "narcotrafico-corredor-regional": {
-      "titulo": "Cae camioneta cargada de droga en la frontera",
+      "titulo": "Hallan un cargamento de marihuana con destino a Argentina en Pilar",
       "categoria": "Otros",
-      "contexto": "Paraguay es señalado como un corredor relevante del narcotráfico regional, con la zona de frontera con Brasil como foco recurrente de operativos.",
+      "contexto": "Paraguay es señalado como un corredor relevante del narcotráfico regional, con la zona de frontera con Brasil y las rutas fluviales como foco recurrente de operativos.",
       "first_seen": "2026-07-28",
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-08-24",
       "updates": [
         {
           "date": "2026-07-28",
@@ -16178,6 +16400,18 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/AC5GMD4ARNCPLDSJ43XGNNBXFA.jpeg?auth=fea523160e6a661e9436f85c5fcd2b67df4973bb2b2dbf587b283eb4506c2676&smart=true&width=1200&height=800"
+        },
+        {
+          "date": "2026-08-24",
+          "hoy": "Un operativo en la zona de Gaboto, Pilar, permitió incautar 14 bultos de marihuana de alta calidad que estaban listos para ser enviados a Argentina.",
+          "fuentes": [
+            {
+              "titular": "En Pilar: hallan 14 bultos de marihuana que iban a Argentina en la zona de Gaboto",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/sucesos/policiales/2026/08/24/en-pilar-hallan-14-bultos-de-marihuana-que-iban-a-argentina-en-la-zona-de-gaboto/"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/JU2JMU2ERVENFFXBR5F4KILRRQ.jpeg?auth=0edf330714195c0b498e0696a42265ab20c5bcc9d7b5dfb94479a58220a07c9d&smart=true&width=1200&height=800"
         }
       ]
     },
@@ -19678,11 +19912,11 @@
       ]
     },
     "riesgo-pais-baja": {
-      "titulo": "Paraguay figura entre los países con menor deuda pública de la región",
+      "titulo": "Paraguay confirma su baja deuda pública relativa",
       "categoria": "Economía",
       "contexto": "Paraguay viene siendo destacado por organismos internacionales y calificadoras por su solidez macroeconómica, lo que se refleja favorablemente en indicadores de riesgo país y niveles de endeudamiento frente a otros países de la región.",
       "first_seen": "2026-08-06",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "updates": [
         {
           "date": "2026-08-06",
@@ -19729,6 +19963,18 @@
             }
           ],
           "imagen": "https://www.lanacion.com.py/resizer/v2/XJ6TPJJROJAPHDDH3PVDSSKR64.jpg?auth=0982e36a3d80b3484f764bb9a43a79036bd92c42278ca5b50d1e8f45740bf493&width=1024&height=512&smart=true"
+        },
+        {
+          "date": "2026-08-24",
+          "hoy": "Un nuevo reporte reafirma que Paraguay mantiene una de las deudas públicas más bajas de la región sudamericana.",
+          "fuentes": [
+            {
+              "titular": "Paraguay tiene una de las deudas públicas más bajas de la región - La Nación",
+              "medio": "La Nación",
+              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ19lMHV3MkhmV2pLQjM3RGFIVTVwZHdSRWkwTjh4bGs2bWpRZVVsNzZFOF96VjZNdkhENEg0S1d4dHV3d1l5QVdlM1R5d2E5U3lyU2tjMERoSmVaMlpoYWZBX3dHNS1rLVlpZkRGYnF1Nmh4MV9TbVNHOUZvWmZDSVZnZHlSeFFpcUtzRHZ1SmxfMjJZNkNHaEp3ZDNDenF4UlVrNFdrSk1oVXM0N2lrWVlXWVlJdEE4Ul9lUXlubUdJSFhiUFE4TA?oc=5"
+            }
+          ],
+          "imagen": "https://www.lanacion.com.py/resizer/v2/MOQB7EZIBND3DEZKYNK7OPNDPE.jpg?auth=0c85910e3f1d34ee383f79ed0366a83253139e1bed25f2274e74ca6dfaf3ba14&width=1024&height=512&smart=true"
         }
       ]
     },
@@ -19969,11 +20215,11 @@
       ]
     },
     "inversion-extranjera-sectores": {
-      "titulo": "El real estate y la industria lideran la atracción de inversión extranjera",
+      "titulo": "El Régimen de Atracción de Inversiones supera los USD 400 millones",
       "categoria": "Economía",
       "contexto": "Paraguay viene consolidándose como destino de inversión extranjera directa gracias a su estabilidad macroeconómica y régimen fiscal competitivo.",
       "first_seen": "2026-08-07",
-      "last_seen": "2026-08-13",
+      "last_seen": "2026-08-24",
       "updates": [
         {
           "date": "2026-08-07",
@@ -20086,6 +20332,18 @@
             }
           ],
           "imagen": ""
+        },
+        {
+          "date": "2026-08-24",
+          "hoy": "El Régimen de Atracción de Inversiones acumula más de USD 400 millones y creció 32% hasta julio, con 116 proyectos aprobados que generarán 2.621 nuevos empleos de forma progresiva.",
+          "fuentes": [
+            {
+              "titular": "Régimen de Atracción de Inversiones superan los USD 400 millones y crece 32% hasta julio",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/economia/regimen-atraccion-inversiones-superan-usd-400-millones-crece-32-julio-n110958"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2026/01/69626d1a7f828.jpeg"
         }
       ]
     },
@@ -21170,11 +21428,11 @@
       ]
     },
     "chia-exportacion-japon": {
-      "titulo": "Japón levanta controles reforzados sobre la chía paraguaya",
+      "titulo": "La chía paraguaya mejora sus precios de exportación",
       "categoria": "Agro",
       "contexto": "Paraguay viene diversificando su oferta agroexportadora hacia productos no tradicionales, sujetos a exigentes controles sanitarios en mercados como Japón.",
       "first_seen": "2026-08-11",
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-08-24",
       "updates": [
         {
           "date": "2026-08-11",
@@ -21223,6 +21481,18 @@
             }
           ],
           "imagen": "https://www.agrolatam.com/files/image/58/58840/680665ddf034d_600_315!.jpg?s=c02a880f65de9dde79984d0e8fb7e286&d=1751020362"
+        },
+        {
+          "date": "2026-08-24",
+          "hoy": "Se informó que la chía paraguaya mejoró sus precios y generó USD 31 millones adicionales al cierre de julio, en un contexto de mayor demanda internacional del producto.",
+          "fuentes": [
+            {
+              "titular": "Chía paraguaya mejora sus precios y genera USD 31 millones más al cierre de julio - La Nación",
+              "medio": "La Nación",
+              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOejZkNWREOXBWUXZXYlIyWDBKT2xlRmo2d3RITGlqTUFIVVMzb0gwVERURXc1TENQWXcxa01aYlQwOGFfa1RTNzhxQThkZmQ5ejZwYUxKNmdwM0M2aGdfemZJMlc0OVBUZDZOTks3Y0FfOV9fT1ptV3dUaTlEZTBXZm5DRHhvekJvd2duQ0RFQVpnYTlCTmxMdUY0aEhPSGFYNnM1aERTWlZHenNhSnRPTkVqV0hZdTVtTWVXcTJiTkg5LVd0SUE2QnN3?oc=5"
+            }
+          ],
+          "imagen": "https://www.lanacion.com.py/resizer/v2/AEXZV7VEBFHN3O6RC5U7LTIXZM.jpg?auth=4fe466f23f715f8f9f17b5b9f0547b0d07f7329503467bcfb7c76568fc990066&width=1024&height=512&smart=true"
         }
       ]
     },
@@ -22354,11 +22624,11 @@
       ]
     },
     "huelga-medicos-sinamed": {
-      "titulo": "La huelga médica se agrava y presiona al Gobierno",
+      "titulo": "Comienza la huelga médica pese a los intentos de contención del Gobierno",
       "categoria": "Otros",
       "contexto": "El sistema de salud pública paraguayo enfrenta reclamos recurrentes de sus trabajadores por salarios, insumos y contratación de especialistas, en un contexto de críticas por la calidad de la atención médica.",
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "updates": [
         {
           "date": "2026-08-15",
@@ -22410,6 +22680,23 @@
             }
           ],
           "imagen": "https://statics.elnacional.com.py/2026/08/6a89aa7c99f78.jpeg"
+        },
+        {
+          "date": "2026-08-24",
+          "hoy": "El Sindicato Nacional de Médicos inició hoy la huelga anunciada hasta el 28 de agosto ante la falta de acuerdo salarial con el Gobierno, mientras el IPS aseguró que sus servicios de consultas, cirugías e internaciones seguirán funcionando con normalidad.",
+          "fuentes": [
+            {
+              "titular": "IPS garantiza atención normal durante movilización del gremio médico",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/nacionales/ips-garantiza-atencion-normal-durante-movilizacion-gremio-medico-n110962"
+            },
+            {
+              "titular": "Sin respuestas, médicos salen a la calle y paralizan servicios desde hoy",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/nacionales/sin-respuestas-medicos-salen-calle-paralizan-servicios-hoy-n110956"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2026/06/6a3b94f09d70c.jpg"
         }
       ]
     },
@@ -22468,11 +22755,11 @@
       ]
     },
     "tragedia-pedrozo-mopc": {
-      "titulo": "Crece el cuestionamiento técnico y político por la tragedia de Pedrozo",
+      "titulo": "Persisten los cuestionamientos técnicos por la tragedia de Pedrozo",
       "categoria": "Regulación",
       "contexto": "En un punto vial ya identificado como peligroso tras una tragedia similar, el MOPC no concretó obras de mitigación pese a las advertencias. Tras un nuevo accidente fatal en Pedrozo (Ypacaraí), crecieron los cuestionamientos políticos contra la ministra de Obras Públicas.",
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "updates": [
         {
           "date": "2026-08-17",
@@ -22568,6 +22855,23 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/3YF4F6T2V5DT5CXBASLXMRS6WY.jpg?auth=1977324a64923ce2b69c6fb71ce46b9e794b3202974e5fbf4fedcea7f1125788&smart=true&width=1200&height=800"
+        },
+        {
+          "date": "2026-08-24",
+          "hoy": "Nuevos análisis técnicos remarcan que el cruce Pedrozo fue diseñado con criterios viales obsoletos y que el MOPC ignoró alertas previas, lo que derivó en otra tragedia en el lugar.",
+          "fuentes": [
+            {
+              "titular": "Cruce Pedrozo expone las fallas de una ruta diseñada con criterios del siglo pasado - El Nacional - El diario de los lectores influyentes",
+              "medio": "El Nacional - El diario de los lectores influyentes",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTXR2aU1YQUw0cjZMeWtFMl9XVHdwUnloMWdISlJqYUthN2ZSbkR5cjJYTGp1c0dvaVY1Z25BYml6M2JFRHI3eURaanZ2dm9kR25UeEpGTkxaUlM4azV6cElnQlhta0RfSFpoMjBxOWhZa2NuTVVCMzJXejh1YWJYU3NFSFN5a1hfWXNRU01ncWJiU25LTHM5TDZaVjdBWjdsQWxLZFA1RVh4eUtaaEdud3lsbjRCZ9IBtgFBVV95cUxPTXR2aU1YQUw0cjZMeWtFMl9XVHdwUnloMWdISlJqYUthN2ZSbkR5cjJYTGp1c0dvaVY1Z25BYml6M2JFRHI3eURaanZ2dm9kR25UeEpGTkxaUlM4azV6cElnQlhta0RfSFpoMjBxOWhZa2NuTVVCMzJXejh1YWJYU3NFSFN5a1hfWXNRU01ncWJiU25LTHM5TDZaVjdBWjdsQWxLZFA1RVh4eUtaaEdud3lsbjRCZw?oc=5"
+            },
+            {
+              "titular": "Trampa sobre el asfalto: el Mopc ignoró alertas y el cruce Pedrozo sumo otra tragedia",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/editorial/trampa-sobre-asfalto-mopc-ignoro-alertas-cruce-pedrozo-sumo-otra-tragedia-n110928"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2025/04/67f1810f5a2c0.webp"
         }
       ]
     },
@@ -22827,11 +23131,11 @@
       ]
     },
     "visita-principes-japon": {
-      "titulo": "Los príncipes de Japón recorren la primera colonia nipona en Paraguay",
+      "titulo": "Los príncipes de Japón visitan la colonia nipona en Paraguay",
       "categoria": "Política",
       "contexto": "Japón mantiene una relación de cooperación histórica con Paraguay, con financiamiento para infraestructura y vínculos diplomáticos de larga data; 2026 marca además 90 años de inmigración japonesa al país.",
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "updates": [
         {
           "date": "2026-08-17",
@@ -22984,6 +23288,18 @@
             }
           ],
           "imagen": "https://d3k76ktnld9l0g.cloudfront.net/wp-content/uploads/2026/08/23031549/rss-efe0221b072869c0e39eab139353d0ff3b998dc4698w.jpg"
+        },
+        {
+          "date": "2026-08-24",
+          "hoy": "Los príncipes herederos de Japón recorrieron la primera colonia japonesa establecida en Paraguay, en el marco de su gira conmemorativa por los vínculos bilaterales.",
+          "fuentes": [
+            {
+              "titular": "Príncipes herederos de Japón visitan colonia de connacionales en Paraguay - WPLG Local 10",
+              "medio": "WPLG Local 10",
+              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUng2cEN3ZXVXSWxqOFlzTXNydENZRWdLTEJESDFwdkRKcTJuOXVqeUltNDBYM3o2UHJSR051MGVPbEVRRHpNdnZGMU1ZVFBYOGEtNl9MSGlwSjZMRThLTk9id2ZUanBOclNqN2RxeU1zWWhMbmpJTkNxZTVsQlRZNmlLa1hXTFhXdFBfTTFPTjRVTDV2ZUhVVXRHV3ZMXzh5ZDJZeFBlV1dETEpGU2RZSzdEQVpfZFBC?oc=5"
+            }
+          ],
+          "imagen": "https://www.local10.com/resizer/v2/4IWJV73KOTRO4KGEGOYPA5NOVE.jpg?auth=3c3a04b0530ec09036ff5a05d3f5cd3b7e99296fb71fa6ce8911fbc6139697b7&width=700"
         }
       ]
     },
@@ -23338,11 +23654,11 @@
       ]
     },
     "inclusion-financiera-estrategia": {
-      "titulo": "Gobierno lanza Estrategia Nacional de Inclusión Financiera 2026-2031",
+      "titulo": "Avanza el debate sobre inclusión financiera en Paraguay",
       "categoria": "Economía",
       "contexto": "Paraguay viene registrando un crecimiento del endeudamiento de las familias y busca ampliar el acceso formal a servicios financieros, en un contexto de digitalización bancaria acelerada.",
       "first_seen": "2026-08-20",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-24",
       "updates": [
         {
           "date": "2026-08-20",
@@ -23375,6 +23691,18 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/4DEFRTRKHJCA7HFAL43KKL3V2M.png?smart=true&auth=78d41ae594b03d7ad9b406b409c25ee9bc1958afefd763d169ac1f849f0364a1&width=1200&height=630"
+        },
+        {
+          "date": "2026-08-24",
+          "hoy": "Un nuevo análisis repasa hacia dónde avanza la estrategia de inclusión financiera del país, en el marco del plan 2026-2031 recientemente lanzado.",
+          "fuentes": [
+            {
+              "titular": "Hacia dónde avanza la inclusión financiera en Paraguay? - marketdata.com.py",
+              "medio": "marketdata.com.py",
+              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeXd2blVZdWFRMWRGb1hDQ3dGdGllZGNVX19JNFBXQWRmSEQ2VDF5b2lfUkpLTUc0TExJbTEwYzNsZUUtQTF3TmxUcXZZU09XUDhzdWlEeEZrMGZOaVVqREFDTWNGVVdBak1mWXNJRDBqbzJMMzhPdG13bDcyZV9wRTM5SEpkZlZFSDVETlFTNDZMLXVYdVBsQnNSWG9CZkdtNnB0ejNrSk02UU5GQmEtR1Zraw?oc=5"
+            }
+          ],
+          "imagen": "https://marketdata.com.py/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-21-at-5.02.34-PM.jpeg"
         }
       ]
     },
@@ -23417,11 +23745,11 @@
       ]
     },
     "banco-atlas-fondos-publicos": {
-      "titulo": "El caso Banco Atlas suma ramificaciones internacionales",
+      "titulo": "Nuevos detalles sobre inmuebles y fondos bajo investigación en el caso Banco Atlas",
       "categoria": "Regulación",
       "contexto": "El sistema financiero paraguayo enfrenta un mayor escrutinio sobre el manejo de fondos públicos por parte de entidades privadas, en medio de investigaciones judiciales por presunto lavado de dinero vinculadas al Banco Atlas y a exdirigentes de Conmebol.",
       "first_seen": "2026-08-20",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "updates": [
         {
           "date": "2026-08-20",
@@ -23463,6 +23791,18 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/QZZZYMSCIJAZRLI7DKEFHMHKT4.jpg?auth=5097fa537ac941968852ee1732a95103f8d7ebc793e2fc771f954767a5aa96c1&smart=true&width=1200&height=800"
+        },
+        {
+          "date": "2026-08-24",
+          "hoy": "Trascendió que Banco Atlas administró un fideicomiso que incorporó siete inmuebles vinculados a Matrix Realty y al operador financiero Darío Messer, por un valor de USD 1,27 millones, ahora bajo investigación.",
+          "fuentes": [
+            {
+              "titular": "Banco Atlas: siete inmuebles y USD 1,27 millones, bajo la lupa",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/negocios/economia/2026/08/24/banco-atlas-siete-inmuebles-y-usd-127-millones-bajo-lupa/"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/KTQ23NXJJVDYBOZAEBHBW7WNAQ.jpg?auth=6a740a6cd43e2c313565bc3dfcf6e86abb9e23266fac74dc498ae95c1576df61&smart=true&width=1200&height=800"
         }
       ]
     },
@@ -23604,11 +23944,11 @@
       ]
     },
     "defensa-radares-tucanos": {
-      "titulo": "Paraguay completa su flota de aviones Super Tucano",
+      "titulo": "Paraguay recibe su quinto Super Tucano y explora aviones a reacción",
       "categoria": "Política",
       "contexto": "Paraguay viene modernizando su capacidad de defensa aérea para combatir vuelos ilícitos vinculados al narcotráfico en su espacio aéreo, en cooperación regional.",
       "first_seen": "2026-08-21",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-24",
       "updates": [
         {
           "date": "2026-08-21",
@@ -23653,6 +23993,18 @@
             }
           ],
           "imagen": "https://img.lalr.co/cms/2026/08/21101845/Fuerza-Aerea-de-Paraguay.jpg?size=xl&ratio=r40_21"
+        },
+        {
+          "date": "2026-08-24",
+          "hoy": "Paraguay recibió su quinto avión A-29 Super Tucano y avanza en conversaciones con Taiwán para adquirir aeronaves a reacción, ampliando su flota de defensa aérea.",
+          "fuentes": [
+            {
+              "titular": "Paraguay recibe su quinto A-29 Super Tucano y busca aeronaves a reacción en Taiwán - Infodefensa",
+              "medio": "Infodefensa",
+              "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX0VYd3NSNTBvcWpjS0sxYnNyOVFQdURKc2hPSXZ3Tm1TMF9WcUM1NWNhdTUzbWF2RHN0V2VsTGU4dkdxWnE3SHZkbm9oelhPYWRUbWZ0NUNFclNBZmJBLWIyZ1QwV2NZc2liVGd5enZQclFrMnZoOUxSTlJ1T0EtM1QyVzViOHNxRHRUbkJJNVNMcXRaaG1Bb3NwMnEyc1J6R2QwNFBmX1VyT0hPT2RnZm56NmFpeURPc1FhYVlTZ1lWc1pJTzZfb3NiX2pRcUgzRmxz?oc=5"
+            }
+          ],
+          "imagen": "https://www.infodefensa.com/images/showid/8110391"
         }
       ]
     },
@@ -23889,11 +24241,11 @@
       ]
     },
     "tierra-crimen-organizado-campesino": {
-      "titulo": "La lucha por la tierra en Paraguay se vincula al crimen organizado",
+      "titulo": "Continúa el debate sobre tierra y crimen organizado en el campo",
       "categoria": "Política",
       "contexto": "Los conflictos por la tenencia de tierra en el ámbito rural paraguayo tienen raíces históricas ligadas a la reforma agraria pendiente y, según referentes campesinos, se entrelazan cada vez más con estructuras de crimen organizado.",
       "first_seen": "2026-08-23",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "updates": [
         {
           "date": "2026-08-23",
@@ -23908,6 +24260,18 @@
               "titular": "\"Todas las reivindicaciones ganadas con el gobierno popular de Lugo se liquidaron en una semana\": entrevista a Elvio Benítez (I) - Diario Red",
               "medio": "Diario Red",
               "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRmx6ZWFOLVdnTHVYMzlvTmtsTlNaaFhwODJocEtzUlMyR1FyaGJYdVNZZm9GbnVTcWJOUDZMV2tfcFRMRU05ZHhmajFGc3JRVlBjcWkza08zSkNuWmRZVUJlSDNnUHdWLTU2RjFUa2lyYlNjcnY5ZWpvVTUybW1SWElfeE1xY0N3cG54Z3FNNFJYR1JlQmRJdDYtQkxyajQ1ejZMSmlreWVZTXE0NHJ6ZUZxVmtpZWlaNEo1blNQYlhkOTFCdVlRT3dVd3h4ZjY3YTJBbHhWYUtwWjZyRmFvZ1hOWWhtWWZzbjBUY0I3Z1Z6VXlJWk40b0E4akhOVUFtbk8tTtIBigJBVV95cUxPZmx5RF9kdE15Nnc3MGRkakNjT1oyZHV3Um1ZUG1aWks4OE4tYXRuZndxZEZHMWMyVDBYM0dUTGloTVRQcmlNRVZNN1JDV1M0X1pjRWhoMUNmVm4yVUpzcEQyTHhONUdOT3U5MVBDUWhaU3pFVFBQRloxUFVTN1lVMmpwTFFUOUIzSVZEWnFYOFhkMWZoS1NMU3QwcDhWVlJRSHFVeDJlcTRUcmlBa24yN1psMldKTkFuNk5zREloUHlIc2VFRnFxX29UNFRwOXhqSGY2cHB3OHV0UWdZS1ctZFdITlhnOV94dHFBbW5yeXRodlpJVDAyTEREaDJZeWhlY29QNWt5OWFTZw?oc=5"
+            }
+          ],
+          "imagen": ""
+        },
+        {
+          "date": "2026-08-24",
+          "hoy": "Se publicó la segunda parte de una entrevista al dirigente Elvio Benítez, quien profundiza en cómo la lucha por la tierra en Paraguay implica hoy una confrontación directa con el crimen organizado.",
+          "fuentes": [
+            {
+              "titular": "\"La lucha por la tierra en Paraguay es una confrontación directa con el crimen organizado\": entrevista a Elvio Benítez (II) - Diario Red",
+              "medio": "Diario Red",
+              "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaV9uMTZiSTFCNVZXUkNIVjZIdmhZTWhjVUt3NnAzd2dRQlJVZlhlZmpDQzdpUGtDMjlSNjdDMTB2U09mN2xmWnRtamJuRHpER3gwYi1TYUxvdEltQ1RoemxWV1lxRzZBTDJ4ZnJRZGtXc3RuZFRyX0dsZTI3YTNXcnlwc1dhX1hwdzlsODVsN2ZXc2t5eTY1ZHBheEFBMGNHV0FFUDRwbGhWWk9mY3V0UzFHQ2Q0ZmdBb1h1eUxSRWdhbXZteWtnN0tDbFZYTDFRNUpRa1ZZek1ENWNNZVJRbU04NlZvdU0wc09MSXZoTHpKR2IwdnI5QXpqZjB5Z9IBgwJBVV95cUxPemI4V0FCc0V0Tmk0ODdXYjlXUnpYVm5STFZrMXNRRnVpSTJkaU5jN3MxbEhVMEY5TEJJSFgtS1RmMFR0MXFxUE5UM0ViUmMxanpYRHRURlIzRURoZ1o2dG4teDI4bkttY054MkhRMjA5UUFPZDBBak9IYjJlcXowT19wMENlYm1qTjc1cVF0dzA5M195M2h6OXBKV0ZRWFFtXzJvWW5yNTNXanJKSGVzT2hpaEs5VkFveWJQSEhPZENzZmlEVFhuNXdFX2J5UlpXb0c1dDhnV1FUZHFhTXdBSnk1LWEyY0Q3US1QSmI1RzdReUJaak1rTjZSNXVjLV9oTFpz?oc=5"
             }
           ],
           "imagen": ""
@@ -23979,6 +24343,152 @@
             }
           ],
           "imagen": "https://statics.elnacional.com.py/2026/03/69c30249f3865.jpg"
+        }
+      ]
+    },
+    "asaltos-dnit-cde": {
+      "titulo": "Ola de asaltos a funcionarios de la DNIT en Ciudad del Este",
+      "categoria": "Otros",
+      "contexto": "Ciudad del Este es una zona con alta incidencia de crimen organizado, y sus funcionarios de instituciones recaudadoras han sido blanco recurrente de hechos delictivos vinculados a su función.",
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "updates": [
+        {
+          "date": "2026-08-24",
+          "hoy": "Una funcionaria de la DNIT fue asaltada en su vivienda y el vehículo usado en el golpe fue incendiado, en medio de una alerta institucional por una ola de asaltos a personal de la DNIT y Aduanas en Ciudad del Este.",
+          "fuentes": [
+            {
+              "titular": "Asaltan a funcionaria de DNIT en su vivienda y queman vehículo utilizado en el golpe - Diario HOY – En Paraguay y el Mundo",
+              "medio": "Diario HOY – En Paraguay y el Mundo",
+              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSTJuMENBYUhPQnBKOG8yNF9HbV9GblFsZGJUdnBjazJmbTYzUnJCZENGOFdTd1BibEg3b0ViU2xqdGlydENkeDM2Y0JnZEZ6QXJOV3JFS0RtNEo2dnFjVk1kNzdvNUhhaGNKa0hValhUcWZUSjVlclJ5Q1NsdzdvaGZZYklUd3VUR0thRG92WU9GLWh5VVFleExSR0p2NUJqVDZxOWVBY18tUnhPSVpFU3dIWmE0QmFIU1lFNzFTd2RHeGpOM3dMbw?oc=5"
+            },
+            {
+              "titular": "Alerta en la DNIT y Aduanas por la ola de asaltos a sus funcionarios en CDE - La Política Online",
+              "medio": "La Política Online",
+              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLUdCdlZvRkxBbnJyYklpTU5xQ1RudHFOOTFkRkgzZldDc0xIMkd0dXJ0Q0VHbEcybEZ0aWhiRXRVMXg0SXZpWFd4TDNlNkRxTXZuN2VJQkg1cE5sLUdSOGhOZ2RseUM2UFlIRVFzUGN6elRPZFRHWDFuUHljTzdGcnhFNE5HQUNOMXc3U2RsZzZWSjAwTFJUcm9GdjRGY1d3NnZ2WFhrRDcyLUd4cXlMQ2NzR2x0WFJQMTBuLQ?oc=5"
+            }
+          ],
+          "imagen": "https://www.lanacion.com.py/resizer/v2/HSSBXMS7YZDA7DZTIDYFCOIYAU.jpg?auth=29a78b495fc805d4c15fe8d58d4e294504c690b446f5bc9b3f562e0707dbd730&width=1200&height=630&smart=true"
+        }
+      ]
+    },
+    "puertos-paraguay-comercio": {
+      "titulo": "Los 45 puertos paraguayos mueven USD 24.000 millones al año",
+      "categoria": "Economía",
+      "contexto": "Pese a no tener salida al mar, Paraguay depende fuertemente de su red fluvial de puertos sobre los ríos Paraguay y Paraná para su comercio exterior, especialmente para la exportación de granos.",
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "updates": [
+        {
+          "date": "2026-08-24",
+          "hoy": "Un informe destaca que el país cuenta con 45 puertos que movilizan cerca de USD 24.000 millones anuales, subrayando el peso estratégico de esta infraestructura fluvial para la economía.",
+          "fuentes": [
+            {
+              "titular": "Paraguay sin mar, pero con 45 puertos que mueven cerca de US$ 24.000 millones anuales - abc.com.py",
+              "medio": "abc.com.py",
+              "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYzRIRzRFTTNJMVliUGk2emdvY1ByNmljeGNZQVpOby1WSWQ1d1lRYnMwNlA4enZPVjVjeGpHeVc2ekoyWVB2NU1Cd2JkTnJsSmFTZEcyMXd5YkZhTE1nWVFkSlNFSXlVVzJjVGlBTFc1STJRaHJjdldQbG5fM3FTTF9Tb2lRYTJ6cUNYaVl0eWN2NHIwOEM3WE5sNk1KamUwSVBjanZJYUt5a2xtYlg4NE9UOU4zRXVpNFhYTGhxeDZVNHhJ0gHYAUFVX3lxTFAxeTg0ZmhJMFdEcW5UTDJwUDFfT3pDQmt0UW1DYUNPc1l0bEEyV0JPWEZkZFdremY4QVh3YXFnR2M4S056TnVDaTItWnFtTnVCb0FnRU5nWGpIQlNlRXQ4RXM4RHk3NnlIM0QxRV9ISmtjOG1fbFc3Zm9OeldFcGRnVHBSWEFJeGcya1NZQkcxNFA1ekF2ZVdMUTJRSURCQVh5S0tNYlc3TS1VLUpkXzNqQ0VPQlhTVUV5M29RMnpyc2kxUWVEbG1KZldXSV9MTWdsNlU0RHlEQw?oc=5"
+            }
+          ],
+          "imagen": "https://www.abc.com.py/resizer/v2/IC4RCTAVZBDKDLN7A5X25JMXHY.jpg?auth=fcfef0886d0fe289de14f05c61ff64035fdb1940de5cf9f66bed392881e5debd&width=770&smart=true"
+        }
+      ]
+    },
+    "mercosur-integracion-desafios": {
+      "titulo": "El canciller reconoce desafíos pendientes en la integración del Mercosur",
+      "categoria": "Economía",
+      "contexto": "El Mercosur, bloque del que Paraguay es miembro pleno, enfrenta dificultades estructurales para avanzar hacia un mercado común plenamente integrado, en medio de negociaciones comerciales externas en curso.",
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "updates": [
+        {
+          "date": "2026-08-24",
+          "hoy": "El canciller paraguayo señaló que el bloque aún enfrenta obstáculos importantes para la integración económica, en momentos en que Paraguay busca capitalizar su creciente protagonismo internacional en desarrollo concreto.",
+          "fuentes": [
+            {
+              "titular": "Mercosur se enfrenta a numerosos obstáculos para la construcción de un mercado común. - Vietnam.vn",
+              "medio": "Vietnam.vn",
+              "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQkJnRVE1YlNkLVVzSk5qSEZwWS0xanVfUVNqSUxOMEFrbVU2OWZRdnZzOU95UUdXMnBucFViVlJGcUd3VHo3aGNwMGtDdkhtOTNhYnNXbjhIV3ktY2duMGpUYUI0WUpMV1RVTEY4V3JvYkNhbnM0ODB0QU1TZnNVLWpXU3gxMUdKUlQ2Yk9nakhSSDQ?oc=5"
+            },
+            {
+              "titular": "El canciller paraguayo dice que el Mercosur aún tiene desafíos en integración económica - Infobae",
+              "medio": "Infobae",
+              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSzNGWFpsd3lrWVVCaEkycDJGV3Q2ajk3blF6WkVxWDdRTGtzNVpaTHhXZk01V2NOcWpMWTVEdmpfcjZ4Q0syNDd0TEtUODNnajd0cGJjX1pLSHJKWmV1MDYzT0ZhZmU5MVp4M19RYVVab2ZkamVfZ0pxMnNMdzNkY1lWSksxT050VFRkcVR4WkhnaGtzc3hpZ3dYWkNLNlJtWExoaFhvdlNnbURueUltajcwVnVqWlctaDdjSjBucjY0bE0xckwzOVNoY2Z2dEt4bTFiWE4xb9IB8gFBVV95cUxPbUppaFk5aG95RFpuSXFmb3hFMTEtUGhRMDN2NXpVUjMtR1RoOGR3ZThPZWZ3RHRJVXFXc2dHUWtHUzI5VEFZOGVMMGtFVVpkeUVoNTNxcFFHZG03R2hLeDVsTjIxRkYxQTlYWFBXaU9NQXpiTlJqdTdCcHpRY3BOTG1OLXo5Z2xKamZRYTRfekNRYk5FdTZkMXc0R2pyRUNxUWVMemo0VWxKaVpYNHQ2aHNQQTEtUVBDMGtGSzQtaEtrUmtmYjlRdXNfbVE5NnJvWFFVN1lQeG1EYzl0elF6VGlQd1VGSFcySVk5T29GM2RWZw?oc=5"
+            },
+            {
+              "titular": "Paraguay gana protagonismo internacional y busca traducirlo en desarrollo, destaca canciller - La Nación",
+              "medio": "La Nación",
+              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVEdycHNiSVRZN0FqQzl2alpZd0o4c2dTVU0yZHJqTnMtTU8yRU9FVXpUMTJyMHc5empGV005TVB0WGdHM0JvcHFodzVTclMtV0dVRDZQdW9QWDBDUjd3bTc4YUdQSTlXUDVCRThXVE9nLW5ZR1B2Qk55UzExVzV5RE1BVDJ3NjJpbFM1OUphbkoxWkY2R1dOMThraUVYQ0pfNTJzT2EyZ0VrZ3NOYUVFZ0QxaHpQNWJ6V3k3UG1CQVFNemdmSElYb2FjZE45Qk9TQjZYOXM1Yw?oc=5"
+            }
+          ],
+          "imagen": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/08/24/1787534826066_ttxvn-eu-va-mercosur-ky-ket-hiep-dinh-doi-tac-lich-su-8536552-jpg.webp"
+        }
+      ]
+    },
+    "padel-mundial-clasificacion": {
+      "titulo": "Paraguay clasifica en ambas ramas al Mundial de pádel de Catar",
+      "categoria": "Deportes",
+      "contexto": "El pádel paraguayo viene ganando terreno competitivo a nivel sudamericano, con selecciones que buscan consolidarse en el circuito internacional.",
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "updates": [
+        {
+          "date": "2026-08-24",
+          "hoy": "Las selecciones masculina y femenina de pádel de Paraguay lograron la clasificación al Mundial de la disciplina que se disputará en Doha, Catar.",
+          "fuentes": [
+            {
+              "titular": "Qué fiesta en Asunción: Paraguay logra la doble clasificación. La selección femenina de Chile también obtiene el pase a Doha - International Padel Federation",
+              "medio": "International Padel Federation",
+              "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVHhDbG13UHJUUzAyWV83ME1ESEo5dmNZN2F5bzctdk5WdjVsRURCeXZQSmk2THJQbFlxeFFiZVY3Qkkzc05YczBmMGt2MThVejJ1ek55TnZGdVNxSU1mVVpkMlhkY0l6S3NXc0JxczNaVkhfSnRFelZUVHVrVmtJTnBtNGY1NDFoZDN2dEtyNXRPcTBCOVhBUV9nbEptdGdTNE5QcVYzYU9yU0pRUzcyU3ZtNlZnT2EzeUtCelVpY0lWeVBhLXhNWllFdm1DV184d2g5cDBKREJCYVF2UzlENTY1WHRTUk9aU3hLVkJpcE4?oc=5"
+            },
+            {
+              "titular": "Paraguay clasificó en ambas ramas al Mundial de pádel de Catar - latribuna.com.py",
+              "medio": "latribuna.com.py",
+              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVDlpQVBGQy0xMlBxZ2U0cjhtRUUyVXhZeXJSOTh4d1N6SWp2aDBGTlctSzV4aGpNVUkwaW9aNW9nQXhNOWZMbUNQejh0aXE2am5WaWh0MG9lR3ZEVGZ1OFlkREhKeTM2eFNvY2VCaHJPdGQ5SHVRbkNfRVgya3JNTUZFbXlGZnJkYk8zOG1UQjB2NHFuV1VmbXhfT3Q5YTJid1FpTFVXcngtZVFEUU80SUhR?oc=5"
+            }
+          ],
+          "imagen": "https://www.padelfip.com/wp-content/uploads/2026/08/Abud-Qualifiers.jpg-1.jpeg"
+        }
+      ]
+    },
+    "ia-sector-financiero": {
+      "titulo": "La inteligencia artificial se vuelve clave para captar clientes en el sector financiero",
+      "categoria": "Economía",
+      "contexto": "El sistema financiero paraguayo viene digitalizándose aceleradamente, incorporando nuevas tecnologías para mejorar sus plataformas y estrategias comerciales.",
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "updates": [
+        {
+          "date": "2026-08-24",
+          "hoy": "Entidades financieras y empresas de servicios en Paraguay comienzan a usar inteligencia artificial para identificar clientes de mayor potencial, optimizar costos y personalizar ofertas comerciales.",
+          "fuentes": [
+            {
+              "titular": "La inteligencia artificial se convierte en el nuevo motor de captación de clientes",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/economia/la-inteligencia-artificial-convierte-nuevo-motor-captacion-clientes-n110908"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2026/02/6998cb11278f4.jpg"
+        }
+      ]
+    },
+    "transferencias-gobernaciones-mef": {
+      "titulo": "El MEF transfirió más de G. 2 billones a gobernaciones y municipios",
+      "categoria": "Economía",
+      "contexto": "El Ministerio de Economía y Finanzas distribuye periódicamente recursos a los gobiernos subnacionales paraguayos como parte del esquema de coparticipación fiscal.",
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "updates": [
+        {
+          "date": "2026-08-24",
+          "hoy": "Entre enero y julio, el MEF transfirió más de G. 2 billones a gobernaciones y municipalidades, según el reporte oficial de la Dirección General de Descentralización Municipal.",
+          "fuentes": [
+            {
+              "titular": "Más de G. 2 billones fueron transferidos a las gobernaciones y municipios en 7 meses",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/negocios/economia/2026/08/24/mas-de-g-2-billones-fueron-transferidos-a-las-gobernaciones-y-municipios-en-7-meses/"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/5UF7XUBISVBDNGSZOYQUQR5SGI.jpg?auth=cedd08943b0ed90d3de15593e8819f01bf9e0f8f3fbee32f7962dc3abcbd4d35&smart=true&width=1200&height=800"
         }
       ]
     }
