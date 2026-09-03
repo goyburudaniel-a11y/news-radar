@@ -3398,11 +3398,11 @@
       ]
     },
     "cambios-entrenadores-liga": {
-      "titulo": "Arce afronta su primer gran examen ante Olimpia en el clásico de Sajonia",
+      "titulo": "Empate en el clásico de Sajonia entre Olimpia y Guaraní",
       "categoria": "Deportes",
       "contexto": "Francisco Arce fue presentado como nuevo entrenador de Guaraní, en el marco del recambio permanente de entrenadores en la liga local.",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-03",
       "updates": [
         {
           "date": "2026-07-15",
@@ -3752,6 +3752,28 @@
             }
           ],
           "imagen": "https://versuspy2.fra1.cdn.digitaloceanspaces.com/versus/wp-content/uploads/2026/09/02080551/536268891_1342653504527128_6244418062592712805_n-1024x671.jpg"
+        },
+        {
+          "date": "2026-09-03",
+          "hoy": "Olimpia y Guaraní igualaron 1-1 en un nuevo clásico de Sajonia por la octava fecha del Torneo Clausura, resultado que no conforma a ninguno de los dos grandes.",
+          "fuentes": [
+            {
+              "titular": "Paridad que no ayuda al Decano ni al Cacique",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/deportes/2026/09/03/paridad-que-no-ayuda-al-decano-ni-al-cacique/"
+            },
+            {
+              "titular": "Se reparten puntos en el clásico añejo",
+              "medio": "APF",
+              "url": "https://www.apf.org.py/noticias/se-reparten-puntos-en-el-clasico-anejo"
+            },
+            {
+              "titular": "Sajonia recibe al añejo clásico",
+              "medio": "APF",
+              "url": "https://www.apf.org.py/noticias/sajonia-recibe-al-anejo-clasico"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/GDNSBNTYDFGE7F5KM7RPO433YY.jpg?auth=6bfbf3fcc64a724405e1af481d093a3f8b45ec5c7a71edda51b9e11c11033853&smart=true&width=1200&height=800"
         }
       ]
     },
@@ -5938,11 +5960,11 @@
       ]
     },
     "campana-electoral-municipal": {
-      "titulo": "El debate electoral municipal gira hacia menos tasas y más empleo",
+      "titulo": "El oficialismo colorado ajusta su estrategia rumbo a las municipales",
       "categoria": "Política",
-      "contexto": "Paraguay se prepara para elecciones municipales el 4 de octubre, con partidos definiendo alianzas, candidaturas y financiamiento de cara a la disputa por intendencias en todo el país, en un contexto de crisis financiera de la Municipalidad de Asunción.",
+      "contexto": "Paraguay se prepara para elecciones municipales el 4 de octubre, con partidos definiendo alianzas, candidaturas y financiamiento de cara a la disputa por intendencias en todo el país.",
       "first_seen": "2026-07-16",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-09-03",
       "updates": [
         {
           "date": "2026-07-16",
@@ -6217,6 +6239,18 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/BFLYKLAUNBEHXAD6GN4RTQEH4I.png?auth=0a81810ebfb1c5c5b02a46da9a60d8be38b897d794aa3199d8166b5c084fbf92&smart=true&width=1200&height=800"
+        },
+        {
+          "date": "2026-09-03",
+          "hoy": "El sector oficialista colorado profundizó el alineamiento interno de sus fuerzas de cara a los comicios del 4 de octubre.",
+          "fuentes": [
+            {
+              "titular": "Oficialismo colorado alinea fuerzas de cara a comicios del 4 de octubre - latribuna.com.py",
+              "medio": "latribuna.com.py",
+              "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTGxaS0pfUGUzVExhQmJvenBOSVN5TExiTzJtc1Z3bUxaUE5oTWpEQkZwd3hJT3JEdXJGUllCckJnRVZpVW9pVGpfMFIzNDczbjFfcG5QMXpaamZLNld5Z1FGcThZYUlWTUhJdmswMDZVOXpTSGF5dW5LWFlPNjBuWGxaM3J5WFVmOURyNWdoWjNLY1V5dFJ4VkoyMHppd21TVndveTBlSEs5eXlvT3ZrQkNEM0tpejYtei04aWRn?oc=5"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/WSZ4LOVATNBJ7IS6INSBPZMHY4.jpg?smart=true&auth=398d628dede6d571ebee202b9402eac20eb196106ab458ba7410a90b2e34c024&width=1200&height=630"
         }
       ]
     },
@@ -6242,11 +6276,11 @@
       ]
     },
     "rally-mundial-paraguay": {
-      "titulo": "El Rally Mundial deja un fuerte impacto económico en Itapúa",
+      "titulo": "El Rally Mundial impulsa también la promoción inmobiliaria en Itapúa",
       "categoria": "Deportes",
       "contexto": "Paraguay es sede de una fecha del Campeonato Mundial de Rally (WRC), un evento que genera fuerte impacto turístico y económico en el interior del país, particularmente en Itapúa.",
       "first_seen": "2026-07-17",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-03",
       "updates": [
         {
           "date": "2026-07-17",
@@ -6789,15 +6823,27 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/LZKR7BEKQBDGFGQJCGWCOVP7NA.jpg?auth=6e8dc05d6fc4c38dece5055717c7ecb848efa418f4189ad4d8c44c243f5bcf97&smart=true&width=1200&height=800"
+        },
+        {
+          "date": "2026-09-03",
+          "hoy": "El desarrollo Península Country aprovechó la visibilidad del Rally del Paraguay para promocionar su proyecto inmobiliario frente al río Paraná, mostrando cómo el evento sigue generando derrames económicos más allá del turismo.",
+          "fuentes": [
+            {
+              "titular": "Península Country aprovechó el Rally del Paraguay para mostrar su apuesta inmobiliaria frente al Paraná - economis.com.ar",
+              "medio": "economis.com.ar",
+              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQVpXTnoydkhoeHBINzNzTUI4THNEMS14MDN0a1gtN01pZ2s3Tzd6bzhKQ3ZtOUhka3ZjbnRRNVhpMFR4blNhOXA0QnBYWFgtc3ROLTNVQk9jSTBNY0tyVkxQcU1GdkdQMnZwRmdWalJaZS12S2s1V1Bad0FHeHN6MVplazBaSGtuREpLZ0ZNbmpVRGpl?oc=5"
+            }
+          ],
+          "imagen": "https://economis.com.ar/wp-content/uploads/2026/09/0052ebef-052d-445a-8192-90158c6a3fb2.webp"
         }
       ]
     },
     "deficit-habitacional-py": {
-      "titulo": "El crédito para vivienda crece pese a que el déficit es mayormente cualitativo",
+      "titulo": "Mejora la confianza crediticia para acceder a vivienda",
       "categoria": "Inmobiliario",
       "contexto": "El acceso a vivienda formal sigue siendo un desafío estructural en Paraguay, vinculado a la informalidad urbana y las limitaciones de financiamiento para sectores de menores ingresos.",
       "first_seen": "2026-07-17",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-09-03",
       "updates": [
         {
           "date": "2026-07-17",
@@ -6858,6 +6904,18 @@
             }
           ],
           "imagen": "https://www.abc.com.py/resizer/v2/KRDBH7OX4NDO7C7LDFO5TRB6OQ.jpg?auth=3e90b90f3c194445f7a02b993ddf0b5f6d00e0b29bd6b892b80f1a539ae17e3c&width=770&smart=true"
+        },
+        {
+          "date": "2026-09-03",
+          "hoy": "Un relevamiento de El Inmobiliario mostró que crece la predisposición a comprar vivienda y mejora la confianza crediticia, aunque persisten la burocracia y las trabas de aprobación, mientras las tasas bancarias en guaraníes se mantienen estables respecto al año pasado.",
+          "fuentes": [
+            {
+              "titular": "Crece la Predisposición a Comprar Vivienda y Mejora la Confianza Crediticia, mientras las Tasas Bancarias se Mantienen Estables",
+              "medio": "El Inmobiliario",
+              "url": "https://www.elinmobiliario.com.py/post/crece-la-predisposici%C3%B3n-a-comprar-vivienda-y-mejora-la-confianza-crediticia-mientras-las-tasas-banc"
+            }
+          ],
+          "imagen": "https://static.wixstatic.com/media/66d91e_a5b9eddc5c0248a6aad8a9699ee2069f~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png"
         }
       ]
     },
@@ -8952,11 +9010,11 @@
       ]
     },
     "itaipu-yacyreta-ingresos": {
-      "titulo": "Paraguay busca un acuerdo tarifario de largo plazo en Itaipú",
+      "titulo": "Se destacan los beneficios históricos de la relación binacional con Brasil",
       "categoria": "Economía",
       "contexto": "Itaipú y Yacyretá son las grandes binacionales hidroeléctricas de Paraguay, cuyos ingresos y producción representan una fuente clave de recursos para el país.",
       "first_seen": "2026-07-18",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-03",
       "updates": [
         {
           "date": "2026-07-18",
@@ -9100,6 +9158,18 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/RB2O27A5N5HMHJDD522CH5BSZQ.jpeg?auth=13c689988e74f146167de9fd74d0c3a5abfd1528f99498c788ee2129aa212816&smart=true&width=1200&height=800"
+        },
+        {
+          "date": "2026-09-03",
+          "hoy": "Un exdirector paraguayo de Yacyretá resaltó los beneficios históricos que la relación bilateral con Brasil aportó al país, en medio de las negociaciones tarifarias en curso con Itaipú.",
+          "fuentes": [
+            {
+              "titular": "Exdirector de Yacyretá destaca beneficios históricos de la relación Paraguay-Brasil - latribuna.com.py",
+              "medio": "latribuna.com.py",
+              "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWFVnaTN2YjU0b0xMbXI3ZFFOdlBzY1cyT1lYX0VBSzNhSXhhb2hLeGVDM0ZOOUpnQjhfbnpRT1U1bDFWdlZlcVE5UEJBTzh3dDNQRWdBcTdKa1Rtd1k3SkpJa2p6VjNySm80c3BJaE9TNUt6NmhoaFF0dmpDTW16VTl3aHU2SzhOX0E5dUo4T3ppbTBJZ3RvZTRGY1JYRHRCRjZCODJLSi1jUlViNTQwamx2R0p4VHE2SG4xcG5mdU5GTERseV9EbTZua2RXTXVMeWRnM3lKZzhmZjg?oc=5"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/F55AH3KPH5AFVBYRY67TMM5IKE.jpeg?smart=true&auth=f7aecb1d1161bbdf745320187b79a95de03f464c125c7c3e52d41ad8b718a2f6&width=1200&height=630"
         }
       ]
     },
@@ -10175,11 +10245,11 @@
       ]
     },
     "fortaleza-guarani-dolar": {
-      "titulo": "La banca advierte que la caída del dólar empieza a golpear las inversiones",
+      "titulo": "El dólar sigue mostrando la fortaleza del guaraní",
       "categoria": "Economía",
       "contexto": "El guaraní viene mostrando fortaleza relativa frente al dólar en un contexto de solidez macroeconómica y superávit comercial sostenido, lo que empieza a golpear a los exportadores y a la recaudación aduanera.",
       "first_seen": "2026-07-19",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-03",
       "updates": [
         {
           "date": "2026-07-19",
@@ -10903,6 +10973,18 @@
             }
           ],
           "imagen": "https://www.clarin.com/img/2020/04/23/UIgMX6Usc_1256x620__1.jpg"
+        },
+        {
+          "date": "2026-09-03",
+          "hoy": "Se actualizó la cotización diaria del dólar en Paraguay, que continúa reflejando la tendencia de fortaleza cambiaria del guaraní.",
+          "fuentes": [
+            {
+              "titular": "Dólar hoy en Paraguay: precio y cotización de la divisa este jueves 3 de septiembre de 2026 - clarin.com",
+              "medio": "clarin.com",
+              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUUJmSm80Nk5hY0tRc29KSTN5YzhyR0l6czd2UWpXc1ZaQmlSWW04MXBWRGpnc2N5bXV6UDFhZVJSMncxX2RZdE55MUNyek5FeDZULWRkSFN0QXBmRlpPSVQ4VFBXejJOU0czTXJhV0dUT0VDdTFDb2ZvVDRHbFRWUHRYaE9xR3NrdGNoaEttYTdtS2RfUVBGMUMtcFdiTHY0T1FTRW9YOUpHYjlaUkdNRnBTODNEMk5QTXlCMGstRFFzU21Va1pwN09WLXBRV2xrRkJSSFFrY9IB3AFBVV95cUxOSWhWUXpnYkpoMm9lN2diSFI3OFEyQ2FkUWNLb1hLV3JlVWRiRG5OTUg5RzZlZlZVcDkxcHpDSno0NlhBRkFsU0ZjanN6ZU82a3hSdExseGtZNFBoZWt4N3BhcFRDTVg3WEdqM0J3NnlSejhNSWg2djlGdG5HUktNd1BtRENKTjFDSlBnaVMtQ2cyeklYWl80TkpnT2VQV0tiQ0ZLU3Jqc3RhVUJ4TjJCZ1daWU9xak51RXZEQWNETUZZTEQ1ekFzWXVJZWN4eVNQZThpenlaU3BQbkRE?oc=5"
+            }
+          ],
+          "imagen": "https://www.clarin.com/img/2020/02/03/XTufI4c7_1256x620__1.jpg"
         }
       ]
     },
@@ -10981,11 +11063,11 @@
       ]
     },
     "carne-exportacion-nuevos-mercados": {
-      "titulo": "Paraguay y EE.UU. profundizan la cooperación sanitaria cárnica",
+      "titulo": "Paraguay busca capitalizar la salida de Brasil del mercado cárnico europeo",
       "categoria": "Agro",
       "contexto": "Paraguay es uno de los principales exportadores de carne bovina de la región, y viene gestionando la apertura y sostenimiento de nuevos mercados de exportación.",
       "first_seen": "2026-07-20",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-09-03",
       "updates": [
         {
           "date": "2026-07-20",
@@ -11383,6 +11465,23 @@
             }
           ],
           "imagen": "https://www.lanacion.com.py/resizer/v2/LXJAFZMOHRFH5C2SYVQ5X3C6D4.jpg?auth=4654ae6a102a959a2e12496a9e400c2b67a4a2216326409327ce621be185b915&width=1024&height=512&smart=true"
+        },
+        {
+          "date": "2026-09-03",
+          "hoy": "La faena bovina paraguaya cayó 17% en agosto, pero se abrió una oportunidad comercial: la suspensión sanitaria que deja temporalmente a Brasil fuera del mercado europeo permitiría a Paraguay capturar hasta el 25% del cupo cárnico que el Mercosur negoció con la UE.",
+          "fuentes": [
+            {
+              "titular": "La faena bovina en Paraguay cayó 17% en el mes de agosto",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/economia/la-faena-bovina-paraguay-cayo-17-mes-agosto-n111447"
+            },
+            {
+              "titular": "Carne: Brasil pierde Europa y Paraguay busca quedarse con una mayor tajada",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/economia/carne-brasil-pierde-europa-paraguay-busca-quedarse-una-mayor-tajada-n111445"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2023/08/f17cff1cdaba6f1107209726d212aaed.jpg"
         }
       ]
     },
@@ -11522,11 +11621,11 @@
       ]
     },
     "torneo-clausura-inicio": {
-      "titulo": "Cerro Porteño empata con Libertad en medio de tensión y polémica arbitral",
+      "titulo": "Nacional golea a Libertad en la octava fecha del Clausura",
       "categoria": "Deportes",
       "contexto": "El fútbol paraguayo se encuentra en pleno desarrollo del Torneo Clausura 2026, con los clubes grandes ajustando sus planteles y luchando por resultados semana a semana.",
       "first_seen": "2026-07-20",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-03",
       "updates": [
         {
           "date": "2026-07-20",
@@ -12529,6 +12628,18 @@
             }
           ],
           "imagen": "https://statics.elnacional.com.py/2026/08/6a95b0eb3a765.png"
+        },
+        {
+          "date": "2026-09-03",
+          "hoy": "Nacional venció 3-0 a Libertad en La Visera por la octava fecha del Torneo Clausura.",
+          "fuentes": [
+            {
+              "titular": "Nacional se impone en La Visera",
+              "medio": "APF",
+              "url": "https://www.apf.org.py/noticias/nacional-se-impone-en-la-visera"
+            }
+          ],
+          "imagen": "https://statics-maker.llt-services.com/apf/images/2026/09/02/large/d60a5a97-f9dc-47b1-bbe1-1f738abb05dc-442.jpeg"
         }
       ]
     },
@@ -22092,11 +22203,11 @@
       ]
     },
     "caso-corrupcion-ips": {
-      "titulo": "Más señalamientos sobre la licitación de limpieza del IPS",
+      "titulo": "El Senado conforma comisión investigadora sobre el IPS",
       "categoria": "Política",
       "contexto": "El IPS atraviesa una crisis financiera e institucional, con antecedentes de cuestionamientos sobre el manejo de sus fondos y licitaciones.",
       "first_seen": "2026-08-05",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-03",
       "updates": [
         {
           "date": "2026-08-05",
@@ -22289,6 +22400,18 @@
             }
           ],
           "imagen": ""
+        },
+        {
+          "date": "2026-09-03",
+          "hoy": "La Cámara de Senadores designó a seis legisladores para integrar una Comisión Especial que investigará presuntos hechos de corrupción en el IPS y el Ministerio de Salud Pública.",
+          "fuentes": [
+            {
+              "titular": "Senado integra comisión que investigará al IPS",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/politica/2026/09/03/senado-integra-comision-que-investigara-al-ips/"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/UDDSWNYSUNCI3M6EDX26X6XI24.jpeg?auth=05f62f4fb40e41fa8e8ac68e1efcb0ae5ed8e7283551004d1bea8ab9dbe01387&smart=true&width=1200&height=800"
         }
       ]
     },
@@ -23412,11 +23535,11 @@
       ]
     },
     "smart-city-paraguay-congreso": {
-      "titulo": "Un candidato a concejal propone reformar el transporte público de Asunción",
+      "titulo": "La falta de coordinación entre Asunción y Central multiplica problemas urbanos",
       "categoria": "Inmobiliario",
       "contexto": "El crecimiento urbano acelerado en Paraguay, especialmente en Asunción y su área metropolitana, plantea desafíos de planificación, movilidad y gestión ambiental que motivan espacios de debate especializado.",
       "first_seen": "2026-08-07",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-09-03",
       "updates": [
         {
           "date": "2026-08-07",
@@ -23453,6 +23576,18 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/OE2IC3Q2WRCGJCDQPGQUMSUU6Y.png?auth=54ee734e5a896c1198ac5a171a2980c911f14cf8b2668197c346b67b5fcb4ee3&smart=true&width=1200&height=800"
+        },
+        {
+          "date": "2026-09-03",
+          "hoy": "Un análisis advirtió que la falta de coordinación metropolitana entre Asunción y Central agrava los problemas de transporte público, gestión de residuos y ordenamiento territorial en la capital y su entorno.",
+          "fuentes": [
+            {
+              "titular": "Asunción y Central: una metrópolis dividida multiplica sus problemas",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/politica/ciudades-lt/2026/09/03/asuncion-y-central-una-metropolis-dividida-multiplica-sus-problemas/"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/ZXOZRJS64FBVPI4L3BW43D2STU.png?auth=4f06437dfacd823c86d9896179a9972af524f14d6a8a55eab4c4ce5201147557&smart=true&width=1200&height=800"
         }
       ]
     },
@@ -27896,11 +28031,11 @@
       ]
     },
     "huelga-medica-py": {
-      "titulo": "La huelga médica se agrava con más renuncias y presión política sobre Barán",
+      "titulo": "Reunión clave entre Gobierno y médicos podría destrabar la huelga",
       "categoria": "Política",
       "contexto": "El sistema de salud pública paraguayo arrastra reclamos recurrentes de sus trabajadores por salarios, insumos y sobrecarga; el gremio médico había advertido con una medida de fuerza ante la falta de respuesta del Gobierno, lo que derivó en una huelga sin acuerdo con el Ejecutivo.",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-03",
       "updates": [
         {
           "date": "2026-08-25",
@@ -28384,6 +28519,43 @@
             }
           ],
           "imagen": "https://statics.elnacional.com.py/2025/04/67f2e3990dc7a.jpg"
+        },
+        {
+          "date": "2026-09-03",
+          "hoy": "Peña rompió su silencio sobre la crisis sanitaria en redes sociales, lo que fue desmentido por el Sinamed, que asegura no haber recibido ninguna propuesta concreta; el PLRA exigió la destitución del ministro Barán; se realizó una reunión decisiva entre Salud y los gremios médicos para definir si se levanta la medida de fuerza, mientras la senadora Ovelar propuso revisar exenciones fiscales para financiar el reclamo salarial.",
+          "fuentes": [
+            {
+              "titular": "Peña rompió el silencio sobre la crisis sanitaria con un posteo en redes sociales - ultimahora.com",
+              "medio": "ultimahora.com",
+              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNVMzNnNxVXJIZHVGT056dDhhOFQwMU5lSDNXd0xRZjZaRC1Bakl1WHk2VHIzQUd0NldJVnFZQXVKbFFFT0tScFJ0VFdWUEZXMFIzeTlHNExRTGxYeXN4cGZvZTBrbTkyOW1SMWJnOWNUWlc4T0RLeUxUcEdSQkQyYnNUMl85aEtXUjQ0Z1JZMm1zUEZCbWxIMkJ1c0tqT0JsNWtTY1JOS243VkNl0gG6AUFVX3lxTFA4SXFxeU5HUy1vbDFRRGx6dmNaQW5rS3JKaENDLTBWVHo4dGdOSjZlTzFtSkc5QTMxYnlIZERiMzhLdXNpNmVzbHRiSVJhdmJNaThybVFka1c2S1pQWGoyRkV0dFlTRkI1b0tWUFJERzJyT19WRFpydTE0WHNSc0ZJcVhOdlEyOXA2WTN6SXVFTGNxS0NiLVB2RmNaMDJpb3dORzZmSXZVZ1FBUnhoX1hkaUlRenViRGNOUQ?oc=5"
+            },
+            {
+              "titular": "Sinamed desmiente a Peña: «A nosotros no nos entregaron nada concretamente, tengo todas las actas», sostiene Rossana González - Ñanduti",
+              "medio": "Ñanduti",
+              "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdlE3NVFGT2FrejNjVHNPTWM3ZTBVLUdpdGctZ1VLVk1XME1uTFNaVHdoSFdIUC0xeEl1bU5OYWtaNlBRTUI5a285WUNkQ2Nlak14TlNDU0hQaGpUOVd2dnUtaUJjMU9neEJ4d3ZJT3oyREo1ZDh1OWpUeXA4T1NOX0JPZnMxaVQ0cWY5UEJ6bFlZMW1xMnJfNzFPRjUtRmpka2Zoc094c2ZTR1FDYjZlMzdBUlBvY0ZwU0hVdDBpZW9CbXV5SFBwTm1vVVIzY0tUZi00Q0xtU29RNGt1ZDRHRA?oc=5"
+            },
+            {
+              "titular": "PLRA responsabiliza a Peña por crisis sanitaria y exige destitución de Barán - El Nacional - El diario de los lectores influyentes",
+              "medio": "El Nacional - El diario de los lectores influyentes",
+              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZTZCV3l1dGxieC1KMXZxR2xSRGJmSlY2WFFsSHRDNnpIeU80a3JSWXhTU1gwa25NRndpZE15ekZqVTc2bm90N2xmS0xfQXc2QU8zZ0FwZWVlczhVS3B2UzdGQm1xVGF1TUpQbW82d3piTXY3YXVEYjg2V1VfZHIyTDlocXBkbkdUeks3OVN1a2ZhY1JLMTVUWjRZRHFjQlE2WUhDZndzOVlhQ01n0gGyAUFVX3lxTE10Z3NQRHNUR2pIQVhHUjBHbEp5azJkeUdGTWxqWGFWMmNZQWdfaHFxUnZzMDRZdElrZllBMWZINEY5NGRxWEpoV0RLODl0cjluSmVjWHJYczBtOW9PQzl0NS1XbGhWVEU4N1pfR0w2d1FtNmdLSl81NVR2SzZWc3Q1NTJUa2J4SEh1WW8zejRLVldOeUg3Q2JXMTlob2Q0NmRjYkhqemJteE9yN2NHanF6OFE?oc=5"
+            },
+            {
+              "titular": "Médicos se reúnen con el Gobierno y hoy se definiría si levantan la medida de fuerza",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/lifestyle/2026/09/03/medicos-se-reunen-con-el-gobierno-y-hoy-se-definiria-si-levantan-la-medida-de-fuerza/"
+            },
+            {
+              "titular": "Reunión clave entre Salud y médicos define si habrá nueva huelga",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/politica/reunion-clave-salud-medicos-define-habra-nueva-huelga-n111473"
+            },
+            {
+              "titular": "Ovelar propone revisar exenciones fiscales para financiar reclamos de médicos",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/politica/ovelar-propone-revisar-exenciones-fiscales-financiar-reclamos-medicos-n111460"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/DUIM5ZC2PBH6FMDAFW6AU3NTKE.jpeg?auth=4cd3fba25482250c90e36ac66ab26c24dd91cd4417c9e8f28d7b0daf1b43b1d7&smart=true&width=1200&height=800"
         }
       ]
     },
@@ -29568,11 +29740,11 @@
       ]
     },
     "expo-madera-japon-construccion": {
-      "titulo": "Japón mostrará en la Expo Madera cómo construir una vivienda en un solo día",
+      "titulo": "Japón exhibirá en Paraguay cómo construir una casa de madera en un día",
       "categoria": "Inmobiliario",
       "contexto": "Paraguay atraviesa un boom de construcción y busca diversificar técnicas constructivas, mientras Japón mantiene una relación de cooperación técnica histórica con el país.",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-03",
       "updates": [
         {
           "date": "2026-08-30",
@@ -29602,6 +29774,18 @@
             }
           ],
           "imagen": "https://www.lanacion.com.py/resizer/v2/JL3R5TLTZ5FZZB4B3YZWZSFCCM.jfif?auth=93dcac66c69293cde06eb0d73db0c425aedf37df620e90cca1d04629c901c8f1&width=1200&height=630&smart=true"
+        },
+        {
+          "date": "2026-09-03",
+          "hoy": "Se confirmó que en la Expo Madera Japón realizará una demostración práctica de cómo levantar una vivienda de madera en apenas un día, como parte de la cooperación técnica bilateral.",
+          "fuentes": [
+            {
+              "titular": "Japón mostrará cómo armar casas de madera en un día - latribuna.com.py",
+              "medio": "latribuna.com.py",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdHpLemFXNklvUEZ2LWMydWh1WERGQzYzMU1SQ0ZNRloyVmlQQW8tWjJxNlNGNVlBUGZjRkt0X2FhUjZ0VEFTT3VhNHdCTmYtcUJUVHhNN2M3WDdVX3pJaFBZQ0N3WVZjRE5fVnptY3ZrZ0FRRUwzTkw5c0V5bFBSbTJvcWt2alNvSWw1MTJ0T2o4ajJ2cmJfdWFBa0ZpMXVpZ21XWFNoY09XREhuMFh5TQ?oc=5"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/3TFXMZC4ARFRBDJKA3N2D7N3EY.jpg?smart=true&auth=a8778a716a0fcb2dbb5574e88c7a46011bca8efc586494d09eed82ffd534a369&width=1200&height=630"
         }
       ]
     },
@@ -29691,11 +29875,11 @@
       ]
     },
     "pgn-2027-presupuesto": {
-      "titulo": "El Presupuesto 2027 aumenta fondos para salud sin resolver el conflicto con los médicos",
+      "titulo": "Analistas debaten las prioridades del Presupuesto 2027",
       "categoria": "Economía",
       "contexto": "Paraguay define anualmente su Presupuesto General de la Nación mediante un proceso de discusión entre el Ejecutivo y el Congreso, en medio de la crisis por la huelga médica y el debate por la carga tributaria del país.",
       "first_seen": "2026-09-01",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-03",
       "updates": [
         {
           "date": "2026-09-01",
@@ -29735,6 +29919,18 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/GMVFWQPJS5CLBIFDCZ7EZG43WU.JPG?auth=f9c23ab0fcf4ddc9f71c83ce7b8a13a203d0a77f1daa0378bdb1afa7fa4ed843&smart=true&width=1200&height=800"
+        },
+        {
+          "date": "2026-09-03",
+          "hoy": "El economista Daniel Correa analizó en una entrevista las principales áreas que concentrarán los recursos del proyecto de PGN 2027 presentado por el Ejecutivo.",
+          "fuentes": [
+            {
+              "titular": "Daniel Correa destaca prioridades del PGN 2027",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/negocios/economia/2026/09/03/daniel-correa-destaca-prioridades-del-pgn-2027/"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/Z6XOQS5RHNHU3K7NPPPXDKKJWE.jpeg?auth=1023edb8bb59562a17806942c03993f34247fe28b471311d97901d1973006538&smart=true&width=1200&height=800"
         }
       ]
     },
@@ -30076,6 +30272,137 @@
             }
           ],
           "imagen": "https://www.latribuna.com.py/resizer/v2/5PJMTBWORRH45C4ZRZGYPQ5FYM.jpg?auth=53593780656ef287d7712cb916333552d42e0a7049023e523a1b2c86a2497bb8&smart=true&width=1200&height=800"
+        }
+      ]
+    },
+    "paro-docentes-fep": {
+      "titulo": "La FEP mantiene el paro docente pese a la apertura a negociar",
+      "categoria": "Política",
+      "contexto": "El sector docente paraguayo, nucleado en la Federación de Educadores del Paraguay (FEP), reclama periódicamente mejoras salariales al Ministerio de Educación, en un contexto de tensión social por reclamos gremiales similar al protagonizado por el sector médico.",
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "updates": [
+        {
+          "date": "2026-09-03",
+          "hoy": "La FEP confirmó que sostiene la convocatoria a un paro nacional para fin de mes, aunque se muestra abierta a un aumento salarial por etapas si logra un acuerdo previo con el MEC.",
+          "fuentes": [
+            {
+              "titular": "Paro de docentes: la FEP mantiene la medida y busca acuerdo con el MEC",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/nacionales/2026/09/03/paro-de-docentes-la-fep-mantiene-la-medida-y-busca-acuerdo-con-el-mec/"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/SCA6S42KLFHZ7OB7YQZHARTGCQ.png?auth=b6da40750dad0cef60b9b56d3ac45d961d2694c9e67f98c0e7284b8880763372&smart=true&width=1200&height=800"
+        }
+      ]
+    },
+    "petroleo-precio-global": {
+      "titulo": "El petróleo sube por la tensión en Oriente Medio",
+      "categoria": "Economía",
+      "contexto": "Los precios internacionales del petróleo inciden directamente en el costo de los combustibles en Paraguay, un país totalmente dependiente de la importación de crudo y derivados.",
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "updates": [
+        {
+          "date": "2026-09-03",
+          "hoy": "El crudo WTI superó los USD 90 por barril tras un recrudecimiento de la guerra en Oriente Medio, lo que podría presionar al alza los precios de combustibles en el mercado local.",
+          "fuentes": [
+            {
+              "titular": "Mercados petroleros abren con subidas por recrudecimiento de la guerra en Oriente Medio",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/mundo/2026/09/03/mercados-petroleros-abren-con-subidas-por-recrudecimiento-de-la-guerra-en-oriente-medio/"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/JZSSVCVJBJHBHO6SUQ72FASJ5I.jpg?auth=16541cbea0aacdbec6214da2efae1f6dc755f7676aa947fc6c94d7f3b3987e5f&smart=true&width=1200&height=800"
+        }
+      ]
+    },
+    "narco-macho-canindeyu": {
+      "titulo": "Cae un exconcejal vinculado a la estructura narco de alias 'Macho'",
+      "categoria": "Otros",
+      "contexto": "La Senad viene desarticulando una estructura narco liderada por Felipe Santiago Acosta, alias 'Macho', con centro de operaciones en Canindeyú, en el marco de la lucha contra el crimen organizado en zonas de frontera.",
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "updates": [
+        {
+          "date": "2026-09-03",
+          "hoy": "Fue detenido un exconcejal colorado señalado como apoyo político de la organización, cuya vivienda habría funcionado como centro logístico y de acopio de marihuana.",
+          "fuentes": [
+            {
+              "titular": "Senad detiene a exconcejal supuesto apoyo político de alias Macho",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/sucesos/policiales/2026/09/03/senad-detiene-a-exconcejal-supuesto-apoyo-politico-de-alias-macho/"
+            },
+            {
+              "titular": "Capturan a exconcejal colorado vinculado a la estructura de \"Macho\"",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/politica/capturan-exconcejal-colorado-vinculado-estructura-macho-n111463"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/KUCBN7VZRJHMHJLXZVOQPULYQY.jpg?auth=888326e54af4605f3a5024db233f0879200dbecfebf6784fa6d6734bbcc308fd&smart=true&width=1200&height=800"
+        }
+      ]
+    },
+    "galarza-mls-fichaje": {
+      "titulo": "Matías Galarza ficha por la MLS y será compañero de Messi",
+      "categoria": "Deportes",
+      "contexto": "Los jugadores de la selección paraguaya vienen despertando interés en ligas internacionales tras el buen desempeño reciente del combinado nacional en el Mundial 2026.",
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "updates": [
+        {
+          "date": "2026-09-03",
+          "hoy": "Se confirmó el fichaje del volante albirrojo Matías Galarza por la Major League Soccer (MLS), donde compartirá liga con Lionel Messi.",
+          "fuentes": [
+            {
+              "titular": "¡Fumata blanca! Galarza retorna a la MLS y será colega de Messi",
+              "medio": "La Tribuna",
+              "url": "https://www.latribuna.com.py/deportes/2026/09/03/fumata-blanca-galarza-retorna-a-la-mls-y-sera-colega-de-messi/"
+            }
+          ],
+          "imagen": "https://www.latribuna.com.py/resizer/v2/CSPL4SFIZBECBPNI3OYIUKLOQI.jpg?auth=aa0f6cd3c1c623f7ec0ace67f3aa944fc8287e6f2045735eeebd85ee099ef424&smart=true&width=1200&height=800"
+        }
+      ]
+    },
+    "caso-maristela-azuaga": {
+      "titulo": "Exdirectora de Agricultura cumplirá su condena en arresto domiciliario",
+      "categoria": "Regulación",
+      "contexto": "Maristela Azuaga, exdirectora del Ministerio de Agricultura, fue condenada a 10 años de cárcel por estafa y lesión de confianza en una causa que investigó un perjuicio de casi G. 69.000 millones a esa cartera.",
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "updates": [
+        {
+          "date": "2026-09-03",
+          "hoy": "Un Tribunal de Apelación ordenó que Azuaga cumpla su condena en arresto domiciliario, al considerar que su delicado estado de salud requiere atención especializada.",
+          "fuentes": [
+            {
+              "titular": "Tribunal ordena que exdirectora del Ministerio de Agricultura cumpla su condena en su casa",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/politica/tribunal-ordena-exdirectora-ministerio-agricultura-cumpla-su-condena-su-casa-n111468"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2026/07/6a5a2d1f1148a.jpg"
+        }
+      ]
+    },
+    "empresas-eas-crecimiento": {
+      "titulo": "Las Empresas por Acciones Simplificadas siguen en expansión",
+      "categoria": "Economía",
+      "contexto": "El régimen de Empresas por Acciones Simplificadas (EAS) es una figura societaria simplificada que Paraguay promueve para facilitar la formalización de emprendimientos e inversión, tanto local como extranjera.",
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "updates": [
+        {
+          "date": "2026-09-03",
+          "hoy": "Entre enero y julio de 2026 se constituyeron 5.926 EAS, acumulando un capital de inversión de USD 384 millones, del cual el 85% correspondió a capital nacional y el 15% a inversión extranjera.",
+          "fuentes": [
+            {
+              "titular": "De enero a julio de 2026 fueron constituidas 5.926 Empresas por Acciones Simplificadas",
+              "medio": "El Nacional",
+              "url": "https://elnacional.com.py/economia/de-enero-julio-2026-fueron-constituidas-5926-empresas-acciones-simplificadas-n111433"
+            }
+          ],
+          "imagen": "https://statics.elnacional.com.py/2024/12/aae9e92f9a076fadd960a6646b4d915a.jpg"
         }
       ]
     }
